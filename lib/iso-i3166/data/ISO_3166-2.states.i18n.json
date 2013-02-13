@@ -1,0 +1,4056 @@
+{
+  "AD": { "en": "Canillo" }
+  "AD": { "en": "Encamp" }
+  "AD": { "en": "La Massana" }
+  "AD": { "en": "Ordino" }
+  "AD": { "en": "Sant Julia de Loria" }
+  "AD": { "en": "Andorra la Vella" }
+  "AD": { "en": "Escaldes-Engordany" }
+  "AE": { "en": "Abu Dhabi" }
+  "AE": { "en": "Ajman" }
+  "AE": { "en": "Dubai" }
+  "AE": { "en": "Fujairah" }
+  "AE": { "en": "Ras Al Khaimah" }
+  "AE": { "en": "Sharjah" }
+  "AE": { "en": "Umm Al Quwain" }
+  "AF": { "en": "Badakhshan" }
+  "AF": { "en": "Badghis" }
+  "AF": { "en": "Baghlan" }
+  "AF": { "en": "Bamian" }
+  "AF": { "en": "Farah" }
+  "AF": { "en": "Faryab" }
+  "AF": { "en": "Ghazni" }
+  "AF": { "en": "Ghowr" }
+  "AF": { "en": "Helmand" }
+  "AF": { "en": "Herat" }
+  "AF": { "en": "Kabol" }
+  "AF": { "en": "Kapisa" }
+  "AF": { "en": "Lowgar" }
+  "AF": { "en": "Nangarhar" }
+  "AF": { "en": "Nimruz" }
+  "AF": { "en": "Kandahar" }
+  "AF": { "en": "Kondoz" }
+  "AF": { "en": "Takhar" }
+  "AF": { "en": "Vardak" }
+  "AF": { "en": "Zabol" }
+  "AF": { "en": "Paktika" }
+  "AF": { "en": "Balkh" }
+  "AF": { "en": "Jowzjan" }
+  "AF": { "en": "Samangan" }
+  "AF": { "en": "Sar-e Pol" }
+  "AF": { "en": "Konar" }
+  "AF": { "en": "Laghman" }
+  "AF": { "en": "Paktia" }
+  "AF": { "en": "Khowst" }
+  "AF": { "en": "Nurestan" }
+  "AF": { "en": "Oruzgan" }
+  "AF": { "en": "Parvan" }
+  "AF": { "en": "Daykondi" }
+  "AF": { "en": "Panjshir" }
+  "AG": { "en": "Barbuda" }
+  "AG": { "en": "Saint George" }
+  "AG": { "en": "Saint John" }
+  "AG": { "en": "Saint Mary" }
+  "AG": { "en": "Saint Paul" }
+  "AG": { "en": "Saint Peter" }
+  "AG": { "en": "Saint Philip" }
+  "AG": { "en": "Redonda" }
+  "AL": { "en": "Berat" }
+  "AL": { "en": "Diber" }
+  "AL": { "en": "Durres" }
+  "AL": { "en": "Elbasan" }
+  "AL": { "en": "Fier" }
+  "AL": { "en": "Gjirokaster" }
+  "AL": { "en": "Korce" }
+  "AL": { "en": "Kukes" }
+  "AL": { "en": "Lezhe" }
+  "AL": { "en": "Shkoder" }
+  "AL": { "en": "Tirane" }
+  "AL": { "en": "Vlore" }
+  "AM": { "en": "Aragatsotn" }
+  "AM": { "en": "Ararat" }
+  "AM": { "en": "Armavir" }
+  "AM": { "en": "Geghark'unik'" }
+  "AM": { "en": "Kotayk'" }
+  "AM": { "en": "Lorri" }
+  "AM": { "en": "Shirak" }
+  "AM": { "en": "Syunik'" }
+  "AM": { "en": "Tavush" }
+  "AM": { "en": "Vayots' Dzor" }
+  "AM": { "en": "Yerevan" }
+  "AO": { "en": "Benguela" }
+  "AO": { "en": "Bie" }
+  "AO": { "en": "Cabinda" }
+  "AO": { "en": "Cuando Cubango" }
+  "AO": { "en": "Cuanza Norte" }
+  "AO": { "en": "Cuanza Sul" }
+  "AO": { "en": "Cunene" }
+  "AO": { "en": "Huambo" }
+  "AO": { "en": "Huila" }
+  "AO": { "en": "Malanje" }
+  "AO": { "en": "Namibe" }
+  "AO": { "en": "Moxico" }
+  "AO": { "en": "Uige" }
+  "AO": { "en": "Zaire" }
+  "AO": { "en": "Lunda Norte" }
+  "AO": { "en": "Lunda Sul" }
+  "AO": { "en": "Bengo" }
+  "AO": { "en": "Luanda" }
+  "AR": { "en": "Buenos Aires" }
+  "AR": { "en": "Catamarca" }
+  "AR": { "en": "Chaco" }
+  "AR": { "en": "Chubut" }
+  "AR": { "en": "Cordoba" }
+  "AR": { "en": "Corrientes" }
+  "AR": { "en": "Distrito Federal" }
+  "AR": { "en": "Entre Rios" }
+  "AR": { "en": "Formosa" }
+  "AR": { "en": "Jujuy" }
+  "AR": { "en": "La Pampa" }
+  "AR": { "en": "La Rioja" }
+  "AR": { "en": "Mendoza" }
+  "AR": { "en": "Misiones" }
+  "AR": { "en": "Neuquen" }
+  "AR": { "en": "Rio Negro" }
+  "AR": { "en": "Salta" }
+  "AR": { "en": "San Juan" }
+  "AR": { "en": "San Luis" }
+  "AR": { "en": "Santa Cruz" }
+  "AR": { "en": "Santa Fe" }
+  "AR": { "en": "Santiago del Estero" }
+  "AR": { "en": "Tierra del Fuego" }
+  "AR": { "en": "Tucuman" }
+  "AT": { "en": "Burgenland" }
+  "AT": { "en": "Karnten" }
+  "AT": { "en": "Niederosterreich" }
+  "AT": { "en": "Oberosterreich" }
+  "AT": { "en": "Salzburg" }
+  "AT": { "en": "Steiermark" }
+  "AT": { "en": "Tirol" }
+  "AT": { "en": "Vorarlberg" }
+  "AT": { "en": "Wien" }
+  "AU": { "en": "Australian Capital Territory" }
+  "AU": { "en": "New South Wales" }
+  "AU": { "en": "Northern Territory" }
+  "AU": { "en": "Queensland" }
+  "AU": { "en": "South Australia" }
+  "AU": { "en": "Tasmania" }
+  "AU": { "en": "Victoria" }
+  "AU": { "en": "Western Australia" }
+  "AZ": { "en": "Abseron" }
+  "AZ": { "en": "Agcabadi" }
+  "AZ": { "en": "Agdam" }
+  "AZ": { "en": "Agdas" }
+  "AZ": { "en": "Agstafa" }
+  "AZ": { "en": "Agsu" }
+  "AZ": { "en": "Ali Bayramli" }
+  "AZ": { "en": "Astara" }
+  "AZ": { "en": "Baki" }
+  "AZ": { "en": "Balakan" }
+  "AZ": { "en": "Barda" }
+  "AZ": { "en": "Beylaqan" }
+  "AZ": { "en": "Bilasuvar" }
+  "AZ": { "en": "Cabrayil" }
+  "AZ": { "en": "Calilabad" }
+  "AZ": { "en": "Daskasan" }
+  "AZ": { "en": "Davaci" }
+  "AZ": { "en": "Fuzuli" }
+  "AZ": { "en": "Gadabay" }
+  "AZ": { "en": "Ganca" }
+  "AZ": { "en": "Goranboy" }
+  "AZ": { "en": "Goycay" }
+  "AZ": { "en": "Haciqabul" }
+  "AZ": { "en": "Imisli" }
+  "AZ": { "en": "Ismayilli" }
+  "AZ": { "en": "Kalbacar" }
+  "AZ": { "en": "Kurdamir" }
+  "AZ": { "en": "Lacin" }
+  "AZ": { "en": "Lankaran" }
+  "AZ": { "en": "Lankaran" }
+  "AZ": { "en": "Lerik" }
+  "AZ": { "en": "Masalli" }
+  "AZ": { "en": "Mingacevir" }
+  "AZ": { "en": "Naftalan" }
+  "AZ": { "en": "Naxcivan" }
+  "AZ": { "en": "Neftcala" }
+  "AZ": { "en": "Oguz" }
+  "AZ": { "en": "Qabala" }
+  "AZ": { "en": "Qax" }
+  "AZ": { "en": "Qazax" }
+  "AZ": { "en": "Qobustan" }
+  "AZ": { "en": "Quba" }
+  "AZ": { "en": "Qubadli" }
+  "AZ": { "en": "Qusar" }
+  "AZ": { "en": "Saatli" }
+  "AZ": { "en": "Sabirabad" }
+  "AZ": { "en": "Saki" }
+  "AZ": { "en": "Saki" }
+  "AZ": { "en": "Salyan" }
+  "AZ": { "en": "Samaxi" }
+  "AZ": { "en": "Samkir" }
+  "AZ": { "en": "Samux" }
+  "AZ": { "en": "Siyazan" }
+  "AZ": { "en": "Sumqayit" }
+  "AZ": { "en": "Susa" }
+  "AZ": { "en": "Susa" }
+  "AZ": { "en": "Tartar" }
+  "AZ": { "en": "Tovuz" }
+  "AZ": { "en": "Ucar" }
+  "AZ": { "en": "Xacmaz" }
+  "AZ": { "en": "Xankandi" }
+  "AZ": { "en": "Xanlar" }
+  "AZ": { "en": "Xizi" }
+  "AZ": { "en": "Xocali" }
+  "AZ": { "en": "Xocavand" }
+  "AZ": { "en": "Yardimli" }
+  "AZ": { "en": "Yevlax" }
+  "AZ": { "en": "Yevlax" }
+  "AZ": { "en": "Zangilan" }
+  "AZ": { "en": "Zaqatala" }
+  "AZ": { "en": "Zardab" }
+  "BA": { "en": "Federation of Bosnia and Herzegovina" }
+  "BA": { "en": "Republika Srpska" }
+  "BB": { "en": "Christ Church" }
+  "BB": { "en": "Saint Andrew" }
+  "BB": { "en": "Saint George" }
+  "BB": { "en": "Saint James" }
+  "BB": { "en": "Saint John" }
+  "BB": { "en": "Saint Joseph" }
+  "BB": { "en": "Saint Lucy" }
+  "BB": { "en": "Saint Michael" }
+  "BB": { "en": "Saint Peter" }
+  "BB": { "en": "Saint Philip" }
+  "BB": { "en": "Saint Thomas" }
+  "BD": { "en": "Dhaka" }
+  "BD": { "en": "Khulna" }
+  "BD": { "en": "Rajshahi" }
+  "BD": { "en": "Chittagong" }
+  "BD": { "en": "Barisal" }
+  "BD": { "en": "Sylhet" }
+  "BE": { "en": "Antwerpen" }
+  "BE": { "en": "Hainaut" }
+  "BE": { "en": "Liege" }
+  "BE": { "en": "Limburg" }
+  "BE": { "en": "Luxembourg" }
+  "BE": { "en": "Namur" }
+  "BE": { "en": "Oost-Vlaanderen" }
+  "BE": { "en": "West-Vlaanderen" }
+  "BE": { "en": "Brabant Wallon" }
+  "BE": { "en": "Brussels Hoofdstedelijk Gewest" }
+  "BE": { "en": "Vlaams-Brabant" }
+  "BE": { "en": "Flanders" }
+  "BE": { "en": "Wallonia" }
+  "BF": { "en": "Bam" }
+  "BF": { "en": "Boulkiemde" }
+  "BF": { "en": "Ganzourgou" }
+  "BF": { "en": "Gnagna" }
+  "BF": { "en": "Kouritenga" }
+  "BF": { "en": "Oudalan" }
+  "BF": { "en": "Passore" }
+  "BF": { "en": "Sanguie" }
+  "BF": { "en": "Soum" }
+  "BF": { "en": "Tapoa" }
+  "BF": { "en": "Zoundweogo" }
+  "BF": { "en": "Bale" }
+  "BF": { "en": "Banwa" }
+  "BF": { "en": "Bazega" }
+  "BF": { "en": "Bougouriba" }
+  "BF": { "en": "Boulgou" }
+  "BF": { "en": "Gourma" }
+  "BF": { "en": "Houet" }
+  "BF": { "en": "Ioba" }
+  "BF": { "en": "Kadiogo" }
+  "BF": { "en": "Kenedougou" }
+  "BF": { "en": "Komoe" }
+  "BF": { "en": "Komondjari" }
+  "BF": { "en": "Kompienga" }
+  "BF": { "en": "Kossi" }
+  "BF": { "en": "Koulpelogo" }
+  "BF": { "en": "Kourweogo" }
+  "BF": { "en": "Leraba" }
+  "BF": { "en": "Loroum" }
+  "BF": { "en": "Mouhoun" }
+  "BF": { "en": "Namentenga" }
+  "BF": { "en": "Naouri" }
+  "BF": { "en": "Nayala" }
+  "BF": { "en": "Noumbiel" }
+  "BF": { "en": "Oubritenga" }
+  "BF": { "en": "Poni" }
+  "BF": { "en": "Sanmatenga" }
+  "BF": { "en": "Seno" }
+  "BF": { "en": "Sissili" }
+  "BF": { "en": "Sourou" }
+  "BF": { "en": "Tuy" }
+  "BF": { "en": "Yagha" }
+  "BF": { "en": "Yatenga" }
+  "BF": { "en": "Ziro" }
+  "BF": { "en": "Zondoma" }
+  "BG": { "en": "Mikhaylovgrad" }
+  "BG": { "en": "Blagoevgrad" }
+  "BG": { "en": "Burgas" }
+  "BG": { "en": "Dobrich" }
+  "BG": { "en": "Gabrovo" }
+  "BG": { "en": "Grad Sofiya" }
+  "BG": { "en": "Khaskovo" }
+  "BG": { "en": "Kurdzhali" }
+  "BG": { "en": "Kyustendil" }
+  "BG": { "en": "Lovech" }
+  "BG": { "en": "Montana" }
+  "BG": { "en": "Pazardzhik" }
+  "BG": { "en": "Pernik" }
+  "BG": { "en": "Pleven" }
+  "BG": { "en": "Plovdiv" }
+  "BG": { "en": "Razgrad" }
+  "BG": { "en": "Ruse" }
+  "BG": { "en": "Shumen" }
+  "BG": { "en": "Silistra" }
+  "BG": { "en": "Sliven" }
+  "BG": { "en": "Smolyan" }
+  "BG": { "en": "Sofiya" }
+  "BG": { "en": "Stara Zagora" }
+  "BG": { "en": "Turgovishte" }
+  "BG": { "en": "Varna" }
+  "BG": { "en": "Veliko Turnovo" }
+  "BG": { "en": "Vidin" }
+  "BG": { "en": "Vratsa" }
+  "BG": { "en": "Yambol" }
+  "BH": { "en": "Al Hadd" }
+  "BH": { "en": "Al Manamah" }
+  "BH": { "en": "Jidd Hafs" }
+  "BH": { "en": "Sitrah" }
+  "BH": { "en": "Al Mintaqah al Gharbiyah" }
+  "BH": { "en": "Mintaqat Juzur Hawar" }
+  "BH": { "en": "Al Mintaqah ash Shamaliyah" }
+  "BH": { "en": "Al Mintaqah al Wusta" }
+  "BH": { "en": "Madinat" }
+  "BH": { "en": "Ar Rifa" }
+  "BH": { "en": "Madinat Hamad" }
+  "BH": { "en": "Al Muharraq" }
+  "BH": { "en": "Al Asimah" }
+  "BH": { "en": "Al Janubiyah" }
+  "BH": { "en": "Ash Shamaliyah" }
+  "BH": { "en": "Al Wusta" }
+  "BI": { "en": "Bujumbura" }
+  "BI": { "en": "Bubanza" }
+  "BI": { "en": "Bururi" }
+  "BI": { "en": "Cankuzo" }
+  "BI": { "en": "Cibitoke" }
+  "BI": { "en": "Gitega" }
+  "BI": { "en": "Karuzi" }
+  "BI": { "en": "Kayanza" }
+  "BI": { "en": "Kirundo" }
+  "BI": { "en": "Makamba" }
+  "BI": { "en": "Muyinga" }
+  "BI": { "en": "Ngozi" }
+  "BI": { "en": "Rutana" }
+  "BI": { "en": "Ruyigi" }
+  "BI": { "en": "Muramvya" }
+  "BI": { "en": "Mwaro" }
+  "BJ": { "en": "Alibori" }
+  "BJ": { "en": "Atakora" }
+  "BJ": { "en": "Atlanyique" }
+  "BJ": { "en": "Borgou" }
+  "BJ": { "en": "Collines" }
+  "BJ": { "en": "Kouffo" }
+  "BJ": { "en": "Donga" }
+  "BJ": { "en": "Littoral" }
+  "BJ": { "en": "Mono" }
+  "BJ": { "en": "Oueme" }
+  "BJ": { "en": "Plateau" }
+  "BJ": { "en": "Zou" }
+  "BM": { "en": "Devonshire" }
+  "BM": { "en": "Hamilton" }
+  "BM": { "en": "Hamilton" }
+  "BM": { "en": "Paget" }
+  "BM": { "en": "Pembroke" }
+  "BM": { "en": "Saint George" }
+  "BM": { "en": "Saint George's" }
+  "BM": { "en": "Sandys" }
+  "BM": { "en": "Smiths" }
+  "BM": { "en": "Southampton" }
+  "BM": { "en": "Warwick" }
+  "BN": { "en": "Alibori" }
+  "BN": { "en": "Belait" }
+  "BN": { "en": "Brunei and Muara" }
+  "BN": { "en": "Temburong" }
+  "BN": { "en": "Collines" }
+  "BN": { "en": "Kouffo" }
+  "BN": { "en": "Donga" }
+  "BN": { "en": "Littoral" }
+  "BN": { "en": "Tutong" }
+  "BN": { "en": "Oueme" }
+  "BN": { "en": "Plateau" }
+  "BN": { "en": "Zou" }
+  "BO": { "en": "Chuquisaca" }
+  "BO": { "en": "Cochabamba" }
+  "BO": { "en": "El Beni" }
+  "BO": { "en": "La Paz" }
+  "BO": { "en": "Oruro" }
+  "BO": { "en": "Pando" }
+  "BO": { "en": "Potosi" }
+  "BO": { "en": "Santa Cruz" }
+  "BO": { "en": "Tarija" }
+  "BR": { "en": "Acre" }
+  "BR": { "en": "Alagoas" }
+  "BR": { "en": "Amapa" }
+  "BR": { "en": "Amazonas" }
+  "BR": { "en": "Bahia" }
+  "BR": { "en": "Ceara" }
+  "BR": { "en": "Distrito Federal" }
+  "BR": { "en": "Espirito Santo" }
+  "BR": { "en": "Mato Grosso do Sul" }
+  "BR": { "en": "Maranhao" }
+  "BR": { "en": "Mato Grosso" }
+  "BR": { "en": "Minas Gerais" }
+  "BR": { "en": "Para" }
+  "BR": { "en": "Paraiba" }
+  "BR": { "en": "Parana" }
+  "BR": { "en": "Piaui" }
+  "BR": { "en": "Rio de Janeiro" }
+  "BR": { "en": "Rio Grande do Norte" }
+  "BR": { "en": "Rio Grande do Sul" }
+  "BR": { "en": "Rondonia" }
+  "BR": { "en": "Roraima" }
+  "BR": { "en": "Santa Catarina" }
+  "BR": { "en": "Sao Paulo" }
+  "BR": { "en": "Sergipe" }
+  "BR": { "en": "Goias" }
+  "BR": { "en": "Pernambuco" }
+  "BR": { "en": "Tocantins" }
+  "BS": { "en": "Bimini" }
+  "BS": { "en": "Cat Island" }
+  "BS": { "en": "Exuma" }
+  "BS": { "en": "Inagua" }
+  "BS": { "en": "Long Island" }
+  "BS": { "en": "Mayaguana" }
+  "BS": { "en": "Ragged Island" }
+  "BS": { "en": "Harbour Island" }
+  "BS": { "en": "New Providence" }
+  "BS": { "en": "Acklins and Crooked Islands" }
+  "BS": { "en": "Freeport" }
+  "BS": { "en": "Fresh Creek" }
+  "BS": { "en": "Governor's Harbour" }
+  "BS": { "en": "Green Turtle Cay" }
+  "BS": { "en": "High Rock" }
+  "BS": { "en": "Kemps Bay" }
+  "BS": { "en": "Marsh Harbour" }
+  "BS": { "en": "Nichollstown and Berry Islands" }
+  "BS": { "en": "Rock Sound" }
+  "BS": { "en": "Sandy Point" }
+  "BS": { "en": "San Salvador and Rum Cay" }
+  "BT": { "en": "Bumthang" }
+  "BT": { "en": "Chhukha" }
+  "BT": { "en": "Chirang" }
+  "BT": { "en": "Daga" }
+  "BT": { "en": "Geylegphug" }
+  "BT": { "en": "Ha" }
+  "BT": { "en": "Lhuntshi" }
+  "BT": { "en": "Mongar" }
+  "BT": { "en": "Paro" }
+  "BT": { "en": "Pemagatsel" }
+  "BT": { "en": "Punakha" }
+  "BT": { "en": "Samchi" }
+  "BT": { "en": "Samdrup" }
+  "BT": { "en": "Shemgang" }
+  "BT": { "en": "Tashigang" }
+  "BT": { "en": "Thimphu" }
+  "BT": { "en": "Tongsa" }
+  "BT": { "en": "Wangdi Phodrang" }
+  "BW": { "en": "Central" }
+  "BW": { "en": "Ghanzi" }
+  "BW": { "en": "Kgalagadi" }
+  "BW": { "en": "Kgatleng" }
+  "BW": { "en": "Kweneng" }
+  "BW": { "en": "North-East" }
+  "BW": { "en": "South-East" }
+  "BW": { "en": "Southern" }
+  "BW": { "en": "North-West" }
+  "BY": { "en": "Brestskaya Voblasts'" }
+  "BY": { "en": "Homyel'skaya Voblasts'" }
+  "BY": { "en": "Hrodzyenskaya Voblasts'" }
+  "BY": { "en": "Minsk" }
+  "BY": { "en": "Minskaya Voblasts'" }
+  "BY": { "en": "Mahilyowskaya Voblasts'" }
+  "BY": { "en": "Vitsyebskaya Voblasts'" }
+  "BZ": { "en": "Belize" }
+  "BZ": { "en": "Cayo" }
+  "BZ": { "en": "Corozal" }
+  "BZ": { "en": "Orange Walk" }
+  "BZ": { "en": "Stann Creek" }
+  "BZ": { "en": "Toledo" }
+  "CA": { "en": "Alberta" }
+  "CA": { "en": "British Columbia" }
+  "CA": { "en": "Manitoba" }
+  "CA": { "en": "New Brunswick" }
+  "CA": { "en": "Newfoundland" }
+  "CA": { "en": "Nova Scotia" }
+  "CA": { "en": "Northwest Territories" }
+  "CA": { "en": "Nunavut" }
+  "CA": { "en": "Ontario" }
+  "CA": { "en": "Prince Edward Island" }
+  "CA": { "en": "Quebec" }
+  "CA": { "en": "Saskatchewan" }
+  "CA": { "en": "Yukon Territory" }
+  "CD": { "en": "Bandundu" }
+  "CD": { "en": "Equateur" }
+  "CD": { "en": "Kasai-Oriental" }
+  "CD": { "en": "Katanga" }
+  "CD": { "en": "Kinshasa" }
+  "CD": { "en": "Bas-Congo" }
+  "CD": { "en": "Orientale" }
+  "CD": { "en": "Maniema" }
+  "CD": { "en": "Nord-Kivu" }
+  "CD": { "en": "Sud-Kivu" }
+  "CF": { "en": "Bamingui-Bangoran" }
+  "CF": { "en": "Basse-Kotto" }
+  "CF": { "en": "Haute-Kotto" }
+  "CF": { "en": "Mambere-Kadei" }
+  "CF": { "en": "Haut-Mbomou" }
+  "CF": { "en": "Kemo" }
+  "CF": { "en": "Lobaye" }
+  "CF": { "en": "Mbomou" }
+  "CF": { "en": "Nana-Mambere" }
+  "CF": { "en": "Ouaka" }
+  "CF": { "en": "Ouham" }
+  "CF": { "en": "Ouham-Pende" }
+  "CF": { "en": "Cuvette-Ouest" }
+  "CF": { "en": "Nana-Grebizi" }
+  "CF": { "en": "Sangha-Mbaere" }
+  "CF": { "en": "Ombella-Mpoko" }
+  "CF": { "en": "Bangui" }
+  "CG": { "en": "Bouenza" }
+  "CG": { "en": "Kouilou" }
+  "CG": { "en": "Lekoumou" }
+  "CG": { "en": "Likouala" }
+  "CG": { "en": "Niari" }
+  "CG": { "en": "Plateaux" }
+  "CG": { "en": "Sangha" }
+  "CG": { "en": "Pool" }
+  "CG": { "en": "Brazzaville" }
+  "CG": { "en": "Cuvette" }
+  "CG": { "en": "Cuvette-Ouest" }
+  "CH": { "en": "Aargau" }
+  "CH": { "en": "Ausser-Rhoden" }
+  "CH": { "en": "Basel-Landschaft" }
+  "CH": { "en": "Basel-Stadt" }
+  "CH": { "en": "Bern" }
+  "CH": { "en": "Fribourg" }
+  "CH": { "en": "Geneve" }
+  "CH": { "en": "Glarus" }
+  "CH": { "en": "Graubunden" }
+  "CH": { "en": "Inner-Rhoden" }
+  "CH": { "en": "Luzern" }
+  "CH": { "en": "Neuchatel" }
+  "CH": { "en": "Nidwalden" }
+  "CH": { "en": "Obwalden" }
+  "CH": { "en": "Sankt Gallen" }
+  "CH": { "en": "Schaffhausen" }
+  "CH": { "en": "Schwyz" }
+  "CH": { "en": "Solothurn" }
+  "CH": { "en": "Thurgau" }
+  "CH": { "en": "Ticino" }
+  "CH": { "en": "Uri" }
+  "CH": { "en": "Valais" }
+  "CH": { "en": "Vaud" }
+  "CH": { "en": "Zug" }
+  "CH": { "en": "Zurich" }
+  "CH": { "en": "Jura" }
+  "CI": { "en": "Agneby" }
+  "CI": { "en": "Bafing" }
+  "CI": { "en": "Bas-Sassandra" }
+  "CI": { "en": "Denguele" }
+  "CI": { "en": "Dix-Huit Montagnes" }
+  "CI": { "en": "Fromager" }
+  "CI": { "en": "Haut-Sassandra" }
+  "CI": { "en": "Lacs" }
+  "CI": { "en": "Lagunes" }
+  "CI": { "en": "Marahoue" }
+  "CI": { "en": "Moyen-Cavally" }
+  "CI": { "en": "Moyen-Comoe" }
+  "CI": { "en": "N'zi-Comoe" }
+  "CI": { "en": "Savanes" }
+  "CI": { "en": "Sud-Bandama" }
+  "CI": { "en": "Sud-Comoe" }
+  "CI": { "en": "Vallee du Bandama" }
+  "CI": { "en": "Worodougou" }
+  "CI": { "en": "Zanzan" }
+  "CL": { "en": "Valparaiso" }
+  "CL": { "en": "Aisen del General Carlos Ibanez del Campo" }
+  "CL": { "en": "Antofagasta" }
+  "CL": { "en": "Araucania" }
+  "CL": { "en": "Atacama" }
+  "CL": { "en": "Bio-Bio" }
+  "CL": { "en": "Coquimbo" }
+  "CL": { "en": "Libertador General Bernardo O'Higgins" }
+  "CL": { "en": "Los Lagos" }
+  "CL": { "en": "Magallanes y de la Antartica Chilena" }
+  "CL": { "en": "Maule" }
+  "CL": { "en": "Region Metropolitana" }
+  "CL": { "en": "Tarapaca" }
+  "CL": { "en": "Los Lagos" }
+  "CL": { "en": "Tarapaca" }
+  "CL": { "en": "Arica y Parinacota" }
+  "CL": { "en": "Los Rios" }
+  "CM": { "en": "Est" }
+  "CM": { "en": "Littoral" }
+  "CM": { "en": "Nord-Ouest" }
+  "CM": { "en": "Ouest" }
+  "CM": { "en": "Sud-Ouest" }
+  "CM": { "en": "Adamaoua" }
+  "CM": { "en": "Centre" }
+  "CM": { "en": "Extreme-Nord" }
+  "CM": { "en": "Nord" }
+  "CM": { "en": "Sud" }
+  "CN": { "en": "Anhui" }
+  "CN": { "en": "Zhejiang" }
+  "CN": { "en": "Jiangxi" }
+  "CN": { "en": "Jiangsu" }
+  "CN": { "en": "Jilin" }
+  "CN": { "en": "Qinghai" }
+  "CN": { "en": "Fujian" }
+  "CN": { "en": "Heilongjiang" }
+  "CN": { "en": "Henan" }
+  "CN": { "en": "Hebei" }
+  "CN": { "en": "Hunan" }
+  "CN": { "en": "Hubei" }
+  "CN": { "en": "Xinjiang" }
+  "CN": { "en": "Xizang" }
+  "CN": { "en": "Gansu" }
+  "CN": { "en": "Guangxi" }
+  "CN": { "en": "Guizhou" }
+  "CN": { "en": "Liaoning" }
+  "CN": { "en": "Nei Mongol" }
+  "CN": { "en": "Ningxia" }
+  "CN": { "en": "Beijing" }
+  "CN": { "en": "Shanghai" }
+  "CN": { "en": "Shanxi" }
+  "CN": { "en": "Shandong" }
+  "CN": { "en": "Shaanxi" }
+  "CN": { "en": "Tianjin" }
+  "CN": { "en": "Yunnan" }
+  "CN": { "en": "Guangdong" }
+  "CN": { "en": "Hainan" }
+  "CN": { "en": "Sichuan" }
+  "CN": { "en": "Chongqing" }
+  "CO": { "en": "Amazonas" }
+  "CO": { "en": "Antioquia" }
+  "CO": { "en": "Arauca" }
+  "CO": { "en": "Atlantico" }
+  "CO": { "en": "Caqueta" }
+  "CO": { "en": "Cauca" }
+  "CO": { "en": "Cesar" }
+  "CO": { "en": "Choco" }
+  "CO": { "en": "Cordoba" }
+  "CO": { "en": "Guaviare" }
+  "CO": { "en": "Guainia" }
+  "CO": { "en": "Huila" }
+  "CO": { "en": "La Guajira" }
+  "CO": { "en": "Meta" }
+  "CO": { "en": "Narino" }
+  "CO": { "en": "Norte de Santander" }
+  "CO": { "en": "Putumayo" }
+  "CO": { "en": "Quindio" }
+  "CO": { "en": "Risaralda" }
+  "CO": { "en": "San Andres y Providencia" }
+  "CO": { "en": "Santander" }
+  "CO": { "en": "Sucre" }
+  "CO": { "en": "Tolima" }
+  "CO": { "en": "Valle del Cauca" }
+  "CO": { "en": "Vaupes" }
+  "CO": { "en": "Vichada" }
+  "CO": { "en": "Casanare" }
+  "CO": { "en": "Cundinamarca" }
+  "CO": { "en": "Distrito Especial" }
+  "CO": { "en": "Bolivar" }
+  "CO": { "en": "Boyaca" }
+  "CO": { "en": "Caldas" }
+  "CO": { "en": "Magdalena" }
+  "CR": { "en": "Alajuela" }
+  "CR": { "en": "Cartago" }
+  "CR": { "en": "Guanacaste" }
+  "CR": { "en": "Heredia" }
+  "CR": { "en": "Limon" }
+  "CR": { "en": "Puntarenas" }
+  "CR": { "en": "San Jose" }
+  "CU": { "en": "Pinar del Rio" }
+  "CU": { "en": "Ciudad de la Habana" }
+  "CU": { "en": "Matanzas" }
+  "CU": { "en": "Isla de la Juventud" }
+  "CU": { "en": "Camaguey" }
+  "CU": { "en": "Ciego de Avila" }
+  "CU": { "en": "Cienfuegos" }
+  "CU": { "en": "Granma" }
+  "CU": { "en": "Guantanamo" }
+  "CU": { "en": "La Habana" }
+  "CU": { "en": "Holguin" }
+  "CU": { "en": "Las Tunas" }
+  "CU": { "en": "Sancti Spiritus" }
+  "CU": { "en": "Santiago de Cuba" }
+  "CU": { "en": "Villa Clara" }
+  "CV": { "en": "Boa Vista" }
+  "CV": { "en": "Brava" }
+  "CV": { "en": "Maio" }
+  "CV": { "en": "Paul" }
+  "CV": { "en": "Ribeira Grande" }
+  "CV": { "en": "Sal" }
+  "CV": { "en": "Sao Nicolau" }
+  "CV": { "en": "Sao Vicente" }
+  "CV": { "en": "Mosteiros" }
+  "CV": { "en": "Praia" }
+  "CV": { "en": "Santa Catarina" }
+  "CV": { "en": "Santa Cruz" }
+  "CV": { "en": "Sao Domingos" }
+  "CV": { "en": "Sao Filipe" }
+  "CV": { "en": "Sao Miguel" }
+  "CV": { "en": "Tarrafal" }
+  "CY": { "en": "Famagusta" }
+  "CY": { "en": "Kyrenia" }
+  "CY": { "en": "Larnaca" }
+  "CY": { "en": "Nicosia" }
+  "CY": { "en": "Limassol" }
+  "CY": { "en": "Paphos" }
+  "CZ": { "en": "Hlavni mesto Praha" }
+  "CZ": { "en": "Jihomoravsky kraj" }
+  "CZ": { "en": "Jihocesky kraj" }
+  "CZ": { "en": "Vysocina" }
+  "CZ": { "en": "Karlovarsky kraj" }
+  "CZ": { "en": "Kralovehradecky kraj" }
+  "CZ": { "en": "Liberecky kraj" }
+  "CZ": { "en": "Olomoucky kraj" }
+  "CZ": { "en": "Moravskoslezsky kraj" }
+  "CZ": { "en": "Pardubicky kraj" }
+  "CZ": { "en": "Plzensky kraj" }
+  "CZ": { "en": "Stredocesky kraj" }
+  "CZ": { "en": "Ustecky kraj" }
+  "CZ": { "en": "Zlinsky kraj" }
+  "DE": { "en": "Baden-Wurttemberg" }
+  "DE": { "en": "Bayern" }
+  "DE": { "en": "Bremen" }
+  "DE": { "en": "Hamburg" }
+  "DE": { "en": "Hessen" }
+  "DE": { "en": "Niedersachsen" }
+  "DE": { "en": "Nordrhein-Westfalen" }
+  "DE": { "en": "Rheinland-Pfalz" }
+  "DE": { "en": "Saarland" }
+  "DE": { "en": "Schleswig-Holstein" }
+  "DE": { "en": "Brandenburg" }
+  "DE": { "en": "Mecklenburg-Vorpommern" }
+  "DE": { "en": "Sachsen" }
+  "DE": { "en": "Sachsen-Anhalt" }
+  "DE": { "en": "Thuringen" }
+  "DE": { "en": "Berlin" }
+  "DJ": { "en": "Ali Sabieh" }
+  "DJ": { "en": "Obock" }
+  "DJ": { "en": "Tadjoura" }
+  "DJ": { "en": "Dikhil" }
+  "DJ": { "en": "Djibouti" }
+  "DJ": { "en": "Arta" }
+  "DK": { "en": "Hovedstaden" }
+  "DK": { "en": "Midtjylland" }
+  "DK": { "en": "Nordjylland" }
+  "DK": { "en": "Sjelland" }
+  "DK": { "en": "Syddanmark" }
+  "DM": { "en": "Saint Andrew" }
+  "DM": { "en": "Saint David" }
+  "DM": { "en": "Saint George" }
+  "DM": { "en": "Saint John" }
+  "DM": { "en": "Saint Joseph" }
+  "DM": { "en": "Saint Luke" }
+  "DM": { "en": "Saint Mark" }
+  "DM": { "en": "Saint Patrick" }
+  "DM": { "en": "Saint Paul" }
+  "DM": { "en": "Saint Peter" }
+  "DO": { "en": "Azua" }
+  "DO": { "en": "Baoruco" }
+  "DO": { "en": "Barahona" }
+  "DO": { "en": "Dajabon" }
+  "DO": { "en": "Distrito Nacional" }
+  "DO": { "en": "Duarte" }
+  "DO": { "en": "Espaillat" }
+  "DO": { "en": "Independencia" }
+  "DO": { "en": "La Altagracia" }
+  "DO": { "en": "Elias Pina" }
+  "DO": { "en": "La Romana" }
+  "DO": { "en": "Maria Trinidad Sanchez" }
+  "DO": { "en": "Monte Cristi" }
+  "DO": { "en": "Pedernales" }
+  "DO": { "en": "Peravia" }
+  "DO": { "en": "Puerto Plata" }
+  "DO": { "en": "Salcedo" }
+  "DO": { "en": "Samana" }
+  "DO": { "en": "Sanchez Ramirez" }
+  "DO": { "en": "San Juan" }
+  "DO": { "en": "San Pedro De Macoris" }
+  "DO": { "en": "Santiago" }
+  "DO": { "en": "Santiago Rodriguez" }
+  "DO": { "en": "Valverde" }
+  "DO": { "en": "El Seibo" }
+  "DO": { "en": "Hato Mayor" }
+  "DO": { "en": "La Vega" }
+  "DO": { "en": "Monsenor Nouel" }
+  "DO": { "en": "Monte Plata" }
+  "DO": { "en": "San Cristobal" }
+  "DO": { "en": "Distrito Nacional" }
+  "DO": { "en": "Peravia" }
+  "DO": { "en": "San Jose de Ocoa" }
+  "DO": { "en": "Santo Domingo" }
+  "DZ": { "en": "Alger" }
+  "DZ": { "en": "Batna" }
+  "DZ": { "en": "Constantine" }
+  "DZ": { "en": "Medea" }
+  "DZ": { "en": "Mostaganem" }
+  "DZ": { "en": "Oran" }
+  "DZ": { "en": "Saida" }
+  "DZ": { "en": "Setif" }
+  "DZ": { "en": "Tiaret" }
+  "DZ": { "en": "Tizi Ouzou" }
+  "DZ": { "en": "Tlemcen" }
+  "DZ": { "en": "Bejaia" }
+  "DZ": { "en": "Biskra" }
+  "DZ": { "en": "Blida" }
+  "DZ": { "en": "Bouira" }
+  "DZ": { "en": "Djelfa" }
+  "DZ": { "en": "Guelma" }
+  "DZ": { "en": "Jijel" }
+  "DZ": { "en": "Laghouat" }
+  "DZ": { "en": "Mascara" }
+  "DZ": { "en": "M'sila" }
+  "DZ": { "en": "Oum el Bouaghi" }
+  "DZ": { "en": "Sidi Bel Abbes" }
+  "DZ": { "en": "Skikda" }
+  "DZ": { "en": "Tebessa" }
+  "DZ": { "en": "Adrar" }
+  "DZ": { "en": "Ain Defla" }
+  "DZ": { "en": "Ain Temouchent" }
+  "DZ": { "en": "Annaba" }
+  "DZ": { "en": "Bechar" }
+  "DZ": { "en": "Bordj Bou Arreridj" }
+  "DZ": { "en": "Boumerdes" }
+  "DZ": { "en": "Chlef" }
+  "DZ": { "en": "El Bayadh" }
+  "DZ": { "en": "El Oued" }
+  "DZ": { "en": "El Tarf" }
+  "DZ": { "en": "Ghardaia" }
+  "DZ": { "en": "Illizi" }
+  "DZ": { "en": "Khenchela" }
+  "DZ": { "en": "Mila" }
+  "DZ": { "en": "Naama" }
+  "DZ": { "en": "Ouargla" }
+  "DZ": { "en": "Relizane" }
+  "DZ": { "en": "Souk Ahras" }
+  "DZ": { "en": "Tamanghasset" }
+  "DZ": { "en": "Tindouf" }
+  "DZ": { "en": "Tipaza" }
+  "DZ": { "en": "Tissemsilt" }
+  "EC": { "en": "Galapagos" }
+  "EC": { "en": "Azuay" }
+  "EC": { "en": "Bolivar" }
+  "EC": { "en": "Canar" }
+  "EC": { "en": "Carchi" }
+  "EC": { "en": "Chimborazo" }
+  "EC": { "en": "Cotopaxi" }
+  "EC": { "en": "El Oro" }
+  "EC": { "en": "Esmeraldas" }
+  "EC": { "en": "Guayas" }
+  "EC": { "en": "Imbabura" }
+  "EC": { "en": "Loja" }
+  "EC": { "en": "Los Rios" }
+  "EC": { "en": "Manabi" }
+  "EC": { "en": "Morona-Santiago" }
+  "EC": { "en": "Pastaza" }
+  "EC": { "en": "Pichincha" }
+  "EC": { "en": "Tungurahua" }
+  "EC": { "en": "Zamora-Chinchipe" }
+  "EC": { "en": "Sucumbios" }
+  "EC": { "en": "Napo" }
+  "EC": { "en": "Orellana" }
+  "EE": { "en": "Harjumaa" }
+  "EE": { "en": "Hiiumaa" }
+  "EE": { "en": "Ida-Virumaa" }
+  "EE": { "en": "Jarvamaa" }
+  "EE": { "en": "Jogevamaa" }
+  "EE": { "en": "Kohtla-Jarve" }
+  "EE": { "en": "Laanemaa" }
+  "EE": { "en": "Laane-Virumaa" }
+  "EE": { "en": "Narva" }
+  "EE": { "en": "Parnu" }
+  "EE": { "en": "Parnumaa" }
+  "EE": { "en": "Polvamaa" }
+  "EE": { "en": "Raplamaa" }
+  "EE": { "en": "Saaremaa" }
+  "EE": { "en": "Sillamae" }
+  "EE": { "en": "Tallinn" }
+  "EE": { "en": "Tartu" }
+  "EE": { "en": "Tartumaa" }
+  "EE": { "en": "Valgamaa" }
+  "EE": { "en": "Viljandimaa" }
+  "EE": { "en": "Vorumaa" }
+  "EG": { "en": "Ad Daqahliyah" }
+  "EG": { "en": "Al Bahr al Ahmar" }
+  "EG": { "en": "Al Buhayrah" }
+  "EG": { "en": "Al Fayyum" }
+  "EG": { "en": "Al Gharbiyah" }
+  "EG": { "en": "Al Iskandariyah" }
+  "EG": { "en": "Al Isma'iliyah" }
+  "EG": { "en": "Al Jizah" }
+  "EG": { "en": "Al Minufiyah" }
+  "EG": { "en": "Al Minya" }
+  "EG": { "en": "Al Qahirah" }
+  "EG": { "en": "Al Qalyubiyah" }
+  "EG": { "en": "Al Wadi al Jadid" }
+  "EG": { "en": "Ash Sharqiyah" }
+  "EG": { "en": "As Suways" }
+  "EG": { "en": "Aswan" }
+  "EG": { "en": "Asyut" }
+  "EG": { "en": "Bani Suwayf" }
+  "EG": { "en": "Bur Sa'id" }
+  "EG": { "en": "Dumyat" }
+  "EG": { "en": "Kafr ash Shaykh" }
+  "EG": { "en": "Matruh" }
+  "EG": { "en": "Qina" }
+  "EG": { "en": "Suhaj" }
+  "EG": { "en": "Janub Sina'" }
+  "EG": { "en": "Shamal Sina'" }
+  "ER": { "en": "Anseba" }
+  "ER": { "en": "Debub" }
+  "ER": { "en": "Debubawi K'eyih Bahri" }
+  "ER": { "en": "Gash Barka" }
+  "ER": { "en": "Ma'akel" }
+  "ER": { "en": "Semenawi K'eyih Bahri" }
+  "ES": { "en": "Islas Baleares" }
+  "ES": { "en": "La Rioja" }
+  "ES": { "en": "Madrid" }
+  "ES": { "en": "Murcia" }
+  "ES": { "en": "Navarra" }
+  "ES": { "en": "Asturias" }
+  "ES": { "en": "Cantabria" }
+  "ES": { "en": "Andalucia" }
+  "ES": { "en": "Aragon" }
+  "ES": { "en": "Canarias" }
+  "ES": { "en": "Castilla-La Mancha" }
+  "ES": { "en": "Castilla y Leon" }
+  "ES": { "en": "Catalonia" }
+  "ES": { "en": "Extremadura" }
+  "ES": { "en": "Galicia" }
+  "ES": { "en": "Pais Vasco" }
+  "ES": { "en": "Comunidad Valenciana" }
+  "ET": { "en": "Adis Abeba" }
+  "ET": { "en": "Afar" }
+  "ET": { "en": "Amara" }
+  "ET": { "en": "Binshangul Gumuz" }
+  "ET": { "en": "Dire Dawa" }
+  "ET": { "en": "Gambela Hizboch" }
+  "ET": { "en": "Hareri Hizb" }
+  "ET": { "en": "Oromiya" }
+  "ET": { "en": "Sumale" }
+  "ET": { "en": "Tigray" }
+  "ET": { "en": "YeDebub Biheroch Bihereseboch na Hizboch" }
+  "FI": { "en": "Aland" }
+  "FI": { "en": "Lapland" }
+  "FI": { "en": "Oulu" }
+  "FI": { "en": "Southern Finland" }
+  "FI": { "en": "Eastern Finland" }
+  "FI": { "en": "Western Finland" }
+  "FJ": { "en": "Central" }
+  "FJ": { "en": "Eastern" }
+  "FJ": { "en": "Northern" }
+  "FJ": { "en": "Rotuma" }
+  "FJ": { "en": "Western" }
+  "FM": { "en": "Kosrae" }
+  "FM": { "en": "Pohnpei" }
+  "FM": { "en": "Chuuk" }
+  "FM": { "en": "Yap" }
+  "FR": { "en": "Aquitaine" }
+  "FR": { "en": "Auvergne" }
+  "FR": { "en": "Basse-Normandie" }
+  "FR": { "en": "Bourgogne" }
+  "FR": { "en": "Bretagne" }
+  "FR": { "en": "Centre" }
+  "FR": { "en": "Champagne-Ardenne" }
+  "FR": { "en": "Corse" }
+  "FR": { "en": "Franche-Comte" }
+  "FR": { "en": "Haute-Normandie" }
+  "FR": { "en": "Ile-de-France" }
+  "FR": { "en": "Languedoc-Roussillon" }
+  "FR": { "en": "Limousin" }
+  "FR": { "en": "Lorraine" }
+  "FR": { "en": "Midi-Pyrenees" }
+  "FR": { "en": "Nord-Pas-de-Calais" }
+  "FR": { "en": "Pays de la Loire" }
+  "FR": { "en": "Picardie" }
+  "FR": { "en": "Poitou-Charentes" }
+  "FR": { "en": "Provence-Alpes-Cote d'Azur" }
+  "FR": { "en": "Rhone-Alpes" }
+  "FR": { "en": "Alsace" }
+  "GA": { "en": "Estuaire" }
+  "GA": { "en": "Haut-Ogooue" }
+  "GA": { "en": "Moyen-Ogooue" }
+  "GA": { "en": "Ngounie" }
+  "GA": { "en": "Nyanga" }
+  "GA": { "en": "Ogooue-Ivindo" }
+  "GA": { "en": "Ogooue-Lolo" }
+  "GA": { "en": "Ogooue-Maritime" }
+  "GA": { "en": "Woleu-Ntem" }
+  "GB": { "en": "Barking and Dagenham" }
+  "GB": { "en": "Barnet" }
+  "GB": { "en": "Barnsley" }
+  "GB": { "en": "Bath and North East Somerset" }
+  "GB": { "en": "Bedfordshire" }
+  "GB": { "en": "Bexley" }
+  "GB": { "en": "Birmingham" }
+  "GB": { "en": "Blackburn with Darwen" }
+  "GB": { "en": "Blackpool" }
+  "GB": { "en": "Bolton" }
+  "GB": { "en": "Bournemouth" }
+  "GB": { "en": "Bracknell Forest" }
+  "GB": { "en": "Bradford" }
+  "GB": { "en": "Brent" }
+  "GB": { "en": "Brighton and Hove" }
+  "GB": { "en": "Bristol, City of" }
+  "GB": { "en": "Bromley" }
+  "GB": { "en": "Buckinghamshire" }
+  "GB": { "en": "Bury" }
+  "GB": { "en": "Calderdale" }
+  "GB": { "en": "Cambridgeshire" }
+  "GB": { "en": "Camden" }
+  "GB": { "en": "Cheshire" }
+  "GB": { "en": "Cornwall" }
+  "GB": { "en": "Coventry" }
+  "GB": { "en": "Croydon" }
+  "GB": { "en": "Cumbria" }
+  "GB": { "en": "Darlington" }
+  "GB": { "en": "Derby" }
+  "GB": { "en": "Derbyshire" }
+  "GB": { "en": "Devon" }
+  "GB": { "en": "Doncaster" }
+  "GB": { "en": "Dorset" }
+  "GB": { "en": "Dudley" }
+  "GB": { "en": "Durham" }
+  "GB": { "en": "Ealing" }
+  "GB": { "en": "East Riding of Yorkshire" }
+  "GB": { "en": "East Sussex" }
+  "GB": { "en": "Enfield" }
+  "GB": { "en": "Essex" }
+  "GB": { "en": "Gateshead" }
+  "GB": { "en": "Gloucestershire" }
+  "GB": { "en": "Greenwich" }
+  "GB": { "en": "Hackney" }
+  "GB": { "en": "Halton" }
+  "GB": { "en": "Hammersmith and Fulham" }
+  "GB": { "en": "Hampshire" }
+  "GB": { "en": "Haringey" }
+  "GB": { "en": "Harrow" }
+  "GB": { "en": "Hartlepool" }
+  "GB": { "en": "Havering" }
+  "GB": { "en": "Herefordshire" }
+  "GB": { "en": "Hertford" }
+  "GB": { "en": "Hillingdon" }
+  "GB": { "en": "Hounslow" }
+  "GB": { "en": "Isle of Wight" }
+  "GB": { "en": "Islington" }
+  "GB": { "en": "Kensington and Chelsea" }
+  "GB": { "en": "Kent" }
+  "GB": { "en": "Kingston upon Hull, City of" }
+  "GB": { "en": "Kingston upon Thames" }
+  "GB": { "en": "Kirklees" }
+  "GB": { "en": "Knowsley" }
+  "GB": { "en": "Lambeth" }
+  "GB": { "en": "Lancashire" }
+  "GB": { "en": "Leeds" }
+  "GB": { "en": "Leicester" }
+  "GB": { "en": "Leicestershire" }
+  "GB": { "en": "Lewisham" }
+  "GB": { "en": "Lincolnshire" }
+  "GB": { "en": "Liverpool" }
+  "GB": { "en": "London, City of" }
+  "GB": { "en": "Luton" }
+  "GB": { "en": "Manchester" }
+  "GB": { "en": "Medway" }
+  "GB": { "en": "Merton" }
+  "GB": { "en": "Middlesbrough" }
+  "GB": { "en": "Milton Keynes" }
+  "GB": { "en": "Newcastle upon Tyne" }
+  "GB": { "en": "Newham" }
+  "GB": { "en": "Norfolk" }
+  "GB": { "en": "Northamptonshire" }
+  "GB": { "en": "North East Lincolnshire" }
+  "GB": { "en": "North Lincolnshire" }
+  "GB": { "en": "North Somerset" }
+  "GB": { "en": "North Tyneside" }
+  "GB": { "en": "Northumberland" }
+  "GB": { "en": "North Yorkshire" }
+  "GB": { "en": "Nottingham" }
+  "GB": { "en": "Nottinghamshire" }
+  "GB": { "en": "Oldham" }
+  "GB": { "en": "Oxfordshire" }
+  "GB": { "en": "Peterborough" }
+  "GB": { "en": "Plymouth" }
+  "GB": { "en": "Poole" }
+  "GB": { "en": "Portsmouth" }
+  "GB": { "en": "Reading" }
+  "GB": { "en": "Redbridge" }
+  "GB": { "en": "Redcar and Cleveland" }
+  "GB": { "en": "Richmond upon Thames" }
+  "GB": { "en": "Rochdale" }
+  "GB": { "en": "Rotherham" }
+  "GB": { "en": "Rutland" }
+  "GB": { "en": "Salford" }
+  "GB": { "en": "Shropshire" }
+  "GB": { "en": "Sandwell" }
+  "GB": { "en": "Sefton" }
+  "GB": { "en": "Sheffield" }
+  "GB": { "en": "Slough" }
+  "GB": { "en": "Solihull" }
+  "GB": { "en": "Somerset" }
+  "GB": { "en": "Southampton" }
+  "GB": { "en": "Southend-on-Sea" }
+  "GB": { "en": "South Gloucestershire" }
+  "GB": { "en": "South Tyneside" }
+  "GB": { "en": "Southwark" }
+  "GB": { "en": "Staffordshire" }
+  "GB": { "en": "St. Helens" }
+  "GB": { "en": "Stockport" }
+  "GB": { "en": "Stockton-on-Tees" }
+  "GB": { "en": "Stoke-on-Trent" }
+  "GB": { "en": "Suffolk" }
+  "GB": { "en": "Sunderland" }
+  "GB": { "en": "Surrey" }
+  "GB": { "en": "Sutton" }
+  "GB": { "en": "Swindon" }
+  "GB": { "en": "Tameside" }
+  "GB": { "en": "Telford and Wrekin" }
+  "GB": { "en": "Thurrock" }
+  "GB": { "en": "Torbay" }
+  "GB": { "en": "Tower Hamlets" }
+  "GB": { "en": "Trafford" }
+  "GB": { "en": "Wakefield" }
+  "GB": { "en": "Walsall" }
+  "GB": { "en": "Waltham Forest" }
+  "GB": { "en": "Wandsworth" }
+  "GB": { "en": "Warrington" }
+  "GB": { "en": "Warwickshire" }
+  "GB": { "en": "West Berkshire" }
+  "GB": { "en": "Westminster" }
+  "GB": { "en": "West Sussex" }
+  "GB": { "en": "Wigan" }
+  "GB": { "en": "Wiltshire" }
+  "GB": { "en": "Windsor and Maidenhead" }
+  "GB": { "en": "Wirral" }
+  "GB": { "en": "Wokingham" }
+  "GB": { "en": "Wolverhampton" }
+  "GB": { "en": "Worcestershire" }
+  "GB": { "en": "York" }
+  "GB": { "en": "Antrim" }
+  "GB": { "en": "Ards" }
+  "GB": { "en": "Armagh" }
+  "GB": { "en": "Ballymena" }
+  "GB": { "en": "Ballymoney" }
+  "GB": { "en": "Banbridge" }
+  "GB": { "en": "Belfast" }
+  "GB": { "en": "Carrickfergus" }
+  "GB": { "en": "Castlereagh" }
+  "GB": { "en": "Coleraine" }
+  "GB": { "en": "Cookstown" }
+  "GB": { "en": "Craigavon" }
+  "GB": { "en": "Down" }
+  "GB": { "en": "Dungannon" }
+  "GB": { "en": "Fermanagh" }
+  "GB": { "en": "Larne" }
+  "GB": { "en": "Limavady" }
+  "GB": { "en": "Lisburn" }
+  "GB": { "en": "Derry" }
+  "GB": { "en": "Magherafelt" }
+  "GB": { "en": "Moyle" }
+  "GB": { "en": "Newry and Mourne" }
+  "GB": { "en": "Newtownabbey" }
+  "GB": { "en": "North Down" }
+  "GB": { "en": "Omagh" }
+  "GB": { "en": "Strabane" }
+  "GB": { "en": "Aberdeen City" }
+  "GB": { "en": "Aberdeenshire" }
+  "GB": { "en": "Angus" }
+  "GB": { "en": "Argyll and Bute" }
+  "GB": { "en": "Scottish Borders, The" }
+  "GB": { "en": "Clackmannanshire" }
+  "GB": { "en": "Dumfries and Galloway" }
+  "GB": { "en": "Dundee City" }
+  "GB": { "en": "East Ayrshire" }
+  "GB": { "en": "East Dunbartonshire" }
+  "GB": { "en": "East Lothian" }
+  "GB": { "en": "East Renfrewshire" }
+  "GB": { "en": "Edinburgh, City of" }
+  "GB": { "en": "Falkirk" }
+  "GB": { "en": "Fife" }
+  "GB": { "en": "Glasgow City" }
+  "GB": { "en": "Highland" }
+  "GB": { "en": "Inverclyde" }
+  "GB": { "en": "Midlothian" }
+  "GB": { "en": "Moray" }
+  "GB": { "en": "North Ayrshire" }
+  "GB": { "en": "North Lanarkshire" }
+  "GB": { "en": "Orkney" }
+  "GB": { "en": "Perth and Kinross" }
+  "GB": { "en": "Renfrewshire" }
+  "GB": { "en": "Shetland Islands" }
+  "GB": { "en": "South Ayrshire" }
+  "GB": { "en": "South Lanarkshire" }
+  "GB": { "en": "Stirling" }
+  "GB": { "en": "West Dunbartonshire" }
+  "GB": { "en": "Eilean Siar" }
+  "GB": { "en": "West Lothian" }
+  "GB": { "en": "Isle of Anglesey" }
+  "GB": { "en": "Blaenau Gwent" }
+  "GB": { "en": "Bridgend" }
+  "GB": { "en": "Caerphilly" }
+  "GB": { "en": "Cardiff" }
+  "GB": { "en": "Ceredigion" }
+  "GB": { "en": "Carmarthenshire" }
+  "GB": { "en": "Conwy" }
+  "GB": { "en": "Denbighshire" }
+  "GB": { "en": "Flintshire" }
+  "GB": { "en": "Gwynedd" }
+  "GB": { "en": "Merthyr Tydfil" }
+  "GB": { "en": "Monmouthshire" }
+  "GB": { "en": "Neath Port Talbot" }
+  "GB": { "en": "Newport" }
+  "GB": { "en": "Pembrokeshire" }
+  "GB": { "en": "Powys" }
+  "GB": { "en": "Rhondda Cynon Taff" }
+  "GB": { "en": "Swansea" }
+  "GB": { "en": "Torfaen" }
+  "GB": { "en": "Vale of Glamorgan, The" }
+  "GB": { "en": "Wrexham" }
+  "GB": { "en": "Bedfordshire" }
+  "GB": { "en": "Central Bedfordshire" }
+  "GB": { "en": "Cheshire East" }
+  "GB": { "en": "Cheshire West and Chester" }
+  "GB": { "en": "Isles of Scilly" }
+  "GD": { "en": "Saint Andrew" }
+  "GD": { "en": "Saint David" }
+  "GD": { "en": "Saint George" }
+  "GD": { "en": "Saint John" }
+  "GD": { "en": "Saint Mark" }
+  "GD": { "en": "Saint Patrick" }
+  "GE": { "en": "Abashis Raioni" }
+  "GE": { "en": "Abkhazia" }
+  "GE": { "en": "Adigenis Raioni" }
+  "GE": { "en": "Ajaria" }
+  "GE": { "en": "Akhalgoris Raioni" }
+  "GE": { "en": "Akhalk'alak'is Raioni" }
+  "GE": { "en": "Akhalts'ikhis Raioni" }
+  "GE": { "en": "Akhmetis Raioni" }
+  "GE": { "en": "Ambrolauris Raioni" }
+  "GE": { "en": "Aspindzis Raioni" }
+  "GE": { "en": "Baghdat'is Raioni" }
+  "GE": { "en": "Bolnisis Raioni" }
+  "GE": { "en": "Borjomis Raioni" }
+  "GE": { "en": "Chiat'ura" }
+  "GE": { "en": "Ch'khorotsqus Raioni" }
+  "GE": { "en": "Ch'okhatauris Raioni" }
+  "GE": { "en": "Dedop'listsqaros Raioni" }
+  "GE": { "en": "Dmanisis Raioni" }
+  "GE": { "en": "Dushet'is Raioni" }
+  "GE": { "en": "Gardabanis Raioni" }
+  "GE": { "en": "Gori" }
+  "GE": { "en": "Goris Raioni" }
+  "GE": { "en": "Gurjaanis Raioni" }
+  "GE": { "en": "Javis Raioni" }
+  "GE": { "en": "K'arelis Raioni" }
+  "GE": { "en": "Kaspis Raioni" }
+  "GE": { "en": "Kharagaulis Raioni" }
+  "GE": { "en": "Khashuris Raioni" }
+  "GE": { "en": "Khobis Raioni" }
+  "GE": { "en": "Khonis Raioni" }
+  "GE": { "en": "K'ut'aisi" }
+  "GE": { "en": "Lagodekhis Raioni" }
+  "GE": { "en": "Lanch'khut'is Raioni" }
+  "GE": { "en": "Lentekhis Raioni" }
+  "GE": { "en": "Marneulis Raioni" }
+  "GE": { "en": "Martvilis Raioni" }
+  "GE": { "en": "Mestiis Raioni" }
+  "GE": { "en": "Mts'khet'is Raioni" }
+  "GE": { "en": "Ninotsmindis Raioni" }
+  "GE": { "en": "Onis Raioni" }
+  "GE": { "en": "Ozurget'is Raioni" }
+  "GE": { "en": "P'ot'i" }
+  "GE": { "en": "Qazbegis Raioni" }
+  "GE": { "en": "Qvarlis Raioni" }
+  "GE": { "en": "Rust'avi" }
+  "GE": { "en": "Sach'kheris Raioni" }
+  "GE": { "en": "Sagarejos Raioni" }
+  "GE": { "en": "Samtrediis Raioni" }
+  "GE": { "en": "Senakis Raioni" }
+  "GE": { "en": "Sighnaghis Raioni" }
+  "GE": { "en": "T'bilisi" }
+  "GE": { "en": "T'elavis Raioni" }
+  "GE": { "en": "T'erjolis Raioni" }
+  "GE": { "en": "T'et'ritsqaros Raioni" }
+  "GE": { "en": "T'ianet'is Raioni" }
+  "GE": { "en": "Tqibuli" }
+  "GE": { "en": "Ts'ageris Raioni" }
+  "GE": { "en": "Tsalenjikhis Raioni" }
+  "GE": { "en": "Tsalkis Raioni" }
+  "GE": { "en": "Tsqaltubo" }
+  "GE": { "en": "Vanis Raioni" }
+  "GE": { "en": "Zestap'onis Raioni" }
+  "GE": { "en": "Zugdidi" }
+  "GE": { "en": "Zugdidis Raioni" }
+  "GH": { "en": "Greater Accra" }
+  "GH": { "en": "Ashanti" }
+  "GH": { "en": "Brong-Ahafo" }
+  "GH": { "en": "Central" }
+  "GH": { "en": "Eastern" }
+  "GH": { "en": "Northern" }
+  "GH": { "en": "Volta" }
+  "GH": { "en": "Western" }
+  "GH": { "en": "Upper East" }
+  "GH": { "en": "Upper West" }
+  "GL": { "en": "Nordgronland" }
+  "GL": { "en": "Ostgronland" }
+  "GL": { "en": "Vestgronland" }
+  "GM": { "en": "Banjul" }
+  "GM": { "en": "Lower River" }
+  "GM": { "en": "Central River" }
+  "GM": { "en": "Upper River" }
+  "GM": { "en": "Western" }
+  "GM": { "en": "North Bank" }
+  "GN": { "en": "Beyla" }
+  "GN": { "en": "Boffa" }
+  "GN": { "en": "Boke" }
+  "GN": { "en": "Conakry" }
+  "GN": { "en": "Dabola" }
+  "GN": { "en": "Dalaba" }
+  "GN": { "en": "Dinguiraye" }
+  "GN": { "en": "Faranah" }
+  "GN": { "en": "Forecariah" }
+  "GN": { "en": "Fria" }
+  "GN": { "en": "Gaoual" }
+  "GN": { "en": "Gueckedou" }
+  "GN": { "en": "Kerouane" }
+  "GN": { "en": "Kindia" }
+  "GN": { "en": "Kissidougou" }
+  "GN": { "en": "Koundara" }
+  "GN": { "en": "Kouroussa" }
+  "GN": { "en": "Macenta" }
+  "GN": { "en": "Mali" }
+  "GN": { "en": "Mamou" }
+  "GN": { "en": "Pita" }
+  "GN": { "en": "Telimele" }
+  "GN": { "en": "Tougue" }
+  "GN": { "en": "Yomou" }
+  "GN": { "en": "Coyah" }
+  "GN": { "en": "Dubreka" }
+  "GN": { "en": "Kankan" }
+  "GN": { "en": "Koubia" }
+  "GN": { "en": "Labe" }
+  "GN": { "en": "Lelouma" }
+  "GN": { "en": "Lola" }
+  "GN": { "en": "Mandiana" }
+  "GN": { "en": "Nzerekore" }
+  "GN": { "en": "Siguiri" }
+  "GQ": { "en": "Annobon" }
+  "GQ": { "en": "Bioko Norte" }
+  "GQ": { "en": "Bioko Sur" }
+  "GQ": { "en": "Centro Sur" }
+  "GQ": { "en": "Kie-Ntem" }
+  "GQ": { "en": "Litoral" }
+  "GQ": { "en": "Wele-Nzas" }
+  "GR": { "en": "Evros" }
+  "GR": { "en": "Rodhopi" }
+  "GR": { "en": "Xanthi" }
+  "GR": { "en": "Drama" }
+  "GR": { "en": "Serrai" }
+  "GR": { "en": "Kilkis" }
+  "GR": { "en": "Pella" }
+  "GR": { "en": "Florina" }
+  "GR": { "en": "Kastoria" }
+  "GR": { "en": "Grevena" }
+  "GR": { "en": "Kozani" }
+  "GR": { "en": "Imathia" }
+  "GR": { "en": "Thessaloniki" }
+  "GR": { "en": "Kavala" }
+  "GR": { "en": "Khalkidhiki" }
+  "GR": { "en": "Pieria" }
+  "GR": { "en": "Ioannina" }
+  "GR": { "en": "Thesprotia" }
+  "GR": { "en": "Preveza" }
+  "GR": { "en": "Arta" }
+  "GR": { "en": "Larisa" }
+  "GR": { "en": "Trikala" }
+  "GR": { "en": "Kardhitsa" }
+  "GR": { "en": "Magnisia" }
+  "GR": { "en": "Kerkira" }
+  "GR": { "en": "Levkas" }
+  "GR": { "en": "Kefallinia" }
+  "GR": { "en": "Zakinthos" }
+  "GR": { "en": "Fthiotis" }
+  "GR": { "en": "Evritania" }
+  "GR": { "en": "Aitolia kai Akarnania" }
+  "GR": { "en": "Fokis" }
+  "GR": { "en": "Voiotia" }
+  "GR": { "en": "Evvoia" }
+  "GR": { "en": "Attiki" }
+  "GR": { "en": "Argolis" }
+  "GR": { "en": "Korinthia" }
+  "GR": { "en": "Akhaia" }
+  "GR": { "en": "Ilia" }
+  "GR": { "en": "Messinia" }
+  "GR": { "en": "Arkadhia" }
+  "GR": { "en": "Lakonia" }
+  "GR": { "en": "Khania" }
+  "GR": { "en": "Rethimni" }
+  "GR": { "en": "Iraklion" }
+  "GR": { "en": "Lasithi" }
+  "GR": { "en": "Dhodhekanisos" }
+  "GR": { "en": "Samos" }
+  "GR": { "en": "Kikladhes" }
+  "GR": { "en": "Khios" }
+  "GR": { "en": "Lesvos" }
+  "GT": { "en": "Alta Verapaz" }
+  "GT": { "en": "Baja Verapaz" }
+  "GT": { "en": "Chimaltenango" }
+  "GT": { "en": "Chiquimula" }
+  "GT": { "en": "El Progreso" }
+  "GT": { "en": "Escuintla" }
+  "GT": { "en": "Guatemala" }
+  "GT": { "en": "Huehuetenango" }
+  "GT": { "en": "Izabal" }
+  "GT": { "en": "Jalapa" }
+  "GT": { "en": "Jutiapa" }
+  "GT": { "en": "Peten" }
+  "GT": { "en": "Quetzaltenango" }
+  "GT": { "en": "Quiche" }
+  "GT": { "en": "Retalhuleu" }
+  "GT": { "en": "Sacatepequez" }
+  "GT": { "en": "San Marcos" }
+  "GT": { "en": "Santa Rosa" }
+  "GT": { "en": "Solola" }
+  "GT": { "en": "Suchitepequez" }
+  "GT": { "en": "Totonicapan" }
+  "GT": { "en": "Zacapa" }
+  "GW": { "en": "Bafata" }
+  "GW": { "en": "Quinara" }
+  "GW": { "en": "Oio" }
+  "GW": { "en": "Bolama" }
+  "GW": { "en": "Cacheu" }
+  "GW": { "en": "Tombali" }
+  "GW": { "en": "Gabu" }
+  "GW": { "en": "Bissau" }
+  "GW": { "en": "Biombo" }
+  "GY": { "en": "Barima-Waini" }
+  "GY": { "en": "Cuyuni-Mazaruni" }
+  "GY": { "en": "Demerara-Mahaica" }
+  "GY": { "en": "East Berbice-Corentyne" }
+  "GY": { "en": "Essequibo Islands-West Demerara" }
+  "GY": { "en": "Mahaica-Berbice" }
+  "GY": { "en": "Pomeroon-Supenaam" }
+  "GY": { "en": "Potaro-Siparuni" }
+  "GY": { "en": "Upper Demerara-Berbice" }
+  "GY": { "en": "Upper Takutu-Upper Essequibo" }
+  "HN": { "en": "Atlantida" }
+  "HN": { "en": "Choluteca" }
+  "HN": { "en": "Colon" }
+  "HN": { "en": "Comayagua" }
+  "HN": { "en": "Copan" }
+  "HN": { "en": "Cortes" }
+  "HN": { "en": "El Paraiso" }
+  "HN": { "en": "Francisco Morazan" }
+  "HN": { "en": "Gracias a Dios" }
+  "HN": { "en": "Intibuca" }
+  "HN": { "en": "Islas de la Bahia" }
+  "HN": { "en": "La Paz" }
+  "HN": { "en": "Lempira" }
+  "HN": { "en": "Ocotepeque" }
+  "HN": { "en": "Olancho" }
+  "HN": { "en": "Santa Barbara" }
+  "HN": { "en": "Valle" }
+  "HN": { "en": "Yoro" }
+  "HR": { "en": "Bjelovarsko-Bilogorska" }
+  "HR": { "en": "Brodsko-Posavska" }
+  "HR": { "en": "Dubrovacko-Neretvanska" }
+  "HR": { "en": "Istarska" }
+  "HR": { "en": "Karlovacka" }
+  "HR": { "en": "Koprivnicko-Krizevacka" }
+  "HR": { "en": "Krapinsko-Zagorska" }
+  "HR": { "en": "Licko-Senjska" }
+  "HR": { "en": "Medimurska" }
+  "HR": { "en": "Osjecko-Baranjska" }
+  "HR": { "en": "Pozesko-Slavonska" }
+  "HR": { "en": "Primorsko-Goranska" }
+  "HR": { "en": "Sibensko-Kninska" }
+  "HR": { "en": "Sisacko-Moslavacka" }
+  "HR": { "en": "Splitsko-Dalmatinska" }
+  "HR": { "en": "Varazdinska" }
+  "HR": { "en": "Viroviticko-Podravska" }
+  "HR": { "en": "Vukovarsko-Srijemska" }
+  "HR": { "en": "Zadarska" }
+  "HR": { "en": "Zagrebacka" }
+  "HR": { "en": "Grad Zagreb" }
+  "HT": { "en": "Nord-Ouest" }
+  "HT": { "en": "Artibonite" }
+  "HT": { "en": "Centre" }
+  "HT": { "en": "Nord" }
+  "HT": { "en": "Nord-Est" }
+  "HT": { "en": "Ouest" }
+  "HT": { "en": "Sud" }
+  "HT": { "en": "Sud-Est" }
+  "HT": { "en": "Grand' Anse" }
+  "HT": { "en": "Nippes" }
+  "HU": { "en": "Bacs-Kiskun" }
+  "HU": { "en": "Baranya" }
+  "HU": { "en": "Bekes" }
+  "HU": { "en": "Borsod-Abauj-Zemplen" }
+  "HU": { "en": "Budapest" }
+  "HU": { "en": "Csongrad" }
+  "HU": { "en": "Debrecen" }
+  "HU": { "en": "Fejer" }
+  "HU": { "en": "Gyor-Moson-Sopron" }
+  "HU": { "en": "Hajdu-Bihar" }
+  "HU": { "en": "Heves" }
+  "HU": { "en": "Komarom-Esztergom" }
+  "HU": { "en": "Miskolc" }
+  "HU": { "en": "Nograd" }
+  "HU": { "en": "Pecs" }
+  "HU": { "en": "Pest" }
+  "HU": { "en": "Somogy" }
+  "HU": { "en": "Szabolcs-Szatmar-Bereg" }
+  "HU": { "en": "Szeged" }
+  "HU": { "en": "Jasz-Nagykun-Szolnok" }
+  "HU": { "en": "Tolna" }
+  "HU": { "en": "Vas" }
+  "HU": { "en": "Veszprem" }
+  "HU": { "en": "Zala" }
+  "HU": { "en": "Gyor" }
+  "HU": { "en": "Bekescsaba" }
+  "HU": { "en": "Dunaujvaros" }
+  "HU": { "en": "Eger" }
+  "HU": { "en": "Hodmezovasarhely" }
+  "HU": { "en": "Kaposvar" }
+  "HU": { "en": "Kecskemet" }
+  "HU": { "en": "Nagykanizsa" }
+  "HU": { "en": "Nyiregyhaza" }
+  "HU": { "en": "Sopron" }
+  "HU": { "en": "Szekesfehervar" }
+  "HU": { "en": "Szolnok" }
+  "HU": { "en": "Szombathely" }
+  "HU": { "en": "Tatabanya" }
+  "HU": { "en": "Veszprem" }
+  "HU": { "en": "Zalaegerszeg" }
+  "HU": { "en": "Salgotarjan" }
+  "HU": { "en": "Szekszard" }
+  "HU": { "en": "Erd" }
+  "ID": { "en": "Aceh" }
+  "ID": { "en": "Bali" }
+  "ID": { "en": "Bengkulu" }
+  "ID": { "en": "Jakarta Raya" }
+  "ID": { "en": "Jambi" }
+  "ID": { "en": "Jawa Tengah" }
+  "ID": { "en": "Jawa Timur" }
+  "ID": { "en": "Yogyakarta" }
+  "ID": { "en": "Kalimantan Barat" }
+  "ID": { "en": "Kalimantan Selatan" }
+  "ID": { "en": "Kalimantan Tengah" }
+  "ID": { "en": "Kalimantan Timur" }
+  "ID": { "en": "Lampung" }
+  "ID": { "en": "Nusa Tenggara Barat" }
+  "ID": { "en": "Nusa Tenggara Timur" }
+  "ID": { "en": "Sulawesi Tengah" }
+  "ID": { "en": "Sulawesi Tenggara" }
+  "ID": { "en": "Sumatera Barat" }
+  "ID": { "en": "Sumatera Utara" }
+  "ID": { "en": "Maluku" }
+  "ID": { "en": "Maluku Utara" }
+  "ID": { "en": "Jawa Barat" }
+  "ID": { "en": "Sulawesi Utara" }
+  "ID": { "en": "Sumatera Selatan" }
+  "ID": { "en": "Banten" }
+  "ID": { "en": "Gorontalo" }
+  "ID": { "en": "Kepulauan Bangka Belitung" }
+  "ID": { "en": "Papua" }
+  "ID": { "en": "Riau" }
+  "ID": { "en": "Sulawesi Selatan" }
+  "ID": { "en": "Irian Jaya Barat" }
+  "ID": { "en": "Kepulauan Riau" }
+  "ID": { "en": "Sulawesi Barat" }
+  "IE": { "en": "Carlow" }
+  "IE": { "en": "Cavan" }
+  "IE": { "en": "Clare" }
+  "IE": { "en": "Cork" }
+  "IE": { "en": "Donegal" }
+  "IE": { "en": "Dublin" }
+  "IE": { "en": "Galway" }
+  "IE": { "en": "Kerry" }
+  "IE": { "en": "Kildare" }
+  "IE": { "en": "Kilkenny" }
+  "IE": { "en": "Leitrim" }
+  "IE": { "en": "Laois" }
+  "IE": { "en": "Limerick" }
+  "IE": { "en": "Longford" }
+  "IE": { "en": "Louth" }
+  "IE": { "en": "Mayo" }
+  "IE": { "en": "Meath" }
+  "IE": { "en": "Monaghan" }
+  "IE": { "en": "Offaly" }
+  "IE": { "en": "Roscommon" }
+  "IE": { "en": "Sligo" }
+  "IE": { "en": "Tipperary" }
+  "IE": { "en": "Waterford" }
+  "IE": { "en": "Westmeath" }
+  "IE": { "en": "Wexford" }
+  "IE": { "en": "Wicklow" }
+  "IL": { "en": "HaDarom" }
+  "IL": { "en": "HaMerkaz" }
+  "IL": { "en": "HaZafon" }
+  "IL": { "en": "Hefa" }
+  "IL": { "en": "Tel Aviv" }
+  "IL": { "en": "Yerushalayim" }
+  "IN": { "en": "Andaman and Nicobar Islands" }
+  "IN": { "en": "Andhra Pradesh" }
+  "IN": { "en": "Assam" }
+  "IN": { "en": "Chandigarh" }
+  "IN": { "en": "Dadra and Nagar Haveli" }
+  "IN": { "en": "Delhi" }
+  "IN": { "en": "Gujarat" }
+  "IN": { "en": "Haryana" }
+  "IN": { "en": "Himachal Pradesh" }
+  "IN": { "en": "Jammu and Kashmir" }
+  "IN": { "en": "Kerala" }
+  "IN": { "en": "Lakshadweep" }
+  "IN": { "en": "Maharashtra" }
+  "IN": { "en": "Manipur" }
+  "IN": { "en": "Meghalaya" }
+  "IN": { "en": "Karnataka" }
+  "IN": { "en": "Nagaland" }
+  "IN": { "en": "Orissa" }
+  "IN": { "en": "Puducherry" }
+  "IN": { "en": "Punjab" }
+  "IN": { "en": "Rajasthan" }
+  "IN": { "en": "Tamil Nadu" }
+  "IN": { "en": "Tripura" }
+  "IN": { "en": "West Bengal" }
+  "IN": { "en": "Sikkim" }
+  "IN": { "en": "Arunachal Pradesh" }
+  "IN": { "en": "Mizoram" }
+  "IN": { "en": "Daman and Diu" }
+  "IN": { "en": "Goa" }
+  "IN": { "en": "Bihar" }
+  "IN": { "en": "Madhya Pradesh" }
+  "IN": { "en": "Uttar Pradesh" }
+  "IN": { "en": "Chhattisgarh" }
+  "IN": { "en": "Jharkhand" }
+  "IN": { "en": "Uttarakhand" }
+  "IQ": { "en": "Al Anbar" }
+  "IQ": { "en": "Al Basrah" }
+  "IQ": { "en": "Al Muthanna" }
+  "IQ": { "en": "Al Qadisiyah" }
+  "IQ": { "en": "As Sulaymaniyah" }
+  "IQ": { "en": "Babil" }
+  "IQ": { "en": "Baghdad" }
+  "IQ": { "en": "Dahuk" }
+  "IQ": { "en": "Dhi Qar" }
+  "IQ": { "en": "Diyala" }
+  "IQ": { "en": "Arbil" }
+  "IQ": { "en": "Karbala'" }
+  "IQ": { "en": "At Ta'mim" }
+  "IQ": { "en": "Maysan" }
+  "IQ": { "en": "Ninawa" }
+  "IQ": { "en": "Wasit" }
+  "IQ": { "en": "An Najaf" }
+  "IQ": { "en": "Salah ad Din" }
+  "IR": { "en": "Azarbayjan-e Bakhtari" }
+  "IR": { "en": "Chahar Mahall va Bakhtiari" }
+  "IR": { "en": "Sistan va Baluchestan" }
+  "IR": { "en": "Kohkiluyeh va Buyer Ahmadi" }
+  "IR": { "en": "Fars" }
+  "IR": { "en": "Gilan" }
+  "IR": { "en": "Hamadan" }
+  "IR": { "en": "Ilam" }
+  "IR": { "en": "Hormozgan" }
+  "IR": { "en": "Kerman" }
+  "IR": { "en": "Bakhtaran" }
+  "IR": { "en": "Khuzestan" }
+  "IR": { "en": "Kordestan" }
+  "IR": { "en": "Mazandaran" }
+  "IR": { "en": "Semnan Province" }
+  "IR": { "en": "Markazi" }
+  "IR": { "en": "Zanjan" }
+  "IR": { "en": "Bushehr" }
+  "IR": { "en": "Lorestan" }
+  "IR": { "en": "Markazi" }
+  "IR": { "en": "Semnan" }
+  "IR": { "en": "Tehran" }
+  "IR": { "en": "Zanjan" }
+  "IR": { "en": "Esfahan" }
+  "IR": { "en": "Kerman" }
+  "IR": { "en": "Khorasan" }
+  "IR": { "en": "Yazd" }
+  "IR": { "en": "Ardabil" }
+  "IR": { "en": "East Azarbaijan" }
+  "IR": { "en": "Markazi" }
+  "IR": { "en": "Mazandaran" }
+  "IR": { "en": "Zanjan" }
+  "IR": { "en": "Golestan" }
+  "IR": { "en": "Qazvin" }
+  "IR": { "en": "Qom" }
+  "IR": { "en": "Yazd" }
+  "IR": { "en": "Khorasan-e Janubi" }
+  "IR": { "en": "Khorasan-e Razavi" }
+  "IR": { "en": "Khorasan-e Shemali" }
+  "IR": { "en": "Alborz" }
+  "IS": { "en": "Arnessysla" }
+  "IS": { "en": "Austur-Hunavatnssysla" }
+  "IS": { "en": "Austur-Skaftafellssysla" }
+  "IS": { "en": "Borgarfjardarsysla" }
+  "IS": { "en": "Eyjafjardarsysla" }
+  "IS": { "en": "Gullbringusysla" }
+  "IS": { "en": "Kjosarsysla" }
+  "IS": { "en": "Myrasysla" }
+  "IS": { "en": "Nordur-Mulasysla" }
+  "IS": { "en": "Nordur-Tingeyjarsysla" }
+  "IS": { "en": "Rangarvallasysla" }
+  "IS": { "en": "Skagafjardarsysla" }
+  "IS": { "en": "Snafellsnes- og Hnappadalssysla" }
+  "IS": { "en": "Strandasysla" }
+  "IS": { "en": "Sudur-Mulasysla" }
+  "IS": { "en": "Sudur-Tingeyjarsysla" }
+  "IS": { "en": "Vestur-Bardastrandarsysla" }
+  "IS": { "en": "Vestur-Hunavatnssysla" }
+  "IS": { "en": "Vestur-Isafjardarsysla" }
+  "IS": { "en": "Vestur-Skaftafellssysla" }
+  "IS": { "en": "Austurland" }
+  "IS": { "en": "Hofuoborgarsvaoio" }
+  "IS": { "en": "Norourland Eystra" }
+  "IS": { "en": "Norourland Vestra" }
+  "IS": { "en": "Suourland" }
+  "IS": { "en": "Suournes" }
+  "IS": { "en": "Vestfiroir" }
+  "IS": { "en": "Vesturland" }
+  "IT": { "en": "Abruzzi" }
+  "IT": { "en": "Basilicata" }
+  "IT": { "en": "Calabria" }
+  "IT": { "en": "Campania" }
+  "IT": { "en": "Emilia-Romagna" }
+  "IT": { "en": "Friuli-Venezia Giulia" }
+  "IT": { "en": "Lazio" }
+  "IT": { "en": "Liguria" }
+  "IT": { "en": "Lombardia" }
+  "IT": { "en": "Marche" }
+  "IT": { "en": "Molise" }
+  "IT": { "en": "Piemonte" }
+  "IT": { "en": "Puglia" }
+  "IT": { "en": "Sardegna" }
+  "IT": { "en": "Sicilia" }
+  "IT": { "en": "Toscana" }
+  "IT": { "en": "Trentino-Alto Adige" }
+  "IT": { "en": "Umbria" }
+  "IT": { "en": "Valle d'Aosta" }
+  "IT": { "en": "Veneto" }
+  "JM": { "en": "Clarendon" }
+  "JM": { "en": "Hanover" }
+  "JM": { "en": "Manchester" }
+  "JM": { "en": "Portland" }
+  "JM": { "en": "Saint Andrew" }
+  "JM": { "en": "Saint Ann" }
+  "JM": { "en": "Saint Catherine" }
+  "JM": { "en": "Saint Elizabeth" }
+  "JM": { "en": "Saint James" }
+  "JM": { "en": "Saint Mary" }
+  "JM": { "en": "Saint Thomas" }
+  "JM": { "en": "Trelawny" }
+  "JM": { "en": "Westmoreland" }
+  "JM": { "en": "Kingston" }
+  "JO": { "en": "Al Balqa'" }
+  "JO": { "en": "Al Karak" }
+  "JO": { "en": "At Tafilah" }
+  "JO": { "en": "Al Mafraq" }
+  "JO": { "en": "Amman" }
+  "JO": { "en": "Az Zaraqa" }
+  "JO": { "en": "Irbid" }
+  "JO": { "en": "Ma'an" }
+  "JO": { "en": "Ajlun" }
+  "JO": { "en": "Al Aqabah" }
+  "JO": { "en": "Jarash" }
+  "JO": { "en": "Madaba" }
+  "JP": { "en": "Aichi" }
+  "JP": { "en": "Akita" }
+  "JP": { "en": "Aomori" }
+  "JP": { "en": "Chiba" }
+  "JP": { "en": "Ehime" }
+  "JP": { "en": "Fukui" }
+  "JP": { "en": "Fukuoka" }
+  "JP": { "en": "Fukushima" }
+  "JP": { "en": "Gifu" }
+  "JP": { "en": "Gumma" }
+  "JP": { "en": "Hiroshima" }
+  "JP": { "en": "Hokkaido" }
+  "JP": { "en": "Hyogo" }
+  "JP": { "en": "Ibaraki" }
+  "JP": { "en": "Ishikawa" }
+  "JP": { "en": "Iwate" }
+  "JP": { "en": "Kagawa" }
+  "JP": { "en": "Kagoshima" }
+  "JP": { "en": "Kanagawa" }
+  "JP": { "en": "Kochi" }
+  "JP": { "en": "Kumamoto" }
+  "JP": { "en": "Kyoto" }
+  "JP": { "en": "Mie" }
+  "JP": { "en": "Miyagi" }
+  "JP": { "en": "Miyazaki" }
+  "JP": { "en": "Nagano" }
+  "JP": { "en": "Nagasaki" }
+  "JP": { "en": "Nara" }
+  "JP": { "en": "Niigata" }
+  "JP": { "en": "Oita" }
+  "JP": { "en": "Okayama" }
+  "JP": { "en": "Osaka" }
+  "JP": { "en": "Saga" }
+  "JP": { "en": "Saitama" }
+  "JP": { "en": "Shiga" }
+  "JP": { "en": "Shimane" }
+  "JP": { "en": "Shizuoka" }
+  "JP": { "en": "Tochigi" }
+  "JP": { "en": "Tokushima" }
+  "JP": { "en": "Tokyo" }
+  "JP": { "en": "Tottori" }
+  "JP": { "en": "Toyama" }
+  "JP": { "en": "Wakayama" }
+  "JP": { "en": "Yamagata" }
+  "JP": { "en": "Yamaguchi" }
+  "JP": { "en": "Yamanashi" }
+  "JP": { "en": "Okinawa" }
+  "KE": { "en": "Central" }
+  "KE": { "en": "Coast" }
+  "KE": { "en": "Eastern" }
+  "KE": { "en": "Nairobi Area" }
+  "KE": { "en": "North-Eastern" }
+  "KE": { "en": "Nyanza" }
+  "KE": { "en": "Rift Valley" }
+  "KE": { "en": "Western" }
+  "KG": { "en": "Bishkek" }
+  "KG": { "en": "Chuy" }
+  "KG": { "en": "Jalal-Abad" }
+  "KG": { "en": "Naryn" }
+  "KG": { "en": "Osh" }
+  "KG": { "en": "Talas" }
+  "KG": { "en": "Ysyk-Kol" }
+  "KG": { "en": "Osh" }
+  "KG": { "en": "Batken" }
+  "KH": { "en": "Batdambang" }
+  "KH": { "en": "Kampong Cham" }
+  "KH": { "en": "Kampong Chhnang" }
+  "KH": { "en": "Kampong Speu" }
+  "KH": { "en": "Kampong Thum" }
+  "KH": { "en": "Kampot" }
+  "KH": { "en": "Kandal" }
+  "KH": { "en": "Koh Kong" }
+  "KH": { "en": "Kracheh" }
+  "KH": { "en": "Mondulkiri" }
+  "KH": { "en": "Phnum Penh" }
+  "KH": { "en": "Pursat" }
+  "KH": { "en": "Preah Vihear" }
+  "KH": { "en": "Prey Veng" }
+  "KH": { "en": "Ratanakiri Kiri" }
+  "KH": { "en": "Siem Reap" }
+  "KH": { "en": "Stung Treng" }
+  "KH": { "en": "Svay Rieng" }
+  "KH": { "en": "Takeo" }
+  "KH": { "en": "Banteay Meanchey" }
+  "KH": { "en": "Batdambang" }
+  "KH": { "en": "Pailin" }
+  "KI": { "en": "Gilbert Islands" }
+  "KI": { "en": "Line Islands" }
+  "KI": { "en": "Phoenix Islands" }
+  "KM": { "en": "Anjouan" }
+  "KM": { "en": "Grande Comore" }
+  "KM": { "en": "Moheli" }
+  "KN": { "en": "Christ Church Nichola Town" }
+  "KN": { "en": "Saint Anne Sandy Point" }
+  "KN": { "en": "Saint George Basseterre" }
+  "KN": { "en": "Saint George Gingerland" }
+  "KN": { "en": "Saint James Windward" }
+  "KN": { "en": "Saint John Capisterre" }
+  "KN": { "en": "Saint John Figtree" }
+  "KN": { "en": "Saint Mary Cayon" }
+  "KN": { "en": "Saint Paul Capisterre" }
+  "KN": { "en": "Saint Paul Charlestown" }
+  "KN": { "en": "Saint Peter Basseterre" }
+  "KN": { "en": "Saint Thomas Lowland" }
+  "KN": { "en": "Saint Thomas Middle Island" }
+  "KN": { "en": "Trinity Palmetto Point" }
+  "KP": { "en": "Chagang-do" }
+  "KP": { "en": "Hamgyong-namdo" }
+  "KP": { "en": "Hwanghae-namdo" }
+  "KP": { "en": "Hwanghae-bukto" }
+  "KP": { "en": "Kaesong-si" }
+  "KP": { "en": "Kangwon-do" }
+  "KP": { "en": "P'yongan-bukto" }
+  "KP": { "en": "P'yongyang-si" }
+  "KP": { "en": "Yanggang-do" }
+  "KP": { "en": "Namp'o-si" }
+  "KP": { "en": "P'yongan-namdo" }
+  "KP": { "en": "Hamgyong-bukto" }
+  "KP": { "en": "Najin Sonbong-si" }
+  "KR": { "en": "Cheju-do" }
+  "KR": { "en": "Cholla-bukto" }
+  "KR": { "en": "Ch'ungch'ong-bukto" }
+  "KR": { "en": "Kangwon-do" }
+  "KR": { "en": "Pusan-jikhalsi" }
+  "KR": { "en": "Seoul-t'ukpyolsi" }
+  "KR": { "en": "Inch'on-jikhalsi" }
+  "KR": { "en": "Kyonggi-do" }
+  "KR": { "en": "Kyongsang-bukto" }
+  "KR": { "en": "Taegu-jikhalsi" }
+  "KR": { "en": "Cholla-namdo" }
+  "KR": { "en": "Ch'ungch'ong-namdo" }
+  "KR": { "en": "Kwangju-jikhalsi" }
+  "KR": { "en": "Taejon-jikhalsi" }
+  "KR": { "en": "Kyongsang-namdo" }
+  "KR": { "en": "Ulsan-gwangyoksi" }
+  "KW": { "en": "Al Ahmadi" }
+  "KW": { "en": "Al Kuwayt" }
+  "KW": { "en": "Al Jahra" }
+  "KW": { "en": "Al Farwaniyah" }
+  "KW": { "en": "Hawalli" }
+  "KW": { "en": "Mubarak al Kabir" }
+  "KY": { "en": "Creek" }
+  "KY": { "en": "Eastern" }
+  "KY": { "en": "Midland" }
+  "KY": { "en": "South Town" }
+  "KY": { "en": "Spot Bay" }
+  "KY": { "en": "Stake Bay" }
+  "KY": { "en": "West End" }
+  "KY": { "en": "Western" }
+  "KZ": { "en": "Almaty" }
+  "KZ": { "en": "Almaty City" }
+  "KZ": { "en": "Aqmola" }
+  "KZ": { "en": "Aqtobe" }
+  "KZ": { "en": "Astana" }
+  "KZ": { "en": "Atyrau" }
+  "KZ": { "en": "West Kazakhstan" }
+  "KZ": { "en": "Bayqonyr" }
+  "KZ": { "en": "Mangghystau" }
+  "KZ": { "en": "South Kazakhstan" }
+  "KZ": { "en": "Pavlodar" }
+  "KZ": { "en": "Qaraghandy" }
+  "KZ": { "en": "Qostanay" }
+  "KZ": { "en": "Qyzylorda" }
+  "KZ": { "en": "East Kazakhstan" }
+  "KZ": { "en": "North Kazakhstan" }
+  "KZ": { "en": "Zhambyl" }
+  "LA": { "en": "Attapu" }
+  "LA": { "en": "Champasak" }
+  "LA": { "en": "Houaphan" }
+  "LA": { "en": "Khammouan" }
+  "LA": { "en": "Louang Namtha" }
+  "LA": { "en": "Oudomxai" }
+  "LA": { "en": "Phongsali" }
+  "LA": { "en": "Saravan" }
+  "LA": { "en": "Savannakhet" }
+  "LA": { "en": "Vientiane" }
+  "LA": { "en": "Xaignabouri" }
+  "LA": { "en": "Xiangkhoang" }
+  "LA": { "en": "Louangphrabang" }
+  "LB": { "en": "Beqaa" }
+  "LB": { "en": "Al Janub" }
+  "LB": { "en": "Liban-Nord" }
+  "LB": { "en": "Beyrouth" }
+  "LB": { "en": "Mont-Liban" }
+  "LB": { "en": "Liban-Sud" }
+  "LB": { "en": "Nabatiye" }
+  "LB": { "en": "Beqaa" }
+  "LB": { "en": "Liban-Nord" }
+  "LB": { "en": "Aakk,r" }
+  "LB": { "en": "Baalbek-Hermel" }
+  "LC": { "en": "Anse-la-Raye" }
+  "LC": { "en": "Dauphin" }
+  "LC": { "en": "Castries" }
+  "LC": { "en": "Choiseul" }
+  "LC": { "en": "Dennery" }
+  "LC": { "en": "Gros-Islet" }
+  "LC": { "en": "Laborie" }
+  "LC": { "en": "Micoud" }
+  "LC": { "en": "Soufriere" }
+  "LC": { "en": "Vieux-Fort" }
+  "LC": { "en": "Praslin" }
+  "LI": { "en": "Balzers" }
+  "LI": { "en": "Eschen" }
+  "LI": { "en": "Gamprin" }
+  "LI": { "en": "Mauren" }
+  "LI": { "en": "Planken" }
+  "LI": { "en": "Ruggell" }
+  "LI": { "en": "Schaan" }
+  "LI": { "en": "Schellenberg" }
+  "LI": { "en": "Triesen" }
+  "LI": { "en": "Triesenberg" }
+  "LI": { "en": "Vaduz" }
+  "LI": { "en": "Gbarpolu" }
+  "LI": { "en": "River Gee" }
+  "LK": { "en": "Central" }
+  "LK": { "en": "North Central" }
+  "LK": { "en": "North Western" }
+  "LK": { "en": "Sabaragamuwa" }
+  "LK": { "en": "Southern" }
+  "LK": { "en": "Uva" }
+  "LK": { "en": "Western" }
+  "LK": { "en": "Eastern" }
+  "LK": { "en": "Northern" }
+  "LR": { "en": "Bong" }
+  "LR": { "en": "Grand Cape Mount" }
+  "LR": { "en": "Lofa" }
+  "LR": { "en": "Maryland" }
+  "LR": { "en": "Monrovia" }
+  "LR": { "en": "Nimba" }
+  "LR": { "en": "Sino" }
+  "LR": { "en": "Grand Bassa" }
+  "LR": { "en": "Grand Cape Mount" }
+  "LR": { "en": "Maryland" }
+  "LR": { "en": "Montserrado" }
+  "LR": { "en": "Margibi" }
+  "LR": { "en": "River Cess" }
+  "LR": { "en": "Grand Gedeh" }
+  "LR": { "en": "Lofa" }
+  "LR": { "en": "Gbarpolu" }
+  "LR": { "en": "River Gee" }
+  "LS": { "en": "Berea" }
+  "LS": { "en": "Butha-Buthe" }
+  "LS": { "en": "Leribe" }
+  "LS": { "en": "Mafeteng" }
+  "LS": { "en": "Maseru" }
+  "LS": { "en": "Mohales Hoek" }
+  "LS": { "en": "Mokhotlong" }
+  "LS": { "en": "Qachas Nek" }
+  "LS": { "en": "Quthing" }
+  "LS": { "en": "Thaba-Tseka" }
+  "LT": { "en": "Alytaus Apskritis" }
+  "LT": { "en": "Kauno Apskritis" }
+  "LT": { "en": "Klaipedos Apskritis" }
+  "LT": { "en": "Marijampoles Apskritis" }
+  "LT": { "en": "Panevezio Apskritis" }
+  "LT": { "en": "Siauliu Apskritis" }
+  "LT": { "en": "Taurages Apskritis" }
+  "LT": { "en": "Telsiu Apskritis" }
+  "LT": { "en": "Utenos Apskritis" }
+  "LT": { "en": "Vilniaus Apskritis" }
+  "LU": { "en": "Diekirch" }
+  "LU": { "en": "Grevenmacher" }
+  "LU": { "en": "Luxembourg" }
+  "LV": { "en": "Aizkraukles" }
+  "LV": { "en": "Aluksnes" }
+  "LV": { "en": "Balvu" }
+  "LV": { "en": "Bauskas" }
+  "LV": { "en": "Cesu" }
+  "LV": { "en": "Daugavpils" }
+  "LV": { "en": "Daugavpils" }
+  "LV": { "en": "Dobeles" }
+  "LV": { "en": "Gulbenes" }
+  "LV": { "en": "Jekabpils" }
+  "LV": { "en": "Jelgava" }
+  "LV": { "en": "Jelgavas" }
+  "LV": { "en": "Jurmala" }
+  "LV": { "en": "Kraslavas" }
+  "LV": { "en": "Kuldigas" }
+  "LV": { "en": "Liepaja" }
+  "LV": { "en": "Liepajas" }
+  "LV": { "en": "Limbazu" }
+  "LV": { "en": "Ludzas" }
+  "LV": { "en": "Madonas" }
+  "LV": { "en": "Ogres" }
+  "LV": { "en": "Preilu" }
+  "LV": { "en": "Rezekne" }
+  "LV": { "en": "Rezeknes" }
+  "LV": { "en": "Riga" }
+  "LV": { "en": "Rigas" }
+  "LV": { "en": "Saldus" }
+  "LV": { "en": "Talsu" }
+  "LV": { "en": "Tukuma" }
+  "LV": { "en": "Valkas" }
+  "LV": { "en": "Valmieras" }
+  "LV": { "en": "Ventspils" }
+  "LV": { "en": "Ventspils" }
+  "LY": { "en": "Al Aziziyah" }
+  "LY": { "en": "Al Jufrah" }
+  "LY": { "en": "Al Kufrah" }
+  "LY": { "en": "Ash Shati'" }
+  "LY": { "en": "Murzuq" }
+  "LY": { "en": "Sabha" }
+  "LY": { "en": "Tarhunah" }
+  "LY": { "en": "Tubruq" }
+  "LY": { "en": "Zlitan" }
+  "LY": { "en": "Ajdabiya" }
+  "LY": { "en": "Al Fatih" }
+  "LY": { "en": "Al Jabal al Akhdar" }
+  "LY": { "en": "Al Khums" }
+  "LY": { "en": "An Nuqat al Khams" }
+  "LY": { "en": "Awbari" }
+  "LY": { "en": "Az Zawiyah" }
+  "LY": { "en": "Banghazi" }
+  "LY": { "en": "Darnah" }
+  "LY": { "en": "Ghadamis" }
+  "LY": { "en": "Gharyan" }
+  "LY": { "en": "Misratah" }
+  "LY": { "en": "Sawfajjin" }
+  "LY": { "en": "Surt" }
+  "LY": { "en": "Tarabulus" }
+  "LY": { "en": "Yafran" }
+  "MA": { "en": "Grand Casablanca" }
+  "MA": { "en": "Fes-Boulemane" }
+  "MA": { "en": "Marrakech-Tensift-Al Haouz" }
+  "MA": { "en": "Meknes-Tafilalet" }
+  "MA": { "en": "Rabat-Sale-Zemmour-Zaer" }
+  "MA": { "en": "Chaouia-Ouardigha" }
+  "MA": { "en": "Doukkala-Abda" }
+  "MA": { "en": "Gharb-Chrarda-Beni Hssen" }
+  "MA": { "en": "Guelmim-Es Smara" }
+  "MA": { "en": "Oriental" }
+  "MA": { "en": "Souss-Massa-Dr,a" }
+  "MA": { "en": "Tadla-Azilal" }
+  "MA": { "en": "Tanger-Tetouan" }
+  "MA": { "en": "Taza-Al Hoceima-Taounate" }
+  "MA": { "en": "La,youne-Boujdour-Sakia El Hamra" }
+  "MC": { "en": "La Condamine" }
+  "MC": { "en": "Monaco" }
+  "MC": { "en": "Monte-Carlo" }
+  "MD": { "en": "Gagauzia" }
+  "MD": { "en": "Chisinau" }
+  "MD": { "en": "Stinga Nistrului" }
+  "MD": { "en": "Anenii Noi" }
+  "MD": { "en": "Balti" }
+  "MD": { "en": "Basarabeasca" }
+  "MD": { "en": "Bender" }
+  "MD": { "en": "Briceni" }
+  "MD": { "en": "Cahul" }
+  "MD": { "en": "Cantemir" }
+  "MD": { "en": "Calarasi" }
+  "MD": { "en": "Causeni" }
+  "MD": { "en": "Cimislia" }
+  "MD": { "en": "Criuleni" }
+  "MD": { "en": "Donduseni" }
+  "MD": { "en": "Drochia" }
+  "MD": { "en": "Dubasari" }
+  "MD": { "en": "Edinet" }
+  "MD": { "en": "Falesti" }
+  "MD": { "en": "Floresti" }
+  "MD": { "en": "Glodeni" }
+  "MD": { "en": "Hincesti" }
+  "MD": { "en": "Ialoveni" }
+  "MD": { "en": "Leova" }
+  "MD": { "en": "Nisporeni" }
+  "MD": { "en": "Ocnita" }
+  "MD": { "en": "Orhei" }
+  "MD": { "en": "Rezina" }
+  "MD": { "en": "Riscani" }
+  "MD": { "en": "Singerei" }
+  "MD": { "en": "Soldanesti" }
+  "MD": { "en": "Soroca" }
+  "MD": { "en": "Stefan-Voda" }
+  "MD": { "en": "Straseni" }
+  "MD": { "en": "Taraclia" }
+  "MD": { "en": "Telenesti" }
+  "MD": { "en": "Ungheni" }
+  "MG": { "en": "Antsiranana" }
+  "MG": { "en": "Fianarantsoa" }
+  "MG": { "en": "Mahajanga" }
+  "MG": { "en": "Toamasina" }
+  "MG": { "en": "Antananarivo" }
+  "MG": { "en": "Toliara" }
+  "MK": { "en": "Aracinovo" }
+  "MK": { "en": "Bac" }
+  "MK": { "en": "Belcista" }
+  "MK": { "en": "Berovo" }
+  "MK": { "en": "Bistrica" }
+  "MK": { "en": "Bitola" }
+  "MK": { "en": "Blatec" }
+  "MK": { "en": "Bogdanci" }
+  "MK": { "en": "Bogomila" }
+  "MK": { "en": "Bogovinje" }
+  "MK": { "en": "Bosilovo" }
+  "MK": { "en": "Brvenica" }
+  "MK": { "en": "Cair" }
+  "MK": { "en": "Capari" }
+  "MK": { "en": "Caska" }
+  "MK": { "en": "Cegrane" }
+  "MK": { "en": "Centar" }
+  "MK": { "en": "Centar Zupa" }
+  "MK": { "en": "Cesinovo" }
+  "MK": { "en": "Cucer-Sandevo" }
+  "MK": { "en": "Debar" }
+  "MK": { "en": "Delcevo" }
+  "MK": { "en": "Delogozdi" }
+  "MK": { "en": "Demir Hisar" }
+  "MK": { "en": "Demir Kapija" }
+  "MK": { "en": "Dobrusevo" }
+  "MK": { "en": "Dolna Banjica" }
+  "MK": { "en": "Dolneni" }
+  "MK": { "en": "Dorce Petrov" }
+  "MK": { "en": "Drugovo" }
+  "MK": { "en": "Dzepciste" }
+  "MK": { "en": "Gazi Baba" }
+  "MK": { "en": "Gevgelija" }
+  "MK": { "en": "Gostivar" }
+  "MK": { "en": "Gradsko" }
+  "MK": { "en": "Ilinden" }
+  "MK": { "en": "Izvor" }
+  "MK": { "en": "Jegunovce" }
+  "MK": { "en": "Kamenjane" }
+  "MK": { "en": "Karbinci" }
+  "MK": { "en": "Karpos" }
+  "MK": { "en": "Kavadarci" }
+  "MK": { "en": "Kicevo" }
+  "MK": { "en": "Kisela Voda" }
+  "MK": { "en": "Klecevce" }
+  "MK": { "en": "Kocani" }
+  "MK": { "en": "Konce" }
+  "MK": { "en": "Kondovo" }
+  "MK": { "en": "Konopiste" }
+  "MK": { "en": "Kosel" }
+  "MK": { "en": "Kratovo" }
+  "MK": { "en": "Kriva Palanka" }
+  "MK": { "en": "Krivogastani" }
+  "MK": { "en": "Krusevo" }
+  "MK": { "en": "Kuklis" }
+  "MK": { "en": "Kukurecani" }
+  "MK": { "en": "Kumanovo" }
+  "MK": { "en": "Labunista" }
+  "MK": { "en": "Lipkovo" }
+  "MK": { "en": "Lozovo" }
+  "MK": { "en": "Lukovo" }
+  "MK": { "en": "Makedonska Kamenica" }
+  "MK": { "en": "Makedonski Brod" }
+  "MK": { "en": "Mavrovi Anovi" }
+  "MK": { "en": "Meseista" }
+  "MK": { "en": "Miravci" }
+  "MK": { "en": "Mogila" }
+  "MK": { "en": "Murtino" }
+  "MK": { "en": "Negotino" }
+  "MK": { "en": "Negotino-Polosko" }
+  "MK": { "en": "Novaci" }
+  "MK": { "en": "Novo Selo" }
+  "MK": { "en": "Oblesevo" }
+  "MK": { "en": "Ohrid" }
+  "MK": { "en": "Orasac" }
+  "MK": { "en": "Orizari" }
+  "MK": { "en": "Oslomej" }
+  "MK": { "en": "Pehcevo" }
+  "MK": { "en": "Petrovec" }
+  "MK": { "en": "Plasnica" }
+  "MK": { "en": "Podares" }
+  "MK": { "en": "Prilep" }
+  "MK": { "en": "Probistip" }
+  "MK": { "en": "Radovis" }
+  "MK": { "en": "Rankovce" }
+  "MK": { "en": "Resen" }
+  "MK": { "en": "Rosoman" }
+  "MK": { "en": "Rostusa" }
+  "MK": { "en": "Samokov" }
+  "MK": { "en": "Saraj" }
+  "MK": { "en": "Sipkovica" }
+  "MK": { "en": "Sopiste" }
+  "MK": { "en": "Sopotnica" }
+  "MK": { "en": "Srbinovo" }
+  "MK": { "en": "Staravina" }
+  "MK": { "en": "Star Dojran" }
+  "MK": { "en": "Staro Nagoricane" }
+  "MK": { "en": "Stip" }
+  "MK": { "en": "Struga" }
+  "MK": { "en": "Strumica" }
+  "MK": { "en": "Studenicani" }
+  "MK": { "en": "Suto Orizari" }
+  "MK": { "en": "Sveti Nikole" }
+  "MK": { "en": "Tearce" }
+  "MK": { "en": "Tetovo" }
+  "MK": { "en": "Topolcani" }
+  "MK": { "en": "Valandovo" }
+  "MK": { "en": "Vasilevo" }
+  "MK": { "en": "Veles" }
+  "MK": { "en": "Velesta" }
+  "MK": { "en": "Vevcani" }
+  "MK": { "en": "Vinica" }
+  "MK": { "en": "Vitoliste" }
+  "MK": { "en": "Vranestica" }
+  "MK": { "en": "Vrapciste" }
+  "MK": { "en": "Vratnica" }
+  "MK": { "en": "Vrutok" }
+  "MK": { "en": "Zajas" }
+  "MK": { "en": "Zelenikovo" }
+  "MK": { "en": "Zelino" }
+  "MK": { "en": "Zitose" }
+  "MK": { "en": "Zletovo" }
+  "MK": { "en": "Zrnovci" }
+  "ML": { "en": "Bamako" }
+  "ML": { "en": "Kayes" }
+  "ML": { "en": "Mopti" }
+  "ML": { "en": "Segou" }
+  "ML": { "en": "Sikasso" }
+  "ML": { "en": "Koulikoro" }
+  "ML": { "en": "Tombouctou" }
+  "ML": { "en": "Gao" }
+  "ML": { "en": "Kidal" }
+  "MM": { "en": "Rakhine State" }
+  "MM": { "en": "Chin State" }
+  "MM": { "en": "Irrawaddy" }
+  "MM": { "en": "Kachin State" }
+  "MM": { "en": "Karan State" }
+  "MM": { "en": "Kayah State" }
+  "MM": { "en": "Magwe" }
+  "MM": { "en": "Mandalay" }
+  "MM": { "en": "Pegu" }
+  "MM": { "en": "Sagaing" }
+  "MM": { "en": "Shan State" }
+  "MM": { "en": "Tenasserim" }
+  "MM": { "en": "Mon State" }
+  "MM": { "en": "Rangoon" }
+  "MM": { "en": "Yangon" }
+  "MN": { "en": "Arhangay" }
+  "MN": { "en": "Bayanhongor" }
+  "MN": { "en": "Bayan-Olgiy" }
+  "MN": { "en": "Darhan" }
+  "MN": { "en": "Dornod" }
+  "MN": { "en": "Dornogovi" }
+  "MN": { "en": "Dundgovi" }
+  "MN": { "en": "Dzavhan" }
+  "MN": { "en": "Govi-Altay" }
+  "MN": { "en": "Hentiy" }
+  "MN": { "en": "Hovd" }
+  "MN": { "en": "Hovsgol" }
+  "MN": { "en": "Omnogovi" }
+  "MN": { "en": "Ovorhangay" }
+  "MN": { "en": "Selenge" }
+  "MN": { "en": "Suhbaatar" }
+  "MN": { "en": "Tov" }
+  "MN": { "en": "Uvs" }
+  "MN": { "en": "Ulaanbaatar" }
+  "MN": { "en": "Bulgan" }
+  "MN": { "en": "Erdenet" }
+  "MN": { "en": "Darhan-Uul" }
+  "MN": { "en": "Govisumber" }
+  "MN": { "en": "Orhon" }
+  "MO": { "en": "Ilhas" }
+  "MO": { "en": "Macau" }
+  "MR": { "en": "Hodh Ech Chargui" }
+  "MR": { "en": "Hodh El Gharbi" }
+  "MR": { "en": "Assaba" }
+  "MR": { "en": "Gorgol" }
+  "MR": { "en": "Brakna" }
+  "MR": { "en": "Trarza" }
+  "MR": { "en": "Adrar" }
+  "MR": { "en": "Dakhlet Nouadhibou" }
+  "MR": { "en": "Tagant" }
+  "MR": { "en": "Guidimaka" }
+  "MR": { "en": "Tiris Zemmour" }
+  "MR": { "en": "Inchiri" }
+  "MS": { "en": "Saint Anthony" }
+  "MS": { "en": "Saint Georges" }
+  "MS": { "en": "Saint Peter" }
+  "MU": { "en": "Black River" }
+  "MU": { "en": "Flacq" }
+  "MU": { "en": "Grand Port" }
+  "MU": { "en": "Moka" }
+  "MU": { "en": "Pamplemousses" }
+  "MU": { "en": "Plaines Wilhems" }
+  "MU": { "en": "Port Louis" }
+  "MU": { "en": "Riviere du Rempart" }
+  "MU": { "en": "Savanne" }
+  "MU": { "en": "Agalega Islands" }
+  "MU": { "en": "Cargados Carajos" }
+  "MU": { "en": "Rodrigues" }
+  "MV": { "en": "Seenu" }
+  "MV": { "en": "Laamu" }
+  "MV": { "en": "Alifu" }
+  "MV": { "en": "Baa" }
+  "MV": { "en": "Dhaalu" }
+  "MV": { "en": "Faafu " }
+  "MV": { "en": "Gaafu Alifu" }
+  "MV": { "en": "Gaafu Dhaalu" }
+  "MV": { "en": "Haa Alifu" }
+  "MV": { "en": "Haa Dhaalu" }
+  "MV": { "en": "Kaafu" }
+  "MV": { "en": "Lhaviyani" }
+  "MV": { "en": "Maale" }
+  "MV": { "en": "Meemu" }
+  "MV": { "en": "Gnaviyani" }
+  "MV": { "en": "Noonu" }
+  "MV": { "en": "Raa" }
+  "MV": { "en": "Shaviyani" }
+  "MV": { "en": "Thaa" }
+  "MV": { "en": "Vaavu" }
+  "MW": { "en": "Chikwawa" }
+  "MW": { "en": "Chiradzulu" }
+  "MW": { "en": "Chitipa" }
+  "MW": { "en": "Thyolo" }
+  "MW": { "en": "Dedza" }
+  "MW": { "en": "Dowa" }
+  "MW": { "en": "Karonga" }
+  "MW": { "en": "Kasungu" }
+  "MW": { "en": "Lilongwe" }
+  "MW": { "en": "Mangochi" }
+  "MW": { "en": "Mchinji" }
+  "MW": { "en": "Mzimba" }
+  "MW": { "en": "Ntcheu" }
+  "MW": { "en": "Nkhata Bay" }
+  "MW": { "en": "Nkhotakota" }
+  "MW": { "en": "Nsanje" }
+  "MW": { "en": "Ntchisi" }
+  "MW": { "en": "Rumphi" }
+  "MW": { "en": "Salima" }
+  "MW": { "en": "Zomba" }
+  "MW": { "en": "Blantyre" }
+  "MW": { "en": "Mwanza" }
+  "MW": { "en": "Balaka" }
+  "MW": { "en": "Likoma" }
+  "MW": { "en": "Machinga" }
+  "MW": { "en": "Mulanje" }
+  "MW": { "en": "Phalombe" }
+  "MX": { "en": "Aguascalientes" }
+  "MX": { "en": "Baja California" }
+  "MX": { "en": "Baja California Sur" }
+  "MX": { "en": "Campeche" }
+  "MX": { "en": "Chiapas" }
+  "MX": { "en": "Chihuahua" }
+  "MX": { "en": "Coahuila de Zaragoza" }
+  "MX": { "en": "Colima" }
+  "MX": { "en": "Distrito Federal" }
+  "MX": { "en": "Durango" }
+  "MX": { "en": "Guanajuato" }
+  "MX": { "en": "Guerrero" }
+  "MX": { "en": "Hidalgo" }
+  "MX": { "en": "Jalisco" }
+  "MX": { "en": "Mexico" }
+  "MX": { "en": "Michoacan de Ocampo" }
+  "MX": { "en": "Morelos" }
+  "MX": { "en": "Nayarit" }
+  "MX": { "en": "Nuevo Leon" }
+  "MX": { "en": "Oaxaca" }
+  "MX": { "en": "Puebla" }
+  "MX": { "en": "Queretaro de Arteaga" }
+  "MX": { "en": "Quintana Roo" }
+  "MX": { "en": "San Luis Potosi" }
+  "MX": { "en": "Sinaloa" }
+  "MX": { "en": "Sonora" }
+  "MX": { "en": "Tabasco" }
+  "MX": { "en": "Tamaulipas" }
+  "MX": { "en": "Tlaxcala" }
+  "MX": { "en": "Veracruz-Llave" }
+  "MX": { "en": "Yucatan" }
+  "MX": { "en": "Zacatecas" }
+  "MY": { "en": "Johor" }
+  "MY": { "en": "Kedah" }
+  "MY": { "en": "Kelantan" }
+  "MY": { "en": "Melaka" }
+  "MY": { "en": "Negeri Sembilan" }
+  "MY": { "en": "Pahang" }
+  "MY": { "en": "Perak" }
+  "MY": { "en": "Perlis" }
+  "MY": { "en": "Pulau Pinang" }
+  "MY": { "en": "Sarawak" }
+  "MY": { "en": "Selangor" }
+  "MY": { "en": "Terengganu" }
+  "MY": { "en": "Kuala Lumpur" }
+  "MY": { "en": "Labuan" }
+  "MY": { "en": "Sabah" }
+  "MY": { "en": "Putrajaya" }
+  "MZ": { "en": "Cabo Delgado" }
+  "MZ": { "en": "Gaza" }
+  "MZ": { "en": "Inhambane" }
+  "MZ": { "en": "Maputo" }
+  "MZ": { "en": "Sofala" }
+  "MZ": { "en": "Nampula" }
+  "MZ": { "en": "Niassa" }
+  "MZ": { "en": "Tete" }
+  "MZ": { "en": "Zambezia" }
+  "MZ": { "en": "Manica" }
+  "MZ": { "en": "Maputo" }
+  "NA": { "en": "Bethanien" }
+  "NA": { "en": "Caprivi Oos" }
+  "NA": { "en": "Boesmanland" }
+  "NA": { "en": "Gobabis" }
+  "NA": { "en": "Grootfontein" }
+  "NA": { "en": "Kaokoland" }
+  "NA": { "en": "Karibib" }
+  "NA": { "en": "Keetmanshoop" }
+  "NA": { "en": "Luderitz" }
+  "NA": { "en": "Maltahohe" }
+  "NA": { "en": "Okahandja" }
+  "NA": { "en": "Omaruru" }
+  "NA": { "en": "Otjiwarongo" }
+  "NA": { "en": "Outjo" }
+  "NA": { "en": "Owambo" }
+  "NA": { "en": "Rehoboth" }
+  "NA": { "en": "Swakopmund" }
+  "NA": { "en": "Tsumeb" }
+  "NA": { "en": "Karasburg" }
+  "NA": { "en": "Windhoek" }
+  "NA": { "en": "Damaraland" }
+  "NA": { "en": "Hereroland Oos" }
+  "NA": { "en": "Hereroland Wes" }
+  "NA": { "en": "Kavango" }
+  "NA": { "en": "Mariental" }
+  "NA": { "en": "Namaland" }
+  "NA": { "en": "Caprivi" }
+  "NA": { "en": "Erongo" }
+  "NA": { "en": "Hardap" }
+  "NA": { "en": "Karas" }
+  "NA": { "en": "Kunene" }
+  "NA": { "en": "Ohangwena" }
+  "NA": { "en": "Okavango" }
+  "NA": { "en": "Omaheke" }
+  "NA": { "en": "Omusati" }
+  "NA": { "en": "Oshana" }
+  "NA": { "en": "Oshikoto" }
+  "NA": { "en": "Otjozondjupa" }
+  "NE": { "en": "Agadez" }
+  "NE": { "en": "Diffa" }
+  "NE": { "en": "Dosso" }
+  "NE": { "en": "Maradi" }
+  "NE": { "en": "Niamey" }
+  "NE": { "en": "Tahoua" }
+  "NE": { "en": "Zinder" }
+  "NE": { "en": "Niamey" }
+  "NG": { "en": "Lagos" }
+  "NG": { "en": "Federal Capital Territory" }
+  "NG": { "en": "Ogun" }
+  "NG": { "en": "Akwa Ibom" }
+  "NG": { "en": "Cross River" }
+  "NG": { "en": "Kaduna" }
+  "NG": { "en": "Katsina" }
+  "NG": { "en": "Anambra" }
+  "NG": { "en": "Benue" }
+  "NG": { "en": "Borno" }
+  "NG": { "en": "Imo" }
+  "NG": { "en": "Kano" }
+  "NG": { "en": "Kwara" }
+  "NG": { "en": "Niger" }
+  "NG": { "en": "Oyo" }
+  "NG": { "en": "Adamawa" }
+  "NG": { "en": "Delta" }
+  "NG": { "en": "Edo" }
+  "NG": { "en": "Jigawa" }
+  "NG": { "en": "Kebbi" }
+  "NG": { "en": "Kogi" }
+  "NG": { "en": "Osun" }
+  "NG": { "en": "Taraba" }
+  "NG": { "en": "Yobe" }
+  "NG": { "en": "Abia" }
+  "NG": { "en": "Bauchi" }
+  "NG": { "en": "Enugu" }
+  "NG": { "en": "Ondo" }
+  "NG": { "en": "Plateau" }
+  "NG": { "en": "Rivers" }
+  "NG": { "en": "Sokoto" }
+  "NG": { "en": "Bayelsa" }
+  "NG": { "en": "Ebonyi" }
+  "NG": { "en": "Ekiti" }
+  "NG": { "en": "Gombe" }
+  "NG": { "en": "Nassarawa" }
+  "NG": { "en": "Zamfara" }
+  "NI": { "en": "Boaco" }
+  "NI": { "en": "Carazo" }
+  "NI": { "en": "Chinandega" }
+  "NI": { "en": "Chontales" }
+  "NI": { "en": "Esteli" }
+  "NI": { "en": "Granada" }
+  "NI": { "en": "Jinotega" }
+  "NI": { "en": "Leon" }
+  "NI": { "en": "Madriz" }
+  "NI": { "en": "Managua" }
+  "NI": { "en": "Masaya" }
+  "NI": { "en": "Matagalpa" }
+  "NI": { "en": "Nueva Segovia" }
+  "NI": { "en": "Rio San Juan" }
+  "NI": { "en": "Rivas" }
+  "NI": { "en": "Zelaya" }
+  "NI": { "en": "Autonoma Atlantico Norte" }
+  "NI": { "en": "Region Autonoma Atlantico Sur" }
+  "NL": { "en": "Drenthe" }
+  "NL": { "en": "Friesland" }
+  "NL": { "en": "Gelderland" }
+  "NL": { "en": "Groningen" }
+  "NL": { "en": "Limburg" }
+  "NL": { "en": "Noord-Brabant" }
+  "NL": { "en": "Noord-Holland" }
+  "NL": { "en": "Utrecht" }
+  "NL": { "en": "Zeeland" }
+  "NL": { "en": "Zuid-Holland" }
+  "NL": { "en": "Overijssel" }
+  "NL": { "en": "Flevoland" }
+  "NO": { "en": "Akershus" }
+  "NO": { "en": "Aust-Agder" }
+  "NO": { "en": "Buskerud" }
+  "NO": { "en": "Finnmark" }
+  "NO": { "en": "Hedmark" }
+  "NO": { "en": "Hordaland" }
+  "NO": { "en": "More og Romsdal" }
+  "NO": { "en": "Nordland" }
+  "NO": { "en": "Nord-Trondelag" }
+  "NO": { "en": "Oppland" }
+  "NO": { "en": "Oslo" }
+  "NO": { "en": "Ostfold" }
+  "NO": { "en": "Rogaland" }
+  "NO": { "en": "Sogn og Fjordane" }
+  "NO": { "en": "Sor-Trondelag" }
+  "NO": { "en": "Telemark" }
+  "NO": { "en": "Troms" }
+  "NO": { "en": "Vest-Agder" }
+  "NO": { "en": "Vestfold" }
+  "NP": { "en": "Bagmati" }
+  "NP": { "en": "Bheri" }
+  "NP": { "en": "Dhawalagiri" }
+  "NP": { "en": "Gandaki" }
+  "NP": { "en": "Janakpur" }
+  "NP": { "en": "Karnali" }
+  "NP": { "en": "Kosi" }
+  "NP": { "en": "Lumbini" }
+  "NP": { "en": "Mahakali" }
+  "NP": { "en": "Mechi" }
+  "NP": { "en": "Narayani" }
+  "NP": { "en": "Rapti" }
+  "NP": { "en": "Sagarmatha" }
+  "NP": { "en": "Seti" }
+  "NR": { "en": "Aiwo" }
+  "NR": { "en": "Anabar" }
+  "NR": { "en": "Anetan" }
+  "NR": { "en": "Anibare" }
+  "NR": { "en": "Baiti" }
+  "NR": { "en": "Boe" }
+  "NR": { "en": "Buada" }
+  "NR": { "en": "Denigomodu" }
+  "NR": { "en": "Ewa" }
+  "NR": { "en": "Ijuw" }
+  "NR": { "en": "Meneng" }
+  "NR": { "en": "Nibok" }
+  "NR": { "en": "Uaboe" }
+  "NR": { "en": "Yaren" }
+  "NZ": { "en": "Chatham Islands" }
+  "NZ": { "en": "Auckland" }
+  "NZ": { "en": "Bay of Plenty" }
+  "NZ": { "en": "Canterbury" }
+  "NZ": { "en": "Gisborne" }
+  "NZ": { "en": "Hawke's Bay" }
+  "NZ": { "en": "Manawatu-Wanganui" }
+  "NZ": { "en": "Marlborough" }
+  "NZ": { "en": "Nelson" }
+  "NZ": { "en": "Northland" }
+  "NZ": { "en": "Otago" }
+  "NZ": { "en": "Southland" }
+  "NZ": { "en": "Taranaki" }
+  "NZ": { "en": "Waikato" }
+  "NZ": { "en": "Wellington" }
+  "NZ": { "en": "West Coast" }
+  "OM": { "en": "Ad Dakhiliyah" }
+  "OM": { "en": "Al Batinah" }
+  "OM": { "en": "Al Wusta" }
+  "OM": { "en": "Ash Sharqiyah" }
+  "OM": { "en": "Az Zahirah" }
+  "OM": { "en": "Masqat" }
+  "OM": { "en": "Musandam" }
+  "OM": { "en": "Zufar" }
+  "PA": { "en": "Bocas del Toro" }
+  "PA": { "en": "Chiriqui" }
+  "PA": { "en": "Cocle" }
+  "PA": { "en": "Colon" }
+  "PA": { "en": "Darien" }
+  "PA": { "en": "Herrera" }
+  "PA": { "en": "Los Santos" }
+  "PA": { "en": "Panama" }
+  "PA": { "en": "San Blas" }
+  "PA": { "en": "Veraguas" }
+  "PE": { "en": "Amazonas" }
+  "PE": { "en": "Ancash" }
+  "PE": { "en": "Apurimac" }
+  "PE": { "en": "Arequipa" }
+  "PE": { "en": "Ayacucho" }
+  "PE": { "en": "Cajamarca" }
+  "PE": { "en": "Callao" }
+  "PE": { "en": "Cusco" }
+  "PE": { "en": "Huancavelica" }
+  "PE": { "en": "Huanuco" }
+  "PE": { "en": "Ica" }
+  "PE": { "en": "Junin" }
+  "PE": { "en": "La Libertad" }
+  "PE": { "en": "Lambayeque" }
+  "PE": { "en": "Lima" }
+  "PE": { "en": "Loreto" }
+  "PE": { "en": "Madre de Dios" }
+  "PE": { "en": "Moquegua" }
+  "PE": { "en": "Pasco" }
+  "PE": { "en": "Piura" }
+  "PE": { "en": "Puno" }
+  "PE": { "en": "San Martin" }
+  "PE": { "en": "Tacna" }
+  "PE": { "en": "Tumbes" }
+  "PE": { "en": "Ucayali" }
+  "PG": { "en": "Central" }
+  "PG": { "en": "Gulf" }
+  "PG": { "en": "Milne Bay" }
+  "PG": { "en": "Northern" }
+  "PG": { "en": "Southern Highlands" }
+  "PG": { "en": "Western" }
+  "PG": { "en": "North Solomons" }
+  "PG": { "en": "Chimbu" }
+  "PG": { "en": "Eastern Highlands" }
+  "PG": { "en": "East New Britain" }
+  "PG": { "en": "East Sepik" }
+  "PG": { "en": "Madang" }
+  "PG": { "en": "Manus" }
+  "PG": { "en": "Morobe" }
+  "PG": { "en": "New Ireland" }
+  "PG": { "en": "Western Highlands" }
+  "PG": { "en": "West New Britain" }
+  "PG": { "en": "Sandaun" }
+  "PG": { "en": "Enga" }
+  "PG": { "en": "National Capital" }
+  "PH": { "en": "Abra" }
+  "PH": { "en": "Agusan del Norte" }
+  "PH": { "en": "Agusan del Sur" }
+  "PH": { "en": "Aklan" }
+  "PH": { "en": "Albay" }
+  "PH": { "en": "Antique" }
+  "PH": { "en": "Bataan" }
+  "PH": { "en": "Batanes" }
+  "PH": { "en": "Batangas" }
+  "PH": { "en": "Benguet" }
+  "PH": { "en": "Bohol" }
+  "PH": { "en": "Bukidnon" }
+  "PH": { "en": "Bulacan" }
+  "PH": { "en": "Cagayan" }
+  "PH": { "en": "Camarines Norte" }
+  "PH": { "en": "Camarines Sur" }
+  "PH": { "en": "Camiguin" }
+  "PH": { "en": "Capiz" }
+  "PH": { "en": "Catanduanes" }
+  "PH": { "en": "Cavite" }
+  "PH": { "en": "Cebu" }
+  "PH": { "en": "Basilan" }
+  "PH": { "en": "Eastern Samar" }
+  "PH": { "en": "Davao" }
+  "PH": { "en": "Davao del Sur" }
+  "PH": { "en": "Davao Oriental" }
+  "PH": { "en": "Ifugao" }
+  "PH": { "en": "Ilocos Norte" }
+  "PH": { "en": "Ilocos Sur" }
+  "PH": { "en": "Iloilo" }
+  "PH": { "en": "Isabela" }
+  "PH": { "en": "Kalinga-Apayao" }
+  "PH": { "en": "Laguna" }
+  "PH": { "en": "Lanao del Norte" }
+  "PH": { "en": "Lanao del Sur" }
+  "PH": { "en": "La Union" }
+  "PH": { "en": "Leyte" }
+  "PH": { "en": "Marinduque" }
+  "PH": { "en": "Masbate" }
+  "PH": { "en": "Mindoro Occidental" }
+  "PH": { "en": "Mindoro Oriental" }
+  "PH": { "en": "Misamis Occidental" }
+  "PH": { "en": "Misamis Oriental" }
+  "PH": { "en": "Mountain" }
+  "PH": { "en": "Negros Occidental" }
+  "PH": { "en": "Negros Oriental" }
+  "PH": { "en": "Nueva Ecija" }
+  "PH": { "en": "Nueva Vizcaya" }
+  "PH": { "en": "Palawan" }
+  "PH": { "en": "Pampanga" }
+  "PH": { "en": "Pangasinan" }
+  "PH": { "en": "Rizal" }
+  "PH": { "en": "Romblon" }
+  "PH": { "en": "Samar" }
+  "PH": { "en": "Maguindanao" }
+  "PH": { "en": "North Cotabato" }
+  "PH": { "en": "Sorsogon" }
+  "PH": { "en": "Southern Leyte" }
+  "PH": { "en": "Sulu" }
+  "PH": { "en": "Surigao del Norte" }
+  "PH": { "en": "Surigao del Sur" }
+  "PH": { "en": "Tarlac" }
+  "PH": { "en": "Zambales" }
+  "PH": { "en": "Zamboanga del Norte" }
+  "PH": { "en": "Zamboanga del Sur" }
+  "PH": { "en": "Northern Samar" }
+  "PH": { "en": "Quirino" }
+  "PH": { "en": "Siquijor" }
+  "PH": { "en": "South Cotabato" }
+  "PH": { "en": "Sultan Kudarat" }
+  "PH": { "en": "Tawitawi" }
+  "PH": { "en": "Angeles" }
+  "PH": { "en": "Bacolod" }
+  "PH": { "en": "Bago" }
+  "PH": { "en": "Baguio" }
+  "PH": { "en": "Bais" }
+  "PH": { "en": "Basilan City" }
+  "PH": { "en": "Batangas City" }
+  "PH": { "en": "Butuan" }
+  "PH": { "en": "Cabanatuan" }
+  "PH": { "en": "Cadiz" }
+  "PH": { "en": "Cagayan de Oro" }
+  "PH": { "en": "Calbayog" }
+  "PH": { "en": "Caloocan" }
+  "PH": { "en": "Canlaon" }
+  "PH": { "en": "Cavite City" }
+  "PH": { "en": "Cebu City" }
+  "PH": { "en": "Cotabato" }
+  "PH": { "en": "Dagupan" }
+  "PH": { "en": "Danao" }
+  "PH": { "en": "Dapitan" }
+  "PH": { "en": "Davao City" }
+  "PH": { "en": "Dipolog" }
+  "PH": { "en": "Dumaguete" }
+  "PH": { "en": "General Santos" }
+  "PH": { "en": "Gingoog" }
+  "PH": { "en": "Iligan" }
+  "PH": { "en": "Iloilo City" }
+  "PH": { "en": "Iriga" }
+  "PH": { "en": "La Carlota" }
+  "PH": { "en": "Laoag" }
+  "PH": { "en": "Lapu-Lapu" }
+  "PH": { "en": "Legaspi" }
+  "PH": { "en": "Lipa" }
+  "PH": { "en": "Lucena" }
+  "PH": { "en": "Mandaue" }
+  "PH": { "en": "Manila" }
+  "PH": { "en": "Marawi" }
+  "PH": { "en": "Naga" }
+  "PH": { "en": "Olongapo" }
+  "PH": { "en": "Ormoc" }
+  "PH": { "en": "Oroquieta" }
+  "PH": { "en": "Ozamis" }
+  "PH": { "en": "Pagadian" }
+  "PH": { "en": "Palayan" }
+  "PH": { "en": "Pasay" }
+  "PH": { "en": "Puerto Princesa" }
+  "PH": { "en": "Quezon City" }
+  "PH": { "en": "Roxas" }
+  "PH": { "en": "San Carlos" }
+  "PH": { "en": "San Carlos" }
+  "PH": { "en": "San Jose" }
+  "PH": { "en": "San Pablo" }
+  "PH": { "en": "Silay" }
+  "PH": { "en": "Surigao" }
+  "PH": { "en": "Tacloban" }
+  "PH": { "en": "Tagaytay" }
+  "PH": { "en": "Tagbilaran" }
+  "PH": { "en": "Tangub" }
+  "PH": { "en": "Toledo" }
+  "PH": { "en": "Trece Martires" }
+  "PH": { "en": "Zamboanga" }
+  "PH": { "en": "Aurora" }
+  "PH": { "en": "Quezon" }
+  "PH": { "en": "Negros Occidental" }
+  "PH": { "en": "Compostela Valley" }
+  "PH": { "en": "Davao del Norte" }
+  "PH": { "en": "Kalinga" }
+  "PH": { "en": "Malaybalay" }
+  "PH": { "en": "Zambales" }
+  "PH": { "en": "San Jose del Monte" }
+  "PH": { "en": "San Juan" }
+  "PH": { "en": "Santiago" }
+  "PH": { "en": "Sarangani" }
+  "PH": { "en": "Sipalay" }
+  "PH": { "en": "Surigao del Norte" }
+  "PH": { "en": "Zamboanga" }
+  "PK": { "en": "Federally Administered Tribal Areas" }
+  "PK": { "en": "Balochistan" }
+  "PK": { "en": "North-West Frontier" }
+  "PK": { "en": "Punjab" }
+  "PK": { "en": "Sindh" }
+  "PK": { "en": "Azad Kashmir" }
+  "PK": { "en": "Northern Areas" }
+  "PK": { "en": "Islamabad" }
+  "PL": { "en": "Dolnoslaskie" }
+  "PL": { "en": "Kujawsko-Pomorskie" }
+  "PL": { "en": "Lodzkie" }
+  "PL": { "en": "Lubelskie" }
+  "PL": { "en": "Lubuskie" }
+  "PL": { "en": "Malopolskie" }
+  "PL": { "en": "Mazowieckie" }
+  "PL": { "en": "Opolskie" }
+  "PL": { "en": "Podkarpackie" }
+  "PL": { "en": "Podlaskie" }
+  "PL": { "en": "Pomorskie" }
+  "PL": { "en": "Slaskie" }
+  "PL": { "en": "Swietokrzyskie" }
+  "PL": { "en": "Warminsko-Mazurskie" }
+  "PL": { "en": "Wielkopolskie" }
+  "PL": { "en": "Zachodniopomorskie" }
+  "PS": { "en": "Gaza" }
+  "PS": { "en": "West Bank" }
+  "PT": { "en": "Aveiro" }
+  "PT": { "en": "Beja" }
+  "PT": { "en": "Braga" }
+  "PT": { "en": "Braganca" }
+  "PT": { "en": "Castelo Branco" }
+  "PT": { "en": "Coimbra" }
+  "PT": { "en": "Evora" }
+  "PT": { "en": "Faro" }
+  "PT": { "en": "Madeira" }
+  "PT": { "en": "Guarda" }
+  "PT": { "en": "Leiria" }
+  "PT": { "en": "Lisboa" }
+  "PT": { "en": "Portalegre" }
+  "PT": { "en": "Porto" }
+  "PT": { "en": "Santarem" }
+  "PT": { "en": "Setubal" }
+  "PT": { "en": "Viana do Castelo" }
+  "PT": { "en": "Vila Real" }
+  "PT": { "en": "Viseu" }
+  "PT": { "en": "Azores" }
+  "PY": { "en": "Alto Parana" }
+  "PY": { "en": "Amambay" }
+  "PY": { "en": "Boqueron" }
+  "PY": { "en": "Caaguazu" }
+  "PY": { "en": "Caazapa" }
+  "PY": { "en": "Central" }
+  "PY": { "en": "Concepcion" }
+  "PY": { "en": "Cordillera" }
+  "PY": { "en": "Guaira" }
+  "PY": { "en": "Itapua" }
+  "PY": { "en": "Misiones" }
+  "PY": { "en": "Neembucu" }
+  "PY": { "en": "Paraguari" }
+  "PY": { "en": "Presidente Hayes" }
+  "PY": { "en": "San Pedro" }
+  "PY": { "en": "Canindeyu" }
+  "PY": { "en": "Chaco" }
+  "PY": { "en": "Nueva Asuncion" }
+  "PY": { "en": "Alto Paraguay" }
+  "QA": { "en": "Ad Dawhah" }
+  "QA": { "en": "Al Ghuwariyah" }
+  "QA": { "en": "Al Jumaliyah" }
+  "QA": { "en": "Al Khawr" }
+  "QA": { "en": "Al Wakrah Municipality" }
+  "QA": { "en": "Ar Rayyan" }
+  "QA": { "en": "Madinat ach Shamal" }
+  "QA": { "en": "Umm Salal" }
+  "QA": { "en": "Al Wakrah" }
+  "QA": { "en": "Jariyan al Batnah" }
+  "QA": { "en": "Umm Sa'id" }
+  "RO": { "en": "Alba" }
+  "RO": { "en": "Arad" }
+  "RO": { "en": "Arges" }
+  "RO": { "en": "Bacau" }
+  "RO": { "en": "Bihor" }
+  "RO": { "en": "Bistrita-Nasaud" }
+  "RO": { "en": "Botosani" }
+  "RO": { "en": "Braila" }
+  "RO": { "en": "Brasov" }
+  "RO": { "en": "Bucuresti" }
+  "RO": { "en": "Buzau" }
+  "RO": { "en": "Caras-Severin" }
+  "RO": { "en": "Cluj" }
+  "RO": { "en": "Constanta" }
+  "RO": { "en": "Covasna" }
+  "RO": { "en": "Dambovita" }
+  "RO": { "en": "Dolj" }
+  "RO": { "en": "Galati" }
+  "RO": { "en": "Gorj" }
+  "RO": { "en": "Harghita" }
+  "RO": { "en": "Hunedoara" }
+  "RO": { "en": "Ialomita" }
+  "RO": { "en": "Iasi" }
+  "RO": { "en": "Maramures" }
+  "RO": { "en": "Mehedinti" }
+  "RO": { "en": "Mures" }
+  "RO": { "en": "Neamt" }
+  "RO": { "en": "Olt" }
+  "RO": { "en": "Prahova" }
+  "RO": { "en": "Salaj" }
+  "RO": { "en": "Satu Mare" }
+  "RO": { "en": "Sibiu" }
+  "RO": { "en": "Suceava" }
+  "RO": { "en": "Teleorman" }
+  "RO": { "en": "Timis" }
+  "RO": { "en": "Tulcea" }
+  "RO": { "en": "Vaslui" }
+  "RO": { "en": "Valcea" }
+  "RO": { "en": "Vrancea" }
+  "RO": { "en": "Calarasi" }
+  "RO": { "en": "Giurgiu" }
+  "RO": { "en": "Ilfov" }
+  "RS": { "en": "Kosovo" }
+  "RS": { "en": "Vojvodina" }
+  "RU": { "en": "Adygeya, Republic of" }
+  "RU": { "en": "Aginsky Buryatsky AO" }
+  "RU": { "en": "Gorno-Altay" }
+  "RU": { "en": "Altaisky krai" }
+  "RU": { "en": "Amur" }
+  "RU": { "en": "Arkhangel'sk" }
+  "RU": { "en": "Astrakhan'" }
+  "RU": { "en": "Bashkortostan" }
+  "RU": { "en": "Belgorod" }
+  "RU": { "en": "Bryansk" }
+  "RU": { "en": "Buryat" }
+  "RU": { "en": "Chechnya" }
+  "RU": { "en": "Chelyabinsk" }
+  "RU": { "en": "Chita" }
+  "RU": { "en": "Chukot" }
+  "RU": { "en": "Chuvashia" }
+  "RU": { "en": "Dagestan" }
+  "RU": { "en": "Evenk" }
+  "RU": { "en": "Ingush" }
+  "RU": { "en": "Irkutsk" }
+  "RU": { "en": "Ivanovo" }
+  "RU": { "en": "Kabardin-Balkar" }
+  "RU": { "en": "Kaliningrad" }
+  "RU": { "en": "Kalmyk" }
+  "RU": { "en": "Kaluga" }
+  "RU": { "en": "Kamchatka" }
+  "RU": { "en": "Karachay-Cherkess" }
+  "RU": { "en": "Karelia" }
+  "RU": { "en": "Kemerovo" }
+  "RU": { "en": "Khabarovsk" }
+  "RU": { "en": "Khakass" }
+  "RU": { "en": "Khanty-Mansiy" }
+  "RU": { "en": "Kirov" }
+  "RU": { "en": "Komi" }
+  "RU": { "en": "Komi-Permyak" }
+  "RU": { "en": "Koryak" }
+  "RU": { "en": "Kostroma" }
+  "RU": { "en": "Krasnodar" }
+  "RU": { "en": "Krasnoyarsk" }
+  "RU": { "en": "Kurgan" }
+  "RU": { "en": "Kursk" }
+  "RU": { "en": "Leningrad" }
+  "RU": { "en": "Lipetsk" }
+  "RU": { "en": "Magadan" }
+  "RU": { "en": "Mariy-El" }
+  "RU": { "en": "Mordovia" }
+  "RU": { "en": "Moskva" }
+  "RU": { "en": "Moscow City" }
+  "RU": { "en": "Murmansk" }
+  "RU": { "en": "Nenets" }
+  "RU": { "en": "Nizhegorod" }
+  "RU": { "en": "Novgorod" }
+  "RU": { "en": "Novosibirsk" }
+  "RU": { "en": "Omsk" }
+  "RU": { "en": "Orenburg" }
+  "RU": { "en": "Orel" }
+  "RU": { "en": "Penza" }
+  "RU": { "en": "Perm'" }
+  "RU": { "en": "Primor'ye" }
+  "RU": { "en": "Pskov" }
+  "RU": { "en": "Rostov" }
+  "RU": { "en": "Ryazan'" }
+  "RU": { "en": "Sakha" }
+  "RU": { "en": "Sakhalin" }
+  "RU": { "en": "Samara" }
+  "RU": { "en": "Saint Petersburg City" }
+  "RU": { "en": "Saratov" }
+  "RU": { "en": "North Ossetia" }
+  "RU": { "en": "Smolensk" }
+  "RU": { "en": "Stavropol'" }
+  "RU": { "en": "Sverdlovsk" }
+  "RU": { "en": "Tambovskaya oblast" }
+  "RU": { "en": "Tatarstan" }
+  "RU": { "en": "Taymyr" }
+  "RU": { "en": "Tomsk" }
+  "RU": { "en": "Tula" }
+  "RU": { "en": "Tver'" }
+  "RU": { "en": "Tyumen'" }
+  "RU": { "en": "Tuva" }
+  "RU": { "en": "Udmurt" }
+  "RU": { "en": "Ul'yanovsk" }
+  "RU": { "en": "Ust-Orda Buryat" }
+  "RU": { "en": "Vladimir" }
+  "RU": { "en": "Volgograd" }
+  "RU": { "en": "Vologda" }
+  "RU": { "en": "Voronezh" }
+  "RU": { "en": "Yamal-Nenets" }
+  "RU": { "en": "Yaroslavl'" }
+  "RU": { "en": "Yevrey" }
+  "RU": { "en": "Permskiy Kray" }
+  "RU": { "en": "Krasnoyarskiy Kray" }
+  "RU": { "en": "Kamchatskiy Kray" }
+  "RU": { "en": "Zabaykal'skiy Kray" }
+  "RW": { "en": "Butare" }
+  "RW": { "en": "Gitarama" }
+  "RW": { "en": "Kibungo" }
+  "RW": { "en": "Kigali" }
+  "RW": { "en": "Est" }
+  "RW": { "en": "Kigali" }
+  "RW": { "en": "Nord" }
+  "RW": { "en": "Ouest" }
+  "RW": { "en": "Sud" }
+  "SA": { "en": "Al Bahah" }
+  "SA": { "en": "Al Madinah" }
+  "SA": { "en": "Ash Sharqiyah" }
+  "SA": { "en": "Al Qasim" }
+  "SA": { "en": "Ar Riyad" }
+  "SA": { "en": "Asir Province" }
+  "SA": { "en": "Ha'il" }
+  "SA": { "en": "Makkah" }
+  "SA": { "en": "Al Hudud ash Shamaliyah" }
+  "SA": { "en": "Najran" }
+  "SA": { "en": "Jizan" }
+  "SA": { "en": "Tabuk" }
+  "SA": { "en": "Al Jawf" }
+  "SB": { "en": "Malaita" }
+  "SB": { "en": "Guadalcanal" }
+  "SB": { "en": "Isabel" }
+  "SB": { "en": "Makira" }
+  "SB": { "en": "Temotu" }
+  "SB": { "en": "Central" }
+  "SB": { "en": "Western" }
+  "SB": { "en": "Choiseul" }
+  "SB": { "en": "Rennell and Bellona" }
+  "SC": { "en": "Anse aux Pins" }
+  "SC": { "en": "Anse Boileau" }
+  "SC": { "en": "Anse Etoile" }
+  "SC": { "en": "Anse Louis" }
+  "SC": { "en": "Anse Royale" }
+  "SC": { "en": "Baie Lazare" }
+  "SC": { "en": "Baie Sainte Anne" }
+  "SC": { "en": "Beau Vallon" }
+  "SC": { "en": "Bel Air" }
+  "SC": { "en": "Bel Ombre" }
+  "SC": { "en": "Cascade" }
+  "SC": { "en": "Glacis" }
+  "SC": { "en": "Grand' Anse" }
+  "SC": { "en": "Grand' Anse" }
+  "SC": { "en": "La Digue" }
+  "SC": { "en": "La Riviere Anglaise" }
+  "SC": { "en": "Mont Buxton" }
+  "SC": { "en": "Mont Fleuri" }
+  "SC": { "en": "Plaisance" }
+  "SC": { "en": "Pointe La Rue" }
+  "SC": { "en": "Port Glaud" }
+  "SC": { "en": "Saint Louis" }
+  "SC": { "en": "Takamaka" }
+  "SD": { "en": "Al Wusta" }
+  "SD": { "en": "Al Istiwa'iyah" }
+  "SD": { "en": "Al Khartum" }
+  "SD": { "en": "Ash Shamaliyah" }
+  "SD": { "en": "Ash Sharqiyah" }
+  "SD": { "en": "Bahr al Ghazal" }
+  "SD": { "en": "Darfur" }
+  "SD": { "en": "Kurdufan" }
+  "SD": { "en": "Upper Nile" }
+  "SD": { "en": "Al Wahadah State" }
+  "SD": { "en": "Central Equatoria State" }
+  "SE": { "en": "Blekinge Lan" }
+  "SE": { "en": "Gavleborgs Lan" }
+  "SE": { "en": "Gotlands Lan" }
+  "SE": { "en": "Hallands Lan" }
+  "SE": { "en": "Jamtlands Lan" }
+  "SE": { "en": "Jonkopings Lan" }
+  "SE": { "en": "Kalmar Lan" }
+  "SE": { "en": "Dalarnas Lan" }
+  "SE": { "en": "Kronobergs Lan" }
+  "SE": { "en": "Norrbottens Lan" }
+  "SE": { "en": "Orebro Lan" }
+  "SE": { "en": "Ostergotlands Lan" }
+  "SE": { "en": "Sodermanlands Lan" }
+  "SE": { "en": "Uppsala Lan" }
+  "SE": { "en": "Varmlands Lan" }
+  "SE": { "en": "Vasterbottens Lan" }
+  "SE": { "en": "Vasternorrlands Lan" }
+  "SE": { "en": "Vastmanlands Lan" }
+  "SE": { "en": "Stockholms Lan" }
+  "SE": { "en": "Skane Lan" }
+  "SE": { "en": "Vastra Gotaland" }
+  "SH": { "en": "Ascension" }
+  "SH": { "en": "Saint Helena" }
+  "SH": { "en": "Tristan da Cunha" }
+  "SI": { "en": "Ajdovscina Commune" }
+  "SI": { "en": "Beltinci Commune" }
+  "SI": { "en": "Bled Commune" }
+  "SI": { "en": "Bohinj Commune" }
+  "SI": { "en": "Borovnica Commune" }
+  "SI": { "en": "Bovec Commune" }
+  "SI": { "en": "Brda Commune" }
+  "SI": { "en": "Brezice Commune" }
+  "SI": { "en": "Brezovica Commune" }
+  "SI": { "en": "Celje Commune" }
+  "SI": { "en": "Cerklje na Gorenjskem Commune" }
+  "SI": { "en": "Cerknica Commune" }
+  "SI": { "en": "Cerkno Commune" }
+  "SI": { "en": "Crensovci Commune" }
+  "SI": { "en": "Crna na Koroskem Commune" }
+  "SI": { "en": "Crnomelj Commune" }
+  "SI": { "en": "Divaca Commune" }
+  "SI": { "en": "Dobrepolje Commune" }
+  "SI": { "en": "Dol pri Ljubljani Commune" }
+  "SI": { "en": "Dornava Commune" }
+  "SI": { "en": "Dravograd Commune" }
+  "SI": { "en": "Duplek Commune" }
+  "SI": { "en": "Gorenja vas-Poljane Commune" }
+  "SI": { "en": "Gorisnica Commune" }
+  "SI": { "en": "Gornja Radgona Commune" }
+  "SI": { "en": "Gornji Grad Commune" }
+  "SI": { "en": "Gornji Petrovci Commune" }
+  "SI": { "en": "Grosuplje Commune" }
+  "SI": { "en": "Hrastnik Commune" }
+  "SI": { "en": "Hrpelje-Kozina Commune" }
+  "SI": { "en": "Idrija Commune" }
+  "SI": { "en": "Ig Commune" }
+  "SI": { "en": "Ilirska Bistrica Commune" }
+  "SI": { "en": "Ivancna Gorica Commune" }
+  "SI": { "en": "Izola-Isola Commune" }
+  "SI": { "en": "Jursinci Commune" }
+  "SI": { "en": "Kanal Commune" }
+  "SI": { "en": "Kidricevo Commune" }
+  "SI": { "en": "Kobarid Commune" }
+  "SI": { "en": "Kobilje Commune" }
+  "SI": { "en": "Komen Commune" }
+  "SI": { "en": "Koper-Capodistria Urban Commune" }
+  "SI": { "en": "Kozje Commune" }
+  "SI": { "en": "Kranj Commune" }
+  "SI": { "en": "Kranjska Gora Commune" }
+  "SI": { "en": "Krsko Commune" }
+  "SI": { "en": "Kungota Commune" }
+  "SI": { "en": "Lasko Commune" }
+  "SI": { "en": "Ljubljana Urban Commune" }
+  "SI": { "en": "Ljubno Commune" }
+  "SI": { "en": "Logatec Commune" }
+  "SI": { "en": "Loski Potok Commune" }
+  "SI": { "en": "Lukovica Commune" }
+  "SI": { "en": "Medvode Commune" }
+  "SI": { "en": "Menges Commune" }
+  "SI": { "en": "Metlika Commune" }
+  "SI": { "en": "Mezica Commune" }
+  "SI": { "en": "Mislinja Commune" }
+  "SI": { "en": "Moravce Commune" }
+  "SI": { "en": "Moravske Toplice Commune" }
+  "SI": { "en": "Mozirje Commune" }
+  "SI": { "en": "Murska Sobota Urban Commune" }
+  "SI": { "en": "Muta Commune" }
+  "SI": { "en": "Naklo Commune" }
+  "SI": { "en": "Nazarje Commune" }
+  "SI": { "en": "Nova Gorica Urban Commune" }
+  "SI": { "en": "Odranci Commune" }
+  "SI": { "en": "Ormoz Commune" }
+  "SI": { "en": "Osilnica Commune" }
+  "SI": { "en": "Pesnica Commune" }
+  "SI": { "en": "Pivka Commune" }
+  "SI": { "en": "Podcetrtek Commune" }
+  "SI": { "en": "Postojna Commune" }
+  "SI": { "en": "Puconci Commune" }
+  "SI": { "en": "Race-Fram Commune" }
+  "SI": { "en": "Radece Commune" }
+  "SI": { "en": "Radenci Commune" }
+  "SI": { "en": "Radlje ob Dravi Commune" }
+  "SI": { "en": "Radovljica Commune" }
+  "SI": { "en": "Rogasovci Commune" }
+  "SI": { "en": "Rogaska Slatina Commune" }
+  "SI": { "en": "Rogatec Commune" }
+  "SI": { "en": "Semic Commune" }
+  "SI": { "en": "Sencur Commune" }
+  "SI": { "en": "Sentilj Commune" }
+  "SI": { "en": "Sentjernej Commune" }
+  "SI": { "en": "Sevnica Commune" }
+  "SI": { "en": "Sezana Commune" }
+  "SI": { "en": "Skocjan Commune" }
+  "SI": { "en": "Skofja Loka Commune" }
+  "SI": { "en": "Skofljica Commune" }
+  "SI": { "en": "Slovenj Gradec Urban Commune" }
+  "SI": { "en": "Slovenske Konjice Commune" }
+  "SI": { "en": "Smarje pri Jelsah Commune" }
+  "SI": { "en": "Smartno ob Paki Commune" }
+  "SI": { "en": "Sostanj Commune" }
+  "SI": { "en": "Starse Commune" }
+  "SI": { "en": "Store Commune" }
+  "SI": { "en": "Sveti Jurij Commune" }
+  "SI": { "en": "Tolmin Commune" }
+  "SI": { "en": "Trbovlje Commune" }
+  "SI": { "en": "Trebnje Commune" }
+  "SI": { "en": "Trzic Commune" }
+  "SI": { "en": "Turnisce Commune" }
+  "SI": { "en": "Velenje Urban Commune" }
+  "SI": { "en": "Velike Lasce Commune" }
+  "SI": { "en": "Vipava Commune" }
+  "SI": { "en": "Vitanje Commune" }
+  "SI": { "en": "Vodice Commune" }
+  "SI": { "en": "Vrhnika Commune" }
+  "SI": { "en": "Vuzenica Commune" }
+  "SI": { "en": "Zagorje ob Savi Commune" }
+  "SI": { "en": "Zavrc Commune" }
+  "SI": { "en": "Zelezniki Commune" }
+  "SI": { "en": "Ziri Commune" }
+  "SI": { "en": "Zrece Commune" }
+  "SI": { "en": "Benedikt Commune" }
+  "SI": { "en": "Bistrica ob Sotli Commune" }
+  "SI": { "en": "Bloke Commune" }
+  "SI": { "en": "Braslovce Commune" }
+  "SI": { "en": "Cankova Commune" }
+  "SI": { "en": "Cerkvenjak Commune" }
+  "SI": { "en": "Destrnik Commune" }
+  "SI": { "en": "Dobje Commune" }
+  "SI": { "en": "Dobrna Commune" }
+  "SI": { "en": "Dobrova-Horjul-Polhov Gradec Commune" }
+  "SI": { "en": "Dobrovnik-Dobronak Commune" }
+  "SI": { "en": "Dolenjske Toplice Commune" }
+  "SI": { "en": "Domzale Commune" }
+  "SI": { "en": "Grad Commune" }
+  "SI": { "en": "Hajdina Commune" }
+  "SI": { "en": "Hoce-Slivnica Commune" }
+  "SI": { "en": "Hodos-Hodos Commune" }
+  "SI": { "en": "Horjul Commune" }
+  "SI": { "en": "Jesenice Commune" }
+  "SI": { "en": "Jezersko Commune" }
+  "SI": { "en": "Kamnik Commune" }
+  "SI": { "en": "Kocevje Commune" }
+  "SI": { "en": "Komenda Commune" }
+  "SI": { "en": "Kostel Commune" }
+  "SI": { "en": "Krizevci Commune" }
+  "SI": { "en": "Kuzma Commune" }
+  "SI": { "en": "Lenart Commune" }
+  "SI": { "en": "Lendava-Lendva Commune" }
+  "SI": { "en": "Litija Commune" }
+  "SI": { "en": "Ljutomer Commune" }
+  "SI": { "en": "Loska Dolina Commune" }
+  "SI": { "en": "Lovrenc na Pohorju Commune" }
+  "SI": { "en": "Luce Commune" }
+  "SI": { "en": "Majsperk Commune" }
+  "SI": { "en": "Maribor Commune" }
+  "SI": { "en": "Markovci Commune" }
+  "SI": { "en": "Miklavz na Dravskem polju Commune" }
+  "SI": { "en": "Miren-Kostanjevica Commune" }
+  "SI": { "en": "Mirna Pec Commune" }
+  "SI": { "en": "Novo mesto Urban Commune" }
+  "SI": { "en": "Oplotnica Commune" }
+  "SI": { "en": "Piran-Pirano Commune" }
+  "SI": { "en": "Podlehnik Commune" }
+  "SI": { "en": "Podvelka Commune" }
+  "SI": { "en": "Polzela Commune" }
+  "SI": { "en": "Prebold Commune" }
+  "SI": { "en": "Preddvor Commune" }
+  "SI": { "en": "Prevalje Commune" }
+  "SI": { "en": "Ptuj Urban Commune" }
+  "SI": { "en": "Ravne na Koroskem Commune" }
+  "SI": { "en": "Razkrizje Commune" }
+  "SI": { "en": "Ribnica Commune" }
+  "SI": { "en": "Ribnica na Pohorju Commune" }
+  "SI": { "en": "Ruse Commune" }
+  "SI": { "en": "Salovci Commune" }
+  "SI": { "en": "Selnica ob Dravi Commune" }
+  "SI": { "en": "Sempeter-Vrtojba Commune" }
+  "SI": { "en": "Sentjur pri Celju Commune" }
+  "SI": { "en": "Slovenska Bistrica Commune" }
+  "SI": { "en": "Smartno pri Litiji Commune" }
+  "SI": { "en": "Sodrazica Commune" }
+  "SI": { "en": "Solcava Commune" }
+  "SI": { "en": "Sveta Ana Commune" }
+  "SI": { "en": "Sveti Andraz v Slovenskih goricah Commune" }
+  "SI": { "en": "Tabor Commune" }
+  "SI": { "en": "Tisina Commune" }
+  "SI": { "en": "Trnovska vas Commune" }
+  "SI": { "en": "Trzin Commune" }
+  "SI": { "en": "Velika Polana Commune" }
+  "SI": { "en": "Verzej Commune" }
+  "SI": { "en": "Videm Commune" }
+  "SI": { "en": "Vojnik Commune" }
+  "SI": { "en": "Vransko Commune" }
+  "SI": { "en": "Zalec Commune" }
+  "SI": { "en": "Zetale Commune" }
+  "SI": { "en": "Zirovnica Commune" }
+  "SI": { "en": "Zuzemberk Commune" }
+  "SI": { "en": "Apace Commune" }
+  "SI": { "en": "Cirkulane Commune" }
+  "SK": { "en": "Banska Bystrica" }
+  "SK": { "en": "Bratislava" }
+  "SK": { "en": "Kosice" }
+  "SK": { "en": "Nitra" }
+  "SK": { "en": "Presov" }
+  "SK": { "en": "Trencin" }
+  "SK": { "en": "Trnava" }
+  "SK": { "en": "Zilina" }
+  "SL": { "en": "Eastern" }
+  "SL": { "en": "Northern" }
+  "SL": { "en": "Southern" }
+  "SL": { "en": "Western Area" }
+  "SM": { "en": "Acquaviva" }
+  "SM": { "en": "Chiesanuova" }
+  "SM": { "en": "Domagnano" }
+  "SM": { "en": "Faetano" }
+  "SM": { "en": "Fiorentino" }
+  "SM": { "en": "Borgo Maggiore" }
+  "SM": { "en": "San Marino" }
+  "SM": { "en": "Monte Giardino" }
+  "SM": { "en": "Serravalle" }
+  "SN": { "en": "Dakar" }
+  "SN": { "en": "Diourbel" }
+  "SN": { "en": "Tambacounda" }
+  "SN": { "en": "Thies" }
+  "SN": { "en": "Fatick" }
+  "SN": { "en": "Kaolack" }
+  "SN": { "en": "Kolda" }
+  "SN": { "en": "Ziguinchor" }
+  "SN": { "en": "Louga" }
+  "SN": { "en": "Saint-Louis" }
+  "SN": { "en": "Matam" }
+  "SO": { "en": "Bakool" }
+  "SO": { "en": "Banaadir" }
+  "SO": { "en": "Bari" }
+  "SO": { "en": "Bay" }
+  "SO": { "en": "Galguduud" }
+  "SO": { "en": "Gedo" }
+  "SO": { "en": "Hiiraan" }
+  "SO": { "en": "Jubbada Dhexe" }
+  "SO": { "en": "Jubbada Hoose" }
+  "SO": { "en": "Mudug" }
+  "SO": { "en": "Nugaal" }
+  "SO": { "en": "Sanaag" }
+  "SO": { "en": "Shabeellaha Dhexe" }
+  "SO": { "en": "Shabeellaha Hoose" }
+  "SO": { "en": "Woqooyi Galbeed" }
+  "SO": { "en": "Nugaal" }
+  "SO": { "en": "Togdheer" }
+  "SO": { "en": "Woqooyi Galbeed" }
+  "SO": { "en": "Awdal" }
+  "SO": { "en": "Sool" }
+  "SR": { "en": "Brokopondo" }
+  "SR": { "en": "Commewijne" }
+  "SR": { "en": "Coronie" }
+  "SR": { "en": "Marowijne" }
+  "SR": { "en": "Nickerie" }
+  "SR": { "en": "Para" }
+  "SR": { "en": "Paramaribo" }
+  "SR": { "en": "Saramacca" }
+  "SR": { "en": "Sipaliwini" }
+  "SR": { "en": "Wanica" }
+  "SS": { "en": "Central Equatoria" }
+  "SS": { "en": "Eastern Equatoria" }
+  "SS": { "en": "Jonglei" }
+  "SS": { "en": "Lakes" }
+  "SS": { "en": "Northern Bahr el Ghazal" }
+  "SS": { "en": "Unity" }
+  "SS": { "en": "Upper Nile" }
+  "SS": { "en": "Warrap" }
+  "SS": { "en": "Western Bahr el Ghazal" }
+  "SS": { "en": "Western Equatoria" }
+  "ST": { "en": "Principe" }
+  "ST": { "en": "Sao Tome" }
+  "SV": { "en": "Ahuachapan" }
+  "SV": { "en": "Cabanas" }
+  "SV": { "en": "Chalatenango" }
+  "SV": { "en": "Cuscatlan" }
+  "SV": { "en": "La Libertad" }
+  "SV": { "en": "La Paz" }
+  "SV": { "en": "La Union" }
+  "SV": { "en": "Morazan" }
+  "SV": { "en": "San Miguel" }
+  "SV": { "en": "San Salvador" }
+  "SV": { "en": "Santa Ana" }
+  "SV": { "en": "San Vicente" }
+  "SV": { "en": "Sonsonate" }
+  "SV": { "en": "Usulutan" }
+  "SY": { "en": "Al Hasakah" }
+  "SY": { "en": "Al Ladhiqiyah" }
+  "SY": { "en": "Al Qunaytirah" }
+  "SY": { "en": "Ar Raqqah" }
+  "SY": { "en": "As Suwayda'" }
+  "SY": { "en": "Dar" }
+  "SY": { "en": "Dayr az Zawr" }
+  "SY": { "en": "Rif Dimashq" }
+  "SY": { "en": "Halab" }
+  "SY": { "en": "Hamah" }
+  "SY": { "en": "Hims" }
+  "SY": { "en": "Idlib" }
+  "SY": { "en": "Dimashq" }
+  "SY": { "en": "Tartus" }
+  "SZ": { "en": "Hhohho" }
+  "SZ": { "en": "Lubombo" }
+  "SZ": { "en": "Manzini" }
+  "SZ": { "en": "Shiselweni" }
+  "SZ": { "en": "Praslin" }
+  "TD": { "en": "Batha" }
+  "TD": { "en": "Biltine" }
+  "TD": { "en": "Borkou-Ennedi-Tibesti" }
+  "TD": { "en": "Chari-Baguirmi" }
+  "TD": { "en": "Guera" }
+  "TD": { "en": "Kanem" }
+  "TD": { "en": "Lac" }
+  "TD": { "en": "Logone Occidental" }
+  "TD": { "en": "Logone Oriental" }
+  "TD": { "en": "Mayo-Kebbi" }
+  "TD": { "en": "Moyen-Chari" }
+  "TD": { "en": "Ouaddai" }
+  "TD": { "en": "Salamat" }
+  "TD": { "en": "Tandjile" }
+  "TG": { "en": "Centrale" }
+  "TG": { "en": "Kara" }
+  "TG": { "en": "Maritime" }
+  "TG": { "en": "Plateaux" }
+  "TG": { "en": "Savanes" }
+  "TH": { "en": "Mae Hong Son" }
+  "TH": { "en": "Chiang Mai" }
+  "TH": { "en": "Chiang Rai" }
+  "TH": { "en": "Nan" }
+  "TH": { "en": "Lamphun" }
+  "TH": { "en": "Lampang" }
+  "TH": { "en": "Phrae" }
+  "TH": { "en": "Tak" }
+  "TH": { "en": "Sukhothai" }
+  "TH": { "en": "Uttaradit" }
+  "TH": { "en": "Kamphaeng Phet" }
+  "TH": { "en": "Phitsanulok" }
+  "TH": { "en": "Phichit" }
+  "TH": { "en": "Phetchabun" }
+  "TH": { "en": "Uthai Thani" }
+  "TH": { "en": "Nakhon Sawan" }
+  "TH": { "en": "Nong Khai" }
+  "TH": { "en": "Loei" }
+  "TH": { "en": "Sakon Nakhon" }
+  "TH": { "en": "Nakhon Phanom" }
+  "TH": { "en": "Khon Kaen" }
+  "TH": { "en": "Kalasin" }
+  "TH": { "en": "Maha Sarakham" }
+  "TH": { "en": "Roi Et" }
+  "TH": { "en": "Chaiyaphum" }
+  "TH": { "en": "Nakhon Ratchasima" }
+  "TH": { "en": "Buriram" }
+  "TH": { "en": "Surin" }
+  "TH": { "en": "Sisaket" }
+  "TH": { "en": "Narathiwat" }
+  "TH": { "en": "Chai Nat" }
+  "TH": { "en": "Sing Buri" }
+  "TH": { "en": "Lop Buri" }
+  "TH": { "en": "Ang Thong" }
+  "TH": { "en": "Phra Nakhon Si Ayutthaya" }
+  "TH": { "en": "Saraburi" }
+  "TH": { "en": "Nonthaburi" }
+  "TH": { "en": "Pathum Thani" }
+  "TH": { "en": "Krung Thep" }
+  "TH": { "en": "Phayao" }
+  "TH": { "en": "Samut Prakan" }
+  "TH": { "en": "Nakhon Nayok" }
+  "TH": { "en": "Chachoengsao" }
+  "TH": { "en": "Prachin Buri" }
+  "TH": { "en": "Chon Buri" }
+  "TH": { "en": "Rayong" }
+  "TH": { "en": "Chanthaburi" }
+  "TH": { "en": "Trat" }
+  "TH": { "en": "Kanchanaburi" }
+  "TH": { "en": "Suphan Buri" }
+  "TH": { "en": "Ratchaburi" }
+  "TH": { "en": "Nakhon Pathom" }
+  "TH": { "en": "Samut Songkhram" }
+  "TH": { "en": "Samut Sakhon" }
+  "TH": { "en": "Phetchaburi" }
+  "TH": { "en": "Prachuap Khiri Khan" }
+  "TH": { "en": "Chumphon" }
+  "TH": { "en": "Ranong" }
+  "TH": { "en": "Surat Thani" }
+  "TH": { "en": "Phangnga" }
+  "TH": { "en": "Phuket" }
+  "TH": { "en": "Krabi" }
+  "TH": { "en": "Nakhon Si Thammarat" }
+  "TH": { "en": "Trang" }
+  "TH": { "en": "Phatthalung" }
+  "TH": { "en": "Satun" }
+  "TH": { "en": "Songkhla" }
+  "TH": { "en": "Pattani" }
+  "TH": { "en": "Yala" }
+  "TH": { "en": "Ubon Ratchathani" }
+  "TH": { "en": "Yasothon" }
+  "TH": { "en": "Nakhon Phanom" }
+  "TH": { "en": "Prachin Buri" }
+  "TH": { "en": "Ubon Ratchathani" }
+  "TH": { "en": "Udon Thani" }
+  "TH": { "en": "Amnat Charoen" }
+  "TH": { "en": "Mukdahan" }
+  "TH": { "en": "Nong Bua Lamphu" }
+  "TH": { "en": "Sa Kaeo" }
+  "TJ": { "en": "Kuhistoni Badakhshon" }
+  "TJ": { "en": "Khatlon" }
+  "TJ": { "en": "Sughd" }
+  "TM": { "en": "Ahal" }
+  "TM": { "en": "Balkan" }
+  "TM": { "en": "Dashoguz" }
+  "TM": { "en": "Lebap" }
+  "TM": { "en": "Mary" }
+  "TN": { "en": "Kasserine" }
+  "TN": { "en": "Kairouan" }
+  "TN": { "en": "Jendouba" }
+  "TN": { "en": "Qafsah" }
+  "TN": { "en": "El Kef" }
+  "TN": { "en": "Al Mahdia" }
+  "TN": { "en": "Al Munastir" }
+  "TN": { "en": "Bajah" }
+  "TN": { "en": "Bizerte" }
+  "TN": { "en": "Nabeul" }
+  "TN": { "en": "Siliana" }
+  "TN": { "en": "Sousse" }
+  "TN": { "en": "Ben Arous" }
+  "TN": { "en": "Madanin" }
+  "TN": { "en": "Gabes" }
+  "TN": { "en": "Kebili" }
+  "TN": { "en": "Sfax" }
+  "TN": { "en": "Sidi Bou Zid" }
+  "TN": { "en": "Tataouine" }
+  "TN": { "en": "Tozeur" }
+  "TN": { "en": "Tunis" }
+  "TN": { "en": "Zaghouan" }
+  "TN": { "en": "Aiana" }
+  "TN": { "en": "Manouba" }
+  "TO": { "en": "Ha" }
+  "TO": { "en": "Tongatapu" }
+  "TO": { "en": "Vava" }
+  "TR": { "en": "Adiyaman" }
+  "TR": { "en": "Afyonkarahisar" }
+  "TR": { "en": "Agri" }
+  "TR": { "en": "Amasya" }
+  "TR": { "en": "Antalya" }
+  "TR": { "en": "Artvin" }
+  "TR": { "en": "Aydin" }
+  "TR": { "en": "Balikesir" }
+  "TR": { "en": "Bilecik" }
+  "TR": { "en": "Bingol" }
+  "TR": { "en": "Bitlis" }
+  "TR": { "en": "Bolu" }
+  "TR": { "en": "Burdur" }
+  "TR": { "en": "Bursa" }
+  "TR": { "en": "Canakkale" }
+  "TR": { "en": "Corum" }
+  "TR": { "en": "Denizli" }
+  "TR": { "en": "Diyarbakir" }
+  "TR": { "en": "Edirne" }
+  "TR": { "en": "Elazig" }
+  "TR": { "en": "Erzincan" }
+  "TR": { "en": "Erzurum" }
+  "TR": { "en": "Eskisehir" }
+  "TR": { "en": "Giresun" }
+  "TR": { "en": "Hatay" }
+  "TR": { "en": "Mersin" }
+  "TR": { "en": "Isparta" }
+  "TR": { "en": "Istanbul" }
+  "TR": { "en": "Izmir" }
+  "TR": { "en": "Kastamonu" }
+  "TR": { "en": "Kayseri" }
+  "TR": { "en": "Kirklareli" }
+  "TR": { "en": "Kirsehir" }
+  "TR": { "en": "Kocaeli" }
+  "TR": { "en": "Kutahya" }
+  "TR": { "en": "Malatya" }
+  "TR": { "en": "Manisa" }
+  "TR": { "en": "Kahramanmaras" }
+  "TR": { "en": "Mugla" }
+  "TR": { "en": "Mus" }
+  "TR": { "en": "Nevsehir" }
+  "TR": { "en": "Ordu" }
+  "TR": { "en": "Rize" }
+  "TR": { "en": "Sakarya" }
+  "TR": { "en": "Samsun" }
+  "TR": { "en": "Sinop" }
+  "TR": { "en": "Sivas" }
+  "TR": { "en": "Tekirdag" }
+  "TR": { "en": "Tokat" }
+  "TR": { "en": "Trabzon" }
+  "TR": { "en": "Tunceli" }
+  "TR": { "en": "Sanliurfa" }
+  "TR": { "en": "Usak" }
+  "TR": { "en": "Van" }
+  "TR": { "en": "Yozgat" }
+  "TR": { "en": "Ankara" }
+  "TR": { "en": "Gumushane" }
+  "TR": { "en": "Hakkari" }
+  "TR": { "en": "Konya" }
+  "TR": { "en": "Mardin" }
+  "TR": { "en": "Nigde" }
+  "TR": { "en": "Siirt" }
+  "TR": { "en": "Aksaray" }
+  "TR": { "en": "Batman" }
+  "TR": { "en": "Bayburt" }
+  "TR": { "en": "Karaman" }
+  "TR": { "en": "Kirikkale" }
+  "TR": { "en": "Sirnak" }
+  "TR": { "en": "Adana" }
+  "TR": { "en": "Cankiri" }
+  "TR": { "en": "Gaziantep" }
+  "TR": { "en": "Kars" }
+  "TR": { "en": "Zonguldak" }
+  "TR": { "en": "Ardahan" }
+  "TR": { "en": "Bartin" }
+  "TR": { "en": "Igdir" }
+  "TR": { "en": "Karabuk" }
+  "TR": { "en": "Kilis" }
+  "TR": { "en": "Osmaniye" }
+  "TR": { "en": "Yalova" }
+  "TR": { "en": "Duzce" }
+  "TT": { "en": "Arima" }
+  "TT": { "en": "Caroni" }
+  "TT": { "en": "Mayaro" }
+  "TT": { "en": "Nariva" }
+  "TT": { "en": "Port-of-Spain" }
+  "TT": { "en": "Saint Andrew" }
+  "TT": { "en": "Saint David" }
+  "TT": { "en": "Saint George" }
+  "TT": { "en": "Saint Patrick" }
+  "TT": { "en": "San Fernando" }
+  "TT": { "en": "Tobago" }
+  "TT": { "en": "Victoria" }
+  "TW": { "en": "Fu-chien" }
+  "TW": { "en": "Kao-hsiung" }
+  "TW": { "en": "T'ai-pei" }
+  "TW": { "en": "T'ai-wan" }
+  "TZ": { "en": "Pwani" }
+  "TZ": { "en": "Dodoma" }
+  "TZ": { "en": "Iringa" }
+  "TZ": { "en": "Kigoma" }
+  "TZ": { "en": "Kilimanjaro" }
+  "TZ": { "en": "Lindi" }
+  "TZ": { "en": "Mara" }
+  "TZ": { "en": "Mbeya" }
+  "TZ": { "en": "Morogoro" }
+  "TZ": { "en": "Mtwara" }
+  "TZ": { "en": "Mwanza" }
+  "TZ": { "en": "Pemba North" }
+  "TZ": { "en": "Ruvuma" }
+  "TZ": { "en": "Shinyanga" }
+  "TZ": { "en": "Singida" }
+  "TZ": { "en": "Tabora" }
+  "TZ": { "en": "Tanga" }
+  "TZ": { "en": "Kagera" }
+  "TZ": { "en": "Pemba South" }
+  "TZ": { "en": "Zanzibar Central" }
+  "TZ": { "en": "Zanzibar North" }
+  "TZ": { "en": "Dar es Salaam" }
+  "TZ": { "en": "Rukwa" }
+  "TZ": { "en": "Zanzibar Urban" }
+  "TZ": { "en": "Arusha" }
+  "TZ": { "en": "Manyara" }
+  "UA": { "en": "Cherkas'ka Oblast'" }
+  "UA": { "en": "Chernihivs'ka Oblast'" }
+  "UA": { "en": "Chernivets'ka Oblast'" }
+  "UA": { "en": "Dnipropetrovs'ka Oblast'" }
+  "UA": { "en": "Donets'ka Oblast'" }
+  "UA": { "en": "Ivano-Frankivs'ka Oblast'" }
+  "UA": { "en": "Kharkivs'ka Oblast'" }
+  "UA": { "en": "Khersons'ka Oblast'" }
+  "UA": { "en": "Khmel'nyts'ka Oblast'" }
+  "UA": { "en": "Kirovohrads'ka Oblast'" }
+  "UA": { "en": "Krym" }
+  "UA": { "en": "Kyyiv" }
+  "UA": { "en": "Kyyivs'ka Oblast'" }
+  "UA": { "en": "Luhans'ka Oblast'" }
+  "UA": { "en": "L'vivs'ka Oblast'" }
+  "UA": { "en": "Mykolayivs'ka Oblast'" }
+  "UA": { "en": "Odes'ka Oblast'" }
+  "UA": { "en": "Poltavs'ka Oblast'" }
+  "UA": { "en": "Rivnens'ka Oblast'" }
+  "UA": { "en": "Sevastopol'" }
+  "UA": { "en": "Sums'ka Oblast'" }
+  "UA": { "en": "Ternopil's'ka Oblast'" }
+  "UA": { "en": "Vinnyts'ka Oblast'" }
+  "UA": { "en": "Volyns'ka Oblast'" }
+  "UA": { "en": "Zakarpats'ka Oblast'" }
+  "UA": { "en": "Zaporiz'ka Oblast'" }
+  "UA": { "en": "Zhytomyrs'ka Oblast'" }
+  "UG": { "en": "Apac" }
+  "UG": { "en": "Bundibugyo" }
+  "UG": { "en": "Bushenyi" }
+  "UG": { "en": "Gulu" }
+  "UG": { "en": "Hoima" }
+  "UG": { "en": "Jinja" }
+  "UG": { "en": "Kalangala" }
+  "UG": { "en": "Kampala" }
+  "UG": { "en": "Kamuli" }
+  "UG": { "en": "Kapchorwa" }
+  "UG": { "en": "Kasese" }
+  "UG": { "en": "Kibale" }
+  "UG": { "en": "Kiboga" }
+  "UG": { "en": "Kisoro" }
+  "UG": { "en": "Kotido" }
+  "UG": { "en": "Kumi" }
+  "UG": { "en": "Lira" }
+  "UG": { "en": "Masindi" }
+  "UG": { "en": "Mbarara" }
+  "UG": { "en": "Mubende" }
+  "UG": { "en": "Nebbi" }
+  "UG": { "en": "Ntungamo" }
+  "UG": { "en": "Pallisa" }
+  "UG": { "en": "Rakai" }
+  "UG": { "en": "Adjumani" }
+  "UG": { "en": "Bugiri" }
+  "UG": { "en": "Busia" }
+  "UG": { "en": "Katakwi" }
+  "UG": { "en": "Luwero" }
+  "UG": { "en": "Masaka" }
+  "UG": { "en": "Moyo" }
+  "UG": { "en": "Nakasongola" }
+  "UG": { "en": "Sembabule" }
+  "UG": { "en": "Tororo" }
+  "UG": { "en": "Arua" }
+  "UG": { "en": "Iganga" }
+  "UG": { "en": "Kabarole" }
+  "UG": { "en": "Kaberamaido" }
+  "UG": { "en": "Kamwenge" }
+  "UG": { "en": "Kanungu" }
+  "UG": { "en": "Kayunga" }
+  "UG": { "en": "Kitgum" }
+  "UG": { "en": "Kyenjojo" }
+  "UG": { "en": "Mayuge" }
+  "UG": { "en": "Mbale" }
+  "UG": { "en": "Moroto" }
+  "UG": { "en": "Mpigi" }
+  "UG": { "en": "Mukono" }
+  "UG": { "en": "Nakapiripirit" }
+  "UG": { "en": "Pader" }
+  "UG": { "en": "Rukungiri" }
+  "UG": { "en": "Sironko" }
+  "UG": { "en": "Soroti" }
+  "UG": { "en": "Wakiso" }
+  "UG": { "en": "Yumbe" }
+  "US": { "en": "Armed Forces Americas" }
+  "US"  { "en": "Armed Forces Europe, Middle East, & Canada" }
+  "US": { "en": "Alaska" }
+  "US": { "en": "Alabama" }
+  "US": { "en": "Armed Forces Pacific" }
+  "US": { "en": "Arkansas" }
+  "US": { "en": "American Samoa" }
+  "US": { "en": "Arizona" }
+  "US": { "en": "California" }
+  "US": { "en": "Colorado" }
+  "US": { "en": "Connecticut" }
+  "US": { "en": "District of Columbia" }
+  "US": { "en": "Delaware" }
+  "US": { "en": "Florida" }
+  "US": { "en": "Federated States of Micronesia" }
+  "US": { "en": "Georgia" }
+  "US": { "en": "Guam" }
+  "US": { "en": "Hawaii" }
+  "US": { "en": "Iowa" }
+  "US": { "en": "Idaho" }
+  "US": { "en": "Illinois" }
+  "US": { "en": "Indiana" }
+  "US": { "en": "Kansas" }
+  "US": { "en": "Kentucky" }
+  "US": { "en": "Louisiana" }
+  "US": { "en": "Massachusetts" }
+  "US": { "en": "Maryland" }
+  "US": { "en": "Maine" }
+  "US": { "en": "Marshall Islands" }
+  "US": { "en": "Michigan" }
+  "US": { "en": "Minnesota" }
+  "US": { "en": "Missouri" }
+  "US": { "en": "Northern Mariana Islands" }
+  "US": { "en": "Mississippi" }
+  "US": { "en": "Montana" }
+  "US": { "en": "North Carolina" }
+  "US": { "en": "North Dakota" }
+  "US": { "en": "Nebraska" }
+  "US": { "en": "New Hampshire" }
+  "US": { "en": "New Jersey" }
+  "US": { "en": "New Mexico" }
+  "US": { "en": "Nevada" }
+  "US": { "en": "New York" }
+  "US": { "en": "Ohio" }
+  "US": { "en": "Oklahoma" }
+  "US": { "en": "Oregon" }
+  "US": { "en": "Pennsylvania" }
+  "US": { "en": "Palau" }
+  "US": { "en": "Rhode Island" }
+  "US": { "en": "South Carolina" }
+  "US": { "en": "South Dakota" }
+  "US": { "en": "Tennessee" }
+  "US": { "en": "Texas" }
+  "US": { "en": "Utah" }
+  "US": { "en": "Virginia" }
+  "US": { "en": "Virgin Islands" }
+  "US": { "en": "Vermont" }
+  "US": { "en": "Washington" }
+  "US": { "en": "Wisconsin" }
+  "US": { "en": "West Virginia" }
+  "US": { "en": "Wyoming" }
+  "UY": { "en": "Artigas" }
+  "UY": { "en": "Canelones" }
+  "UY": { "en": "Cerro Largo" }
+  "UY": { "en": "Colonia" }
+  "UY": { "en": "Durazno" }
+  "UY": { "en": "Flores" }
+  "UY": { "en": "Florida" }
+  "UY": { "en": "Lavalleja" }
+  "UY": { "en": "Maldonado" }
+  "UY": { "en": "Montevideo" }
+  "UY": { "en": "Paysandu" }
+  "UY": { "en": "Rio Negro" }
+  "UY": { "en": "Rivera" }
+  "UY": { "en": "Rocha" }
+  "UY": { "en": "Salto" }
+  "UY": { "en": "San Jose" }
+  "UY": { "en": "Soriano" }
+  "UY": { "en": "Tacuarembo" }
+  "UY": { "en": "Treinta y Tres" }
+  "UZ": { "en": "Andijon" }
+  "UZ": { "en": "Bukhoro" }
+  "UZ": { "en": "Farghona" }
+  "UZ": { "en": "Jizzakh" }
+  "UZ": { "en": "Khorazm" }
+  "UZ": { "en": "Namangan" }
+  "UZ": { "en": "Nawoiy" }
+  "UZ": { "en": "Qashqadaryo" }
+  "UZ": { "en": "Qoraqalpoghiston" }
+  "UZ": { "en": "Samarqand" }
+  "UZ": { "en": "Sirdaryo" }
+  "UZ": { "en": "Surkhondaryo" }
+  "UZ": { "en": "Toshkent" }
+  "UZ": { "en": "Toshkent" }
+  "VC": { "en": "Charlotte" }
+  "VC": { "en": "Saint Andrew" }
+  "VC": { "en": "Saint David" }
+  "VC": { "en": "Saint George" }
+  "VC": { "en": "Saint Patrick" }
+  "VC": { "en": "Grenadines" }
+  "VE": { "en": "Amazonas" }
+  "VE": { "en": "Anzoategui" }
+  "VE": { "en": "Apure" }
+  "VE": { "en": "Aragua" }
+  "VE": { "en": "Barinas" }
+  "VE": { "en": "Bolivar" }
+  "VE": { "en": "Carabobo" }
+  "VE": { "en": "Cojedes" }
+  "VE": { "en": "Delta Amacuro" }
+  "VE": { "en": "Falcon" }
+  "VE": { "en": "Guarico" }
+  "VE": { "en": "Lara" }
+  "VE": { "en": "Merida" }
+  "VE": { "en": "Miranda" }
+  "VE": { "en": "Monagas" }
+  "VE": { "en": "Nueva Esparta" }
+  "VE": { "en": "Portuguesa" }
+  "VE": { "en": "Sucre" }
+  "VE": { "en": "Tachira" }
+  "VE": { "en": "Trujillo" }
+  "VE": { "en": "Yaracuy" }
+  "VE": { "en": "Zulia" }
+  "VE": { "en": "Dependencias Federales" }
+  "VE": { "en": "Distrito Federal" }
+  "VE": { "en": "Vargas" }
+  "VN": { "en": "An Giang" }
+  "VN": { "en": "Ben Tre" }
+  "VN": { "en": "Cao Bang" }
+  "VN": { "en": "Dong Thap" }
+  "VN": { "en": "Hai Phong" }
+  "VN": { "en": "Ho Chi Minh" }
+  "VN": { "en": "Kien Giang" }
+  "VN": { "en": "Lam Dong" }
+  "VN": { "en": "Long An" }
+  "VN": { "en": "Quang Ninh" }
+  "VN": { "en": "Son La" }
+  "VN": { "en": "Tay Ninh" }
+  "VN": { "en": "Thanh Hoa" }
+  "VN": { "en": "Thai Binh" }
+  "VN": { "en": "Tien Giang" }
+  "VN": { "en": "Lang Son" }
+  "VN": { "en": "Dong Nai" }
+  "VN": { "en": "Ha Noi" }
+  "VN": { "en": "Ba Ria-Vung Tau" }
+  "VN": { "en": "Binh Dinh" }
+  "VN": { "en": "Binh Thuan" }
+  "VN": { "en": "Gia Lai" }
+  "VN": { "en": "Ha Giang" }
+  "VN": { "en": "Ha Tinh" }
+  "VN": { "en": "Hoa Binh" }
+  "VN": { "en": "Khanh Hoa" }
+  "VN": { "en": "Kon Tum" }
+  "VN": { "en": "Nghe An" }
+  "VN": { "en": "Ninh Binh" }
+  "VN": { "en": "Ninh Thuan" }
+  "VN": { "en": "Phu Yen" }
+  "VN": { "en": "Quang Binh" }
+  "VN": { "en": "Quang Ngai" }
+  "VN": { "en": "Quang Tri" }
+  "VN": { "en": "Soc Trang" }
+  "VN": { "en": "Thua Thien-Hue" }
+  "VN": { "en": "Tra Vinh" }
+  "VN": { "en": "Tuyen Quang" }
+  "VN": { "en": "Vinh Long" }
+  "VN": { "en": "Yen Bai" }
+  "VN": { "en": "Bac Giang" }
+  "VN": { "en": "Bac Kan" }
+  "VN": { "en": "Bac Lieu" }
+  "VN": { "en": "Bac Ninh" }
+  "VN": { "en": "Binh Duong" }
+  "VN": { "en": "Binh Phuoc" }
+  "VN": { "en": "Ca Mau" }
+  "VN": { "en": "Da Nang" }
+  "VN": { "en": "Hai Duong" }
+  "VN": { "en": "Ha Nam" }
+  "VN": { "en": "Hung Yen" }
+  "VN": { "en": "Nam Dinh" }
+  "VN": { "en": "Phu Tho" }
+  "VN": { "en": "Quang Nam" }
+  "VN": { "en": "Thai Nguyen" }
+  "VN": { "en": "Vinh Phuc" }
+  "VN": { "en": "Can Tho" }
+  "VN": { "en": "Dac Lak" }
+  "VN": { "en": "Lai Chau" }
+  "VN": { "en": "Lao Cai" }
+  "VN": { "en": "Dak Nong" }
+  "VN": { "en": "Dien Bien" }
+  "VN": { "en": "Hau Giang" }
+  "VU": { "en": "Ambrym" }
+  "VU": { "en": "Aoba" }
+  "VU": { "en": "Torba" }
+  "VU": { "en": "Efate" }
+  "VU": { "en": "Epi" }
+  "VU": { "en": "Malakula" }
+  "VU": { "en": "Paama" }
+  "VU": { "en": "Pentecote" }
+  "VU": { "en": "Sanma" }
+  "VU": { "en": "Shepherd" }
+  "VU": { "en": "Tafea" }
+  "VU": { "en": "Malampa" }
+  "VU": { "en": "Penama" }
+  "VU": { "en": "Shefa" }
+  "WS": { "en": "Aiga-i-le-Tai" }
+  "WS": { "en": "Atua" }
+  "WS": { "en": "Fa" }
+  "WS": { "en": "Gaga" }
+  "WS": { "en": "Va" }
+  "WS": { "en": "Gagaifomauga" }
+  "WS": { "en": "Palauli" }
+  "WS": { "en": "Satupa" }
+  "WS": { "en": "Tuamasaga" }
+  "WS": { "en": "Vaisigano" }
+  "YE": { "en": "Abyan" }
+  "YE": { "en": "Adan" }
+  "YE": { "en": "Al Mahrah" }
+  "YE": { "en": "Hadramawt" }
+  "YE": { "en": "Shabwah" }
+  "YE": { "en": "Lahij" }
+  "YE": { "en": "Al Bayda'" }
+  "YE": { "en": "Al Hudaydah" }
+  "YE": { "en": "Al Jawf" }
+  "YE": { "en": "Al Mahwit" }
+  "YE": { "en": "Dhamar" }
+  "YE": { "en": "Hajjah" }
+  "YE": { "en": "Ibb" }
+  "YE": { "en": "Ma'rib" }
+  "YE": { "en": "Sa'dah" }
+  "YE": { "en": "San'a'" }
+  "YE": { "en": "Taizz" }
+  "YE": { "en": "Ad Dali" }
+  "YE": { "en": "Amran" }
+  "YE": { "en": "Al Bayda'" }
+  "YE": { "en": "Al Jawf" }
+  "YE": { "en": "Hajjah" }
+  "YE": { "en": "Ibb" }
+  "YE": { "en": "Lahij" }
+  "YE": { "en": "Taizz" }
+  "ZA": { "en": "North-Western Province" }
+  "ZA": { "en": "KwaZulu-Natal" }
+  "ZA": { "en": "Free State" }
+  "ZA": { "en": "Eastern Cape" }
+  "ZA": { "en": "Gauteng" }
+  "ZA": { "en": "Mpumalanga" }
+  "ZA": { "en": "Northern Cape" }
+  "ZA": { "en": "Limpopo" }
+  "ZA": { "en": "North-West" }
+  "ZA": { "en": "Western Cape" }
+  "ZM": { "en": "Western" }
+  "ZM": { "en": "Central" }
+  "ZM": { "en": "Eastern" }
+  "ZM": { "en": "Luapula" }
+  "ZM": { "en": "Northern" }
+  "ZM": { "en": "North-Western" }
+  "ZM": { "en": "Southern" }
+  "ZM": { "en": "Copperbelt" }
+  "ZM": { "en": "Lusaka" }
+  "ZW": { "en": "Manicaland" }
+  "ZW": { "en": "Midlands" }
+  "ZW": { "en": "Mashonaland Central" }
+  "ZW": { "en": "Mashonaland East" }
+  "ZW": { "en": "Mashonaland West" }
+  "ZW": { "en": "Matabeleland North" }
+  "ZW": { "en": "Matabeleland South" }
+  "ZW": { "en": "Masvingo" }
+  "ZW": { "en": "Bulawayo" }
+  "ZW": { "en": "Harare" }
+}

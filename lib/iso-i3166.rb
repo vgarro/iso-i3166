@@ -40,5 +40,31 @@ module Iso
       extend Iso::I3166::Finders
       include Iso::I3166::Mongoid
     end
+
+    class State
+      include Iso::I3616::InstanceMethods
+      @states = {}
+
+      def self.demongoize(country)
+        find(country)
+      end
+
+      def self.evolve(country)
+        country.id
+      end
+
+      Iso::I3166::Data::DICTIONARY[:states].each do |c|
+        localizations = {}
+        if Iso::I3166::Data::DICTIONARY[:localizations][c['alpha-2']]
+          localizations = Iso::I3166::Data::DICTIONARY[:localizations][c['alpha-2']].inject({}){|memo, (k,v)| memo[k.to_sym] = v; memo}
+        end
+
+        state = State.new(c['alpha-2'],c['numeric'], localizations)
+        @states[state.id] = state
+      end
+
+      extend Iso::I3166::Finders
+      include Iso::I3166::Mongoid
+    end
   end
 end
