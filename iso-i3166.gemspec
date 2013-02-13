@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-require File.expand_path('../lib/i3166/version', __FILE__)
+require File.expand_path('../lib/iso-i3166/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ['Chris Kalafarski']
