@@ -1,6 +1,6 @@
-# Iso::Country
+#ISO-I3166
 
-The iso-country gem helps you manage country data, without needing rely on a database.
+The iso-i3316 gem helps you manage country data, without needing rely on a database.
 
 It uses values from the ISO 3166-1 standard for country codes and ISO 3361-2 for locality.
 The data can be localized, making it easy to present country names correctly for a given local (eg Spain vs España)
@@ -14,7 +14,7 @@ Once the gem is loaded it provides pure Ruby instances of the countries listed i
 The easiest way to access a country's object instance is with the ::find method:
 
     Iso::I3316::Country.find(:us)
-    # => #<Iso::Country::Country:0x007f93439c8c30>
+    # => #<Iso::I3316::Country:0x007f93439c8c30>
 
 You can return an array of multiple countries:
 
@@ -47,7 +47,7 @@ There is also a ::where method that will do it's best to find what you're lookin
 
 Support for country as a Mongoid field type is included
 
-    field :country, type: Iso::Country::Country
+    field :country, type: Iso::I3316::Country
 
 You could then
 
