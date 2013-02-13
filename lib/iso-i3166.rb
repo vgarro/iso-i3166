@@ -10,12 +10,12 @@ require 'i3166/instance'
 require 'i3166/mongoid'
 
 module Iso
-  module I3316
-    include Iso::I3316::Exceptions
-    include Iso::I3316::Data
+  module I3166
+    include Iso::I3166::Exceptions
+    include Iso::I3166::Data
 
     class Country
-      include Iso::I3316::InstanceMethods
+      include Iso::I3166::InstanceMethods
 
       @countries = {}
 
@@ -27,18 +27,18 @@ module Iso
         country.id
       end
 
-      Iso::I3316::Data::DICTIONARY[:countries].each do |c|
+      Iso::I3166::Data::DICTIONARY[:countries].each do |c|
         localizations = {}
-        if Iso::I3316::Data::DICTIONARY[:localizations][c['alpha-2']]
-          localizations = Iso::I3316::Data::DICTIONARY[:localizations][c['alpha-2']].inject({}){|memo, (k,v)| memo[k.to_sym] = v; memo}
+        if Iso::I3166::Data::DICTIONARY[:localizations][c['alpha-2']]
+          localizations = Iso::I3166::Data::DICTIONARY[:localizations][c['alpha-2']].inject({}){|memo, (k,v)| memo[k.to_sym] = v; memo}
         end
 
         country = Country.new(c['alpha-2'], c['alpha-3'], c['numeric'], localizations)
         @countries[country.id] = country
       end
 
-      extend Iso::I3316::Finders
-      include Iso::I3316::Mongoid
+      extend Iso::I3166::Finders
+      include Iso::I3166::Mongoid
     end
   end
 end

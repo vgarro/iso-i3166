@@ -1,5 +1,5 @@
 module Iso
-  module I3316
+  module I3166
     module InstanceMethods
       attr_reader :id, :alpha2, :alpha3, :numeric
 

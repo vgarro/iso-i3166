@@ -1,5 +1,5 @@
 module Iso
-  module I3316
+  module I3166
     module Data
       CORE_FILE = File.expand_path(File.join(File.dirname(__FILE__), 'data', 'ISO_3166-1.counties.core.json'))
       I18N_FILE = File.expand_path(File.join(File.dirname(__FILE__), 'data', 'ISO_3166-1.countries.i18n.json'))

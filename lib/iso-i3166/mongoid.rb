@@ -1,5 +1,5 @@
 module Iso
-  module I3316
+  module I3166
     module Mongoid
       def mongoize
         id
