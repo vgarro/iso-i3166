@@ -1,13 +1,14 @@
 #ISO-I3166
 
-The iso-i3166 gem helps you manage country data, without needing rely on a database.
+The iso-i3166 gem helps you manage country and state data without needing rely on a database.
 
-It uses values from the ISO 3166-1 standard for country codes and ISO 3361-2 for locality.
-The data can be localized, making it easy to present country names correctly for a given local (eg Spain vs España)
+It uses values from the ISO 3166-1 standard for country codes and ISO 3166-2 for locality.
+The data can be localized, making it easy to present country and state names correctly for a given local or country (eg Spain vs España)
+Additionally gives helpfull finders to normalize user input data into iso standards. 
 
 ## Usage
 
-Once the gem is loaded it provides pure Ruby instances of the countries listed in the source data .json file. Countries are primarily referenced using a symbol of their ISO 3166-1 Alpha-2 two-character country code:
+Once the gem is loaded it provides pure Ruby instances of the countries and states listed in the source data .json files. Countries are primarily referenced using a symbol of their ISO 3166-1 Alpha-2 two-character country code:
 
     sample_codes = [:us, :gb, :ru]
 
