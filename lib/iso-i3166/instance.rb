@@ -7,7 +7,7 @@ module Iso
         @id = alpha2.downcase.to_sym
         @alpha2 = alpha2
         @alpha3 = alpha3
-        @numeric = numeric.to_i
+        @numeric = numeric
         @localizedNames = localizedNames
       end
 

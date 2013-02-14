@@ -1,7 +1,7 @@
 module Iso
   module I3166
     module Data
-      CORE_FILE_C = File.expand_path(File.join(File.dirname(__FILE__), 'data', 'ISO_3166-1.counties.core.json'))
+      CORE_FILE_C = File.expand_path(File.join(File.dirname(__FILE__), 'data', 'ISO_3166-1.countries.core.json'))
       I18N_FILE_C = File.expand_path(File.join(File.dirname(__FILE__), 'data', 'ISO_3166-1.countries.i18n.json'))
 
       CORE_FILE_S = File.expand_path(File.join(File.dirname(__FILE__), 'data', 'ISO_3166-2.states.core.json'))

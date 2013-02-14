@@ -2,7 +2,7 @@ module Iso
   module I3166
     module Finders
       def all
-        @countries.values || {}
+        @entries.values || {}
       end
 
       def find(*args)
@@ -30,11 +30,11 @@ module Iso
       end
 
       def find_one(id)
-        unless @countries[id]
+        unless @entries[id]
           raise CountryNotFound, "Couldn't find Country with id=#{id}"
         end
 
-        @countries[id]
+        @entries[id]
       end
 
       def find_some(ids)
@@ -64,22 +64,22 @@ module Iso
       end
 
       def find_with_alpha2(alpha2)
-        all.find {|country| country.alpha2 == alpha2.to_s.upcase }
+        all.find {|entry| entry.alpha2 == alpha2.to_s.upcase }
       end
 
       def find_with_alpha3(alpha3)
-        all.find {|country| country.alpha3 == alpha3.to_s.upcase }
+        all.find {|entry| entry.alpha3 == alpha3.to_s.upcase }
       end
 
       def find_with_numeric(numeric)
-        all.find {|country| country.numeric == numeric.to_i }
+        all.find {|entry| entry.numeric.upcase == numeric.upcase }
       end
 
       def find_with_name(name, locale = nil)
         if !locale
-          all.find {|country| country.names.values.include?(name) }
+          all.find {|entry| puts "entry.names #{entry.names.values}" ; entry.names.values.include?(name) }
         else
-          all.find {|country| country.names[locale] == name }
+          all.find {|entry| entry.names[locale] == name }
         end
       end
     end
