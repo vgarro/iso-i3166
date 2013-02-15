@@ -3,23 +3,23 @@ module Iso
     module InstanceMethods
       attr_reader :id, :alpha2, :alpha3, :numeric
 
-      def initialize(alpha2, alpha3, numeric, localizedNames = {})
-        @id = alpha2.downcase.to_sym
+      def initialize(alpha2, alpha3, numeric, localized_names = {})
+        @id = (alpha2.downcase + '_' + numeric.to_s).to_sym
         @alpha2 = alpha2
         @alpha3 = alpha3
         @numeric = numeric
-        @localizedNames = localizedNames
+        @localized_names = localized_names
       end
 
       def names
-        @localizedNames
+        @localized_names
       end
 
       def name(locale = :en)
-        if @localizedNames.empty?
+        if @localized_names.empty?
           "#{alpha3} (#{"%03d" % numeric})"
         else
-          @localizedNames[locale]
+          @localized_names[locale]
         end
       end
 
@@ -30,7 +30,7 @@ module Iso
       end
 
       def inspect
-        __to_s()
+        { id: @id, name: names, alpha2: @alpha2, alpha3: @alpha3, numeric: @numeric }
       end
     end
   end

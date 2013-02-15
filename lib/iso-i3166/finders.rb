@@ -41,6 +41,7 @@ module Iso
         ids.map {|id| find_one(id) }
       end
 
+      ## TODO: Make this search method better
       def where(opts)
         if opts.is_a?(Array) || opts.is_a?(Symbol)
           find(opts)
@@ -77,10 +78,14 @@ module Iso
 
       def find_with_name(name, locale = nil)
         if !locale
-          all.find {|entry| puts "entry.names #{entry.names.values}" ; entry.names.values.include?(name) }
+          all.find {|entry| entry.names.values.include?(name) }
         else
           all.find {|entry| entry.names[locale] == name }
         end
+      end
+
+      def find_by_name_with_country(name, alpha2)
+        all.find {|entry| entry.names.values.include?(name) && entry.alpha2 == alpha2 }
       end
     end
   end

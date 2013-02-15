@@ -17,6 +17,16 @@ The easiest way to access a country's object instance is with the ::find method:
     Iso::I3166::Country.find(:us)
     # => #<Iso::I3166::Country:0x007f93439c8c30>
 
+The easiest way to access a state object instance is with the
+::find_by_name_with_country method, in which case please suply a country
+argument. This is helpful for duplicated state/province names in
+different countries. (Central, Western, Eastern,  Northern,  Saint
+George,  Distrito Federal,  Amazonas,  Saint David, and so on)
+   
+     Iso::I3166::State.find_by_name_with_country('Western', 'GH' )
+    # => #<Iso::I3166::Country:0x007f93439c8c30>
+   
+
 You can return an array of multiple countries:
 
     Country.find(:us, :gb, :ru)
@@ -71,7 +81,7 @@ A future version of the gem will include a form helper
 - When there's a default locale (eg in a rails app) use that
 - Support for long and short names in localizations
 - Better searching for partial name matches
-
+- Better serach at all
 
 ## License
 

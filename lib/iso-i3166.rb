@@ -53,14 +53,13 @@ module Iso
         entry.id
       end
 
-      Iso::I3166::Data::STATE_DICTIONARY[:states].each do |c|
-        localizations = {}
-        if Iso::I3166::Data::STATE_DICTIONARY[:localizations][c['alpha-2']]
-          localizations = Iso::I3166::Data::STATE_DICTIONARY[:localizations][c['alpha-2']].inject({}){|memo, (k,v)| memo[k.to_sym] = v; memo}
+      states = Iso::I3166::Data::STATE_DICTIONARY[:states]
+      localizations = Iso::I3166::Data::STATE_DICTIONARY[:localizations]
+      states.each do | s |
+          s[1].each_index do |index|
+            entry = State.new(s[0], nil, s[1][index], localizations[s[0]][index].inject({}){|memo, (k,v)| memo[k.to_sym] = v; memo})
+            @entries[entry.id] = entry
         end
-
-        entry = State.new(c['alpha-2'], nil, c['numeric'], localizations)
-        @entries[entry.id] = entry
       end
 
       extend Iso::I3166::Finders
