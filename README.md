@@ -24,7 +24,7 @@ different countries. (Central, Western, Eastern,  Northern,  Saint
 George,  Distrito Federal,  Amazonas,  Saint David, and so on)
    
      Iso::I3166::State.find_by_name_with_country('Western', 'GH' )
-    # => #<Iso::I3166::Country:0x007f93439c8c30>
+    # => #<Iso::I3166::State:0x007f93439c8c30>
    
 
 You can return an array of multiple countries:
@@ -43,6 +43,10 @@ This will search all localizations, but the input must be an exact match. If you
 
     Country.find_with_name("España", :es)
 
+This will search all localizations, but specificing a country 
+    
+    State.find_by_name_with_country('Western', 'GH' )
+
 There is also a ::where method that will do it's best to find what you're looking for
 
     Country.where(:us)
@@ -53,6 +57,7 @@ There is also a ::where method that will do it's best to find what you're lookin
     Country.where(alpha2: :ru)
     Country.where(alpha3: :gbr)
     Country.where(numeric: 100)
+    State.where('Western')
 
 ## Mongoid
 
