@@ -43,6 +43,9 @@ module Iso
 
       ## TODO: Make this search method better
       def where(opts)
+        opts.strip! if opts.is_a?(String)
+        return if opts.nil? or opts.empty?
+
         if opts.is_a?(Array) || opts.is_a?(Symbol)
           find(opts)
         elsif opts.is_a?(String) && opts.length == 2
@@ -78,14 +81,14 @@ module Iso
 
       def find_with_name(name, locale = nil)
         if !locale
-          all.find {|entry| entry.names.values.include?(name) }
+          all.find {|entry| entry.names.values.index{|v| v.upcase == name.upcase} != nil }
         else
-          all.find {|entry| entry.names[locale] == name }
+          all.find {|entry| entry.names[locale].upcase == name.upcase }
         end
       end
 
       def find_by_name_with_country(name, alpha2)
-        all.find {|entry| entry.names.values.include?(name) && entry.alpha2 == alpha2 }
+        all.find {|entry| entry.names.values.index{|v| v.upcase == name.upcase} != nil && entry.alpha2 == alpha2 }
       end
     end
   end
